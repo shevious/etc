@@ -6,12 +6,17 @@ http://edx.readthedocs.io/projects/edx-installing-configuring-and-running/en/lat
 
 windows
 -------
-1. Microsoft Visual C++ 2010 재배포 가능 패키지(x64 및 x86)  설치
-  https://www.microsoft.com/ko-kr/download/details.aspx?id=14632  
-  https://www.microsoft.com/ko-kr/download/confirmation.aspx?id=5555  
+1. Microsoft Visual C++ 2010 재배포 가능 패키지(x64 및 x86)  설치  
+https://www.microsoft.com/ko-kr/download/details.aspx?id=14632  
+https://www.microsoft.com/ko-kr/download/confirmation.aspx?id=5555  
 2. 관리자 모드로 cmd창 실행
-  검색창 -> cmd 입력 -> 명령 프롬프트 실행 아이콘에 우클릭 후 관리자 권한으로 실행  
+검색창 -> cmd 입력 -> 명령 프롬프트 실행 아이콘에 우클릭 후 관리자 권한으로 실행  
     cd \
+    mkdir fullstack
+    cd fullstack
+    C:\HashiCorp\Vagrant\embedded\bin\curl -L -k https://raw.githubusercontent.com/edx/configuration/master/vagrant/release/fullstack/Vagrantfile > Vagrantfile
+
+    vagrant plugin install vagrant-hostsupdater
     vagrant up
   (설치 시간 약 20~30분)  
 3. 웹페이지 확인 (ie나 크롬에서 확인, 크롬 권장)
