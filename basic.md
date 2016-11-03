@@ -13,14 +13,14 @@ https://www.microsoft.com/ko-kr/download/confirmation.aspx?id=5555
 2. 관리자 모드로 cmd창 실행  
 검색창 -> cmd 입력 -> 명령 프롬프트 실행 아이콘에 우클릭 후 관리자 권한으로 실행  
 
-    $ cd \
-    mkdir fullstack
-    cd fullstack
-    C:\HashiCorp\Vagrant\embedded\bin\curl -L -k https://raw.githubusercontent.com/edx/configuration/master/vagrant/release/fullstack/Vagrantfile > Vagrantfile
+    cd \  
+    mkdir fullstack  
+    cd fullstack  
+    C:\HashiCorp\Vagrant\embedded\bin\curl -L -k https://raw.githubusercontent.com/edx/configuration/master/vagrant/release/fullstack/Vagrantfile > Vagrantfile  
 
-    vagrant plugin install vagrant-hostsupdater
+    vagrant plugin install vagrant-hostsupdater  
 
-    vagrant up
+    vagrant up  
 
 (설치 시간 약 20~30분)  
 
