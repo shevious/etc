@@ -1,10 +1,10 @@
 
 # install open edx fullstack
 
-## mac  
+## mac
 http://edx.readthedocs.io/projects/edx-installing-configuring-and-running/en/latest/installation/fullstack/install_fullstack.html  
 
-## windows  
+## windows
 
 1. Microsoft Visual C++ 2010 재배포 가능 패키지(x64 및 x86)  설치
 
