@@ -15,14 +15,8 @@ http://edx.readthedocs.io/projects/edx-installing-configuring-and-running/en/lat
 
   검색창 -> cmd 입력 -> 명령 프롬프트 실행 아이콘에 우클릭 후 관리자 권한으로 실행  
 
-    cd \  
-    mkdir fullstack  
-    cd fullstack  
-    C:\HashiCorp\Vagrant\embedded\bin\curl -L -k https://raw.githubusercontent.com/edx/configuration/master/vagrant/release/fullstack/Vagrantfile > Vagrantfile  
-
-    vagrant plugin install vagrant-hostsupdater  
-
-    vagrant up  
+    cd \
+    vagrant up
 
   (설치 시간 약 20~30분)  
 
