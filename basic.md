@@ -1,5 +1,5 @@
 
-1. install open edx fullstack
+# install open edx fullstack
 
 mac:
 http://edx.readthedocs.io/projects/edx-installing-configuring-and-running/en/latest/installation/fullstack/install_fullstack.html
