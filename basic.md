@@ -8,8 +8,8 @@ windows
 -------
 1. Microsoft Visual C++ 2010 재배포 가능 패키지(x64 및 x86)  설치
 
-https://www.microsoft.com/ko-kr/download/details.aspx?id=14632  
-https://www.microsoft.com/ko-kr/download/confirmation.aspx?id=5555  
+ https://www.microsoft.com/ko-kr/download/details.aspx?id=14632  
+ https://www.microsoft.com/ko-kr/download/confirmation.aspx?id=5555  
 
 2. 관리자 모드로 cmd창 실행
 
