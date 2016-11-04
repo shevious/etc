@@ -40,5 +40,7 @@ https://openedx.atlassian.net/wiki/pages/viewpage.action?spaceKey=ENG&title=PyCh
 회원가입필요
 
 # GIT
-
-https://rogerdudler.github.io/git-guide/index.ko.html
+git - 간편 안내서  
+https://rogerdudler.github.io/git-guide/index.ko.html  
+svn 능력자를 위한 git 개념 가이드  
+http://www.slideshare.net/einsub/svn-git-17386752  
