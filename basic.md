@@ -33,3 +33,8 @@ windows
   http://192.168.33.10:18010  
 
   관리자 id/password: staff@example.com  / edx  
+
+# devstack with PyCharm
+
+https://openedx.atlassian.net/wiki/pages/viewpage.action?spaceKey=ENG&title=PyCharm  
+회원가입필요
