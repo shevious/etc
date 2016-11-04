@@ -19,4 +19,6 @@ By default the Django Default Toolbar is disabled. To enable it set the environm
 Alternatively, you can launch the server using:
 
         $ ENABLE_DJANGO_TOOLBAR=1 ./manage.py runserver
+        
+5. test
 
