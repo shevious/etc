@@ -38,3 +38,7 @@ windows
 
 https://openedx.atlassian.net/wiki/pages/viewpage.action?spaceKey=ENG&title=PyCharm  
 회원가입필요
+
+# GIT
+
+https://rogerdudler.github.io/git-guide/index.ko.html
