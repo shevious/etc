@@ -51,4 +51,5 @@ https://www.djangoproject.com/download/
 
 ## tips
 ALLOWED_HOSTS for all ip address  
+
          ALLOWED_HOSTS = ['*']
