@@ -53,3 +53,6 @@ https://www.djangoproject.com/download/
 ALLOWED_HOSTS for all ip address  
 
          ALLOWED_HOSTS = ['*']
+
+## log-in
+https://simpleisbetterthancomplex.com/tutorial/2016/06/27/how-to-use-djangos-built-in-login-system.html  
