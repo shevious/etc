@@ -49,3 +49,6 @@ http://www.slideshare.net/einsub/svn-git-17386752
 ## Latest version of Django
 https://www.djangoproject.com/download/  
 
+## tips
+ALLOWED_HOSTS for all ip address  
+         ALLOWED_HOSTS = ['*']
