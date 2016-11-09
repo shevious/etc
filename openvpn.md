@@ -60,11 +60,11 @@
 4. copy key files  (server)  
    from easy_rsa\key, sample_config to config folder
 
-       ca.crt
-       dh1024.pem
-       server.crt
-       server.key
-       server.ovpn    
+        ca.crt
+        dh1024.pem
+        server.crt
+        server.key
+        server.ovpn    
 
 5. server.ovpn
 
