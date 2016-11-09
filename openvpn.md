@@ -70,7 +70,7 @@
       
 5. edit server.ovpn  
   
-       a;dh dh2048.pem
+       dh dh2048.pem ->
        dh dh1024.pem
 
 6. connect to check server  
