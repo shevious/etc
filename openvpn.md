@@ -75,24 +75,24 @@
         ;explicit-exit-notify 1   // why?
         explicit-exit-notify 0
 
-6. connect to check server
-  if error occurs, see log menu.
+6. connect to check server  
+   if error occurs, see log menu.
 7. copy key files (client)  to config folder
 
-       ca.crt
-       client1.crt
-       client2.key
-       client.ovpn
+        ca.crt
+        client1.crt
+        client2.key
+        client.ovpn
 
 8. client.ovpn  
-  edit config/client.ovpn
-  
-       ;remote my-server-1 1194
-       remote 192.168.33.10 1194
-       ;cert client.crt
-       cert client1.crt
-       ;key client.key
-       key client1.key
+   edit config/client.ovpn
+
+        ;remote my-server-1 1194
+        remote 192.168.33.10 1194
+        ;cert client.crt
+        cert client1.crt
+        ;key client.key
+        key client1.key
 
 ## OpenVPN routing
 
