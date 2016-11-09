@@ -3,11 +3,9 @@
 1. 다운로드  
   https://openvpn.net/index.php/open-source/downloads.html  
   Installer (64-bit), Windows Vista and later
-  
 2. 설치 (서버)
   OpenSSH Utilities 체크  
   OpenVPN RSA Certificates Management Script 체크  
-
 3. 인증서 설정 (서버)  
   https://openvpn.net/index.php/open-source/documentation/howto.html#pki  
   run cmd as adminitrator
@@ -68,7 +66,6 @@
       server.key
       server.ovpn    
 
-
 6. server.ovpn  
   use noteapd++
 
@@ -80,8 +77,7 @@
       explicit-exit-notify 0
 
 6. connect to check server  
-  if error occurs, see log menu.  
-
+  if error occurs, see log menu.
 7. copy key files (client)  
   to config folder
   
