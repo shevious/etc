@@ -59,7 +59,7 @@
       
       build-dh
 
-4. copy key files  (server)
+4. copy key files  (server)  
   from easy_rsa\key, sample_config to config folder
   
       ca.crt
@@ -68,7 +68,7 @@
       server.key
       server.ovpn
       
-5. edit server.ovpn  
+5. edit server.ovpn
 
        ;dh dh2048.pem
        dh dh1024.pem
