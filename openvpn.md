@@ -23,7 +23,7 @@
       Locality Name (eg, city) [SanFrancisco]:
       Organization Name (eg, company) [OpenVPN]:
       Organizational Unit Name (eg, section) [changeme]:
-      Common Name (eg, your name or your server's hostname) [changeme]: OpenVPN-KOTECH
+      Common Name (eg, your name or your server's hostname) [changeme]: OpenVPN-KO
       Name [changeme]:
       Email Address [mail@host.domain]:
       
