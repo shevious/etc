@@ -68,7 +68,7 @@
       server.key
       server.ovpn
       
-5. edit server.ovpn
+5. edit server.ovpn  
   
        a;dh dh2048.pem
        dh dh1024.pem
