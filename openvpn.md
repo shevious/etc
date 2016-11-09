@@ -97,3 +97,36 @@
        cert client1.crt
        ;key client.key
        key client1.key
+
+## OpenVPN routing
+
+server.ovpn:
+
+    ;push "route 192.168.33.12 255.255.255.255"
+    push "redirect-gateway def1 bypass-dhcp" 
+
+Windows 10:  
+https://forums.openvpn.net/viewtopic.php?t=20765  
+
+Start -> Right-click My Computer -> Manage
+Services
+Right-click Routing and Remote Access -> Properties -> Automatic
+Right-click Routing and Remote Access -> Start
+
+Next:
+
+Control Panel
+Network and Sharing Center
+Local Area Connection
+Properties
+Sharing
+Tick the box "Allow other network users to connect through this computer's Internet connection"
+From the drop-down list select "Local Area Connection 2", or whatever is the connection name of your TAP server connection.
+
+regedit
+
+Key: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters
+Value: IPEnableRouter
+Type: REG_DWORD
+Data: 0x00000001 (1)
+
