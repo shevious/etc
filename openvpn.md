@@ -85,7 +85,6 @@
         client.ovpn
 
 8. client.ovpn  
-   edit config/client.ovpn
 
         ;remote my-server-1 1194
         remote 192.168.33.10 1194
