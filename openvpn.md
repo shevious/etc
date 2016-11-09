@@ -68,27 +68,27 @@
       server.key
       server.ovpn    
 
-5. sdfsdf  
-  
-       sdfsdf
 
 6. edit server.ovpn  
-  
-       dh dh2048.pem ->
-       dh dh1024.pem
+  use noteapd++
+
+      ;dh dh2048.pem
+      dh dh1024.pem
 
 6. connect to check server  
   if error occurs, see log menu.  
 
 7. copy key files (client)  
-
-       ca.crt
-       client1.crt
-       client2.key
-       client.ovpn
+  -
+  
+      ca.crt
+      client1.crt
+      client2.key
+      client.ovpn
 
 8. edit client.ovpn  
-
+  -
+  
        ;remote my-server-1 1194
        remote 192.168.33.10 1194
        ;cert client.crt
