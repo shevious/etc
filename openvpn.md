@@ -18,11 +18,41 @@
       clean-all
       build-ca
 
-      Country Name (2 letter code) [US]:KR
+      Country Name (2 letter code) [US]:
       State or Province Name (full name) [CA]:
       Locality Name (eg, city) [SanFrancisco]:
       Organization Name (eg, company) [OpenVPN]:
       Organizational Unit Name (eg, section) [changeme]:
-      Common Name (eg, your name or your server's hostname) [changeme]:
+      Common Name (eg, your name or your server's hostname) [changeme]: OpenVPN-KOTECH
       Name [changeme]:
       Email Address [mail@host.domain]:
+      
+      build-key-server server
+
+      Country Name (2 letter code) [US]:
+      State or Province Name (full name) [CA]:
+      Locality Name (eg, city) [SanFrancisco]:
+      Organization Name (eg, company) [OpenVPN]:
+      Organizational Unit Name (eg, section) [changeme]:
+      Common Name (eg, your name or your server's hostname) [changeme]:server
+      Name [changeme]:
+      Email Address [mail@host.domain]:
+      A challenge password []:
+      An optional company name []:
+      Sign the certificate? [y/n]:y
+      1 out of 1 certificate requests certified, commit? [y/n]y
+      Country Name (2 letter code) [US]:
+
+      build-key client1    
+      
+      State or Province Name (full name) [CA]:
+      Locality Name (eg, city) [SanFrancisco]:
+      Organization Name (eg, company) [OpenVPN]:
+      Organizational Unit Name (eg, section) [changeme]:
+      Common Name (eg, your name or your server's hostname) [changeme]:client1
+      Name [changeme]:
+      Email Address [mail@host.domain]:
+      
+      
+      
+      
