@@ -74,6 +74,8 @@
 
       ;dh dh2048.pem
       dh dh1024.pem
+      ;explicit-exit-notify 1   // why?
+      explicit-exit-notify 0
 
 6. connect to check server  
   if error occurs, see log menu.  
