@@ -69,7 +69,7 @@
       server.ovpn    
 
 
-6. edit server.ovpn  
+6. server.ovpn  
   use noteapd++
 
       ;dh dh2048.pem
@@ -79,15 +79,15 @@
   if error occurs, see log menu.  
 
 7. copy key files (client)  
-  -
+  to config folder
   
       ca.crt
       client1.crt
       client2.key
       client.ovpn
 
-8. edit client.ovpn  
-  -
+8. client.ovpn  
+  edit config/client.ovpn
   
        ;remote my-server-1 1194
        remote 192.168.33.10 1194
