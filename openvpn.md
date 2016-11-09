@@ -74,16 +74,16 @@
        dh dh1024.pem
 
 6. connect to check server  
-  if error occurs, see log menu.
+  if error occurs, see log menu.  
 
-7. copy key files (client)
+7. copy key files (client)  
 
        ca.crt
        client1.crt
        client2.key
        client.ovpn
 
-8. edit client.ovpn
+8. edit client.ovpn  
 
        ;remote my-server-1 1194
        remote 192.168.33.10 1194
