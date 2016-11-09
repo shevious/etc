@@ -67,7 +67,7 @@
       server.crt
       server.key
       server.ovpn
-      
+
 5. edit server.ovpn  
   
        dh dh2048.pem ->
