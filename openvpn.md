@@ -74,6 +74,8 @@
 
       ;dh dh2048.pem
       dh dh1024.pem
+      ;duplicate-cn             // duplicate common name for multiple client with same certificate
+      duplicate-cn
       ;explicit-exit-notify 1   // why?
       explicit-exit-notify 0
 
