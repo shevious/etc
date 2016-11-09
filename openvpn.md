@@ -66,25 +66,23 @@
       server.key
       server.ovpn    
 
-6. server.ovpn  
-  use noteapd++
+6. server.ovpn
 
-      ;dh dh2048.pem
-      dh dh1024.pem
-      ;duplicate-cn             // duplicate common name for multiple client with same certificate
-      duplicate-cn
-      ;explicit-exit-notify 1   // why?
-      explicit-exit-notify 0
+       ;dh dh2048.pem
+       dh dh1024.pem
+       ;duplicate-cn             // duplicate common name for multiple client with same certificate
+       duplicate-cn
+       ;explicit-exit-notify 1   // why?
+       explicit-exit-notify 0
 
-6. connect to check server  
+5. connect to check server  
   if error occurs, see log menu.
-7. copy key files (client)  
-  to config folder
-  
-      ca.crt
-      client1.crt
-      client2.key
-      client.ovpn
+7. copy key files (client)  to config folder
+
+       ca.crt
+       client1.crt
+       client2.key
+       client.ovpn
 
 8. client.ovpn  
   edit config/client.ovpn
