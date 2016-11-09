@@ -57,8 +57,8 @@
       
       build-dh
 
-4. copy key files  (server)
-  from easy_rsa\key, sample_config to config folder
+4. copy key files  (server)  
+   from easy_rsa\key, sample_config to config folder
 
        ca.crt
        dh1024.pem
