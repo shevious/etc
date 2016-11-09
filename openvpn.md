@@ -8,7 +8,7 @@
   OpenSSH Utilities 체크  
   OpenVPN RSA Certificates Management Script 체크  
 
-3. 인증서 설정 (서버)
+3. 인증서 설정 (서버)  
   https://openvpn.net/index.php/open-source/documentation/howto.html#pki  
   run cmd as adminitrator
   
