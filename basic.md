@@ -78,3 +78,8 @@ mysite/settings.py
         }
     }
 
+In virtualenv,
+
+    pip install mysqlclient
+
+Then migrate. 
