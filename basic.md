@@ -11,7 +11,7 @@ windows
  https://www.microsoft.com/ko-kr/download/details.aspx?id=14632  
  https://www.microsoft.com/ko-kr/download/confirmation.aspx?id=5555  
 
-2. 관리자 모드로 cmd창 실행
+1. 관리자 모드로 cmd창 실행
 
   검색창 -> cmd 입력 -> 명령 프롬프트 실행 아이콘에 우클릭 후 관리자 권한으로 실행  
 
