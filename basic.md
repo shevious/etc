@@ -70,7 +70,7 @@ mysite/settings.py
     #        'ENGINE': 'django.db.backends.sqlite3',
     #        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
             'ENGINE': 'django.db.backends.mysql',
-            'NAME': 'mysql',
+            'NAME': 'myproject',
             'USER': 'root',
             'PASSWORD': '',
             'HOST': 'localhost',
@@ -78,8 +78,13 @@ mysite/settings.py
         }
     }
 
-In virtualenv,
+In virtualenv, install mysqlclient.
 
     pip install mysqlclient
+
+Create database.
+
+    mysql -u root -p
+    CREATE DATABASE myproject CHARACTER SET UTF8;
 
 Then migrate. 
