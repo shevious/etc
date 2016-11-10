@@ -96,4 +96,8 @@ http://stackoverflow.com/questions/22830689/invalid-queryset-dates-despite-havin
     mysql_tzinfo_to_sql /usr/share/zoneinfo | mysql -D mysql -u root -p
     mysql -u root -p -e "flush tables;" mysql 
 
+In vertualenv,
+
+    pip install pytz
+
 
