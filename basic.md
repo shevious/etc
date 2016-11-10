@@ -88,3 +88,12 @@ Create database.
     CREATE DATABASE myproject CHARACTER SET UTF8;
 
 Then migrate. 
+
+## Django TIME-ZONE error
+http://stackoverflow.com/questions/21351251/database-returned-an-invalid-value-in-queryset-dates  
+http://stackoverflow.com/questions/22830689/invalid-queryset-dates-despite-having-pytz-and-mysql-timezones
+
+    mysql_tzinfo_to_sql /usr/share/zoneinfo | mysql -D mysql -u root -p
+    mysql -u root -p -e "flush tables;" mysql 
+
+
