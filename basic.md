@@ -56,3 +56,25 @@ ALLOWED_HOSTS for all ip address
 
 ## log-in
 https://simpleisbetterthancomplex.com/tutorial/2016/06/27/how-to-use-djangos-built-in-login-system.html  
+
+# MySQL connection with django
+Install systemm packages  
+https://www.digitalocean.com/community/tutorials/how-to-use-mysql-or-mariadb-with-your-django-application-on-ubuntu-14-04
+
+    sudo apt-get install python-dev libmysqlclient-dev
+
+mysite/settings.py
+
+    DATABASES = {
+        'default': {
+    #        'ENGINE': 'django.db.backends.sqlite3',
+    #        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+            'ENGINE': 'django.db.backends.mysql',
+            'NAME': 'mysql',
+            'USER': 'root',
+            'PASSWORD': '',
+            'HOST': 'localhost',
+            'PORT': '3306',
+        }
+    }
+
