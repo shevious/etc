@@ -103,4 +103,4 @@ In vertualenv,
 ## Date url meanging
 http://stackoverflow.com/questions/14817782/what-does-w-mean-in-a-python-regular-expression  
 
-
+    url(r'^(?P<year>[0-9]{4})/(?P<month>[-\w]+)/(?P<day>[0-9]+)/$',
