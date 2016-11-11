@@ -127,3 +127,11 @@ http://stackoverflow.com/questions/14817782/what-does-w-mean-in-a-python-regular
         <li>{{ article.pub_date|date:"Y/M/d" }}: {{ article.title }}</li>
     {% endfor %}
     {% endlanguage %}
+
+output:
+
+    2016/11/11: default title
+    2016-11-11: default title
+    2016년 11월 11일: default title
+    Nov. 11, 2016: default title
+    2016/Nov/11: default title
