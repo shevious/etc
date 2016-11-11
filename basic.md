@@ -100,4 +100,7 @@ In vertualenv,
 
     pip install pytz
 
+## Date url meanging
+http://stackoverflow.com/questions/14817782/what-does-w-mean-in-a-python-regular-expression  
+
 
