@@ -104,3 +104,26 @@ In vertualenv,
 http://stackoverflow.com/questions/14817782/what-does-w-mean-in-a-python-regular-expression  
 
     url(r'^(?P<year>[0-9]{4})/(?P<month>[-\w]+)/(?P<day>[0-9]+)/$',
+    
+## change Django template language code
+
+    {% load l10n %}
+    {% load i18n %}
+    {% for article in object_list %}
+        <li>{{ article.pub_date|date:"Y/m/d" }}: {{ article.title }}</li>
+    {% endfor %}
+
+    {% for article in object_list %}
+        <li>{{ article.pub_date|unlocalize }}: {{ article.title }}</li>
+    {% endfor %}
+    {% for article in object_list %}
+        <li>{{ article.pub_date }}: {{ article.title }}</li>
+    {% endfor %}
+    {% language 'en' %}
+    {% for article in object_list %}
+        <li>{{ article.pub_date }}: {{ article.title }}</li>
+    {% endfor %}
+    {% for article in object_list %}
+        <li>{{ article.pub_date|date:"Y/M/d" }}: {{ article.title }}</li>
+    {% endfor %}
+    {% endlanguage %}
