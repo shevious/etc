@@ -11,7 +11,7 @@ http://jijs.tistory.com/entry/Maven-Tomcat-plugin-%EC%84%A4%EC%B9%98-%EB%B0%8F-%
   https://eclipse.org/downloads/eclipse-packages/  
 4. Install Maven
 
-        echo %JAVA_HOME%
-        C:\Program Files\Java\jdk1.8.0_111
+       echo %JAVA_HOME%
+       C:\Program Files\Java\jdk1.8.0_111
        
        
