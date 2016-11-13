@@ -14,7 +14,7 @@ http://jijs.tistory.com/entry/Maven-Tomcat-plugin-%EC%84%A4%EC%B9%98-%EB%B0%8F-%
         echo %JAVA_HOME%
         C:\Program Files\Java\jdk1.8.0_111
        
-  Extract files to c:\maven, and add the c:\maven\bin to PATH variable
+  Extract files to c:\maven, and add the c:\maven\bin to PATH variable  
 
         C:\Users\vagrant>mvn -v
         Apache Maven 3.3.9 (bb52d8502b132ec0a5a3f4c09453c07478323dc5; 2015-11-11T01:41:47+09:00)
