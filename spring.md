@@ -25,4 +25,6 @@ http://jijs.tistory.com/entry/Maven-Tomcat-plugin-%EC%84%A4%EC%B9%98-%EB%B0%8F-%
       Default locale: ko_KR, platform encoding: MS949
       OS name: "windows 10", version: "10.0", arch: "amd64", family: "dos"
 
-        
+5. Install Maven plugin for Eclipse  
+  http://stackoverflow.com/questions/8620127/maven-in-eclipse-step-by-step-installation  
+  
