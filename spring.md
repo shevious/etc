@@ -27,5 +27,6 @@ http://addio3305.tistory.com/32
       OS name: "windows 10", version: "10.0", arch: "amd64", family: "dos"
 
 5. Install Maven plugin for Eclipse  
+  In recent version of Eclipse Java EE, it is already installed.  
   http://stackoverflow.com/questions/8620127/maven-in-eclipse-step-by-step-installation  
   
