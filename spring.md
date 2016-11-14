@@ -30,7 +30,7 @@ http://addio3305.tistory.com/32
   In recent version of Eclipse Java EE, it is already installed.  
   http://stackoverflow.com/questions/8620127/maven-in-eclipse-step-by-step-installation  
 6. Spring Tool Suite (STS) for Eclipse  
-  Select all with required.
+  Select all with required.  
   Select Spring IDE Maven Support with no required tag.
   
 # Spring MVC login
