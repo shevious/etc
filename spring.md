@@ -8,7 +8,7 @@ http://addio3305.tistory.com/32
 2. Tomcat 7 with exe  
   http://tomcat.apache.org/download-70.cgi  
   install path c:\tomcat7  
-3. Install Eclipse IDE for Java Developers  
+3. Install Eclipse IDE for Java EE Developers  
   https://eclipse.org/downloads/eclipse-packages/  
 4. Install Maven  
 
