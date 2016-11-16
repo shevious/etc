@@ -10,3 +10,6 @@ http://blog.naver.com/PostView.nhn?blogId=moe61&logNo=150169887527
 
 Spring에서 Session을 이용한 로그인 처리 예제  
 http://mungchung.com/xe/spring/21229  
+
+Spring3 인터셉터와 세션을 이용하여 로그인 처리해보기  
+http://hellogk.tistory.com/90  
