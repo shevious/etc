@@ -13,3 +13,9 @@ http://mungchung.com/xe/spring/21229
 
 Spring3 인터셉터와 세션을 이용하여 로그인 처리해보기  
 http://hellogk.tistory.com/90  
+
+persistent session store in tomcat  
+https://gerrydevstory.com/2013/08/21/tomcat-7-jdbc-session-persistence/  
+
+tomcat 7 official session configuration site  
+http://tomcat.apache.org/tomcat-7.0-doc/config/manager.html  
