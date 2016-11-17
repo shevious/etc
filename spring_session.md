@@ -23,3 +23,18 @@ http://tomcat.apache.org/tomcat-7.0-doc/config/manager.html
 tomcat 7 change session cookie name  
 sessionCookieName attribute for the global context.xml (in CATALINA_BASE/conf/context.xml).  
 http://tomcat.apache.org/migration-7.html#Session_manager_configuration  
+
+set custom session id java  
+http://stackoverflow.com/questions/15947407/set-custom-session-id-java-apache-tomcat  
+
+    public class MySessionManager extends StandardManager {
+
+        @Override
+        protected synchronized String generateSessionId() { 
+            String sessionId = <Your session id generation algo>;
+            return sessionId;
+        }
+    }
+    
+하지만 generateSessionId가 SessionIdGenerator를 이용해서 사용하는 부분도 있음. 소스 추적 필요.  
+
