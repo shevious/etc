@@ -19,3 +19,7 @@ https://gerrydevstory.com/2013/08/21/tomcat-7-jdbc-session-persistence/
 
 tomcat 7 official session configuration site  
 http://tomcat.apache.org/tomcat-7.0-doc/config/manager.html  
+
+tomcat 7 change session cookie name  
+sessionCookieName attribute for the global context.xml (in CATALINA_BASE/conf/context.xml).  
+http://tomcat.apache.org/migration-7.html#Session_manager_configuration  
