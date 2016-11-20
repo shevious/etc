@@ -39,7 +39,7 @@ Installing Tomcat
       0            /usr/lib/jvm/java-8-oracle/jre/bin/java   1081      auto mode
     * 1            /usr/lib/jvm/java-8-oracle/jre/bin/java   1081      manual mode
     
-    $ vi /etc/default/tomcat7
+    $ sudo vi /etc/default/tomcat7
     JAVA_HOME="/usr/lib/jvm/java-8-oracle/jre/"
     
     
