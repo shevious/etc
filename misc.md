@@ -45,7 +45,8 @@ Installing Tomcat
 This tomcat version 7.0.26 is not working with JRE 8  
 https://www.mkyong.com/tomcat/how-to-check-tomcat-version-installed/  
 http://stackoverflow.com/questions/23484098/org-apache-tomcat-util-bcel-classfile-classformatexception-invalid-byte-tag-in  
-
+tomcat log view  
+http://stackoverflow.com/questions/4178605/tomcat-view-catalina-out-log-file  
 
 running tomcat debugging mode  
 https://confluence.sakaiproject.org/display/BOOT/Setting+Up+Tomcat+For+Remote+Debugging  
