@@ -29,7 +29,7 @@ Installing JDK
     Java(TM) SE Runtime Environment (build 1.8.0_111-b14)
     Java HotSpot(TM) 64-Bit Server VM (build 25.111-b14, mixed mode)
     
-Installing Tomcat  
+Installing Tomcat 
 
     $ sudo update-alternatives --config java
     There is 1 choice for the alternative java (providing /usr/bin/java).
@@ -45,5 +45,7 @@ Installing Tomcat
 This tomcat version 7.0.26 is not working with JRE 8  
 https://www.mkyong.com/tomcat/how-to-check-tomcat-version-installed/  
 http://stackoverflow.com/questions/23484098/org-apache-tomcat-util-bcel-classfile-classformatexception-invalid-byte-tag-in  
+
+
 
     
