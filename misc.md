@@ -41,5 +41,9 @@ Installing Tomcat
     
     $ sudo vi /etc/default/tomcat7
     JAVA_HOME="/usr/lib/jvm/java-8-oracle/jre/"
-    
+
+This tomcat version 7.0.26 is not working with JRE 8  
+https://www.mkyong.com/tomcat/how-to-check-tomcat-version-installed/  
+http://stackoverflow.com/questions/23484098/org-apache-tomcat-util-bcel-classfile-classformatexception-invalid-byte-tag-in  
+
     
