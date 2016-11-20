@@ -47,5 +47,18 @@ https://www.mkyong.com/tomcat/how-to-check-tomcat-version-installed/
 http://stackoverflow.com/questions/23484098/org-apache-tomcat-util-bcel-classfile-classformatexception-invalid-byte-tag-in  
 
 
+running tomcat debugging mode  
+https://confluence.sakaiproject.org/display/BOOT/Setting+Up+Tomcat+For+Remote+Debugging  
+
+eclypse how to start/stop remote tomcat server:  
+http://stackoverflow.com/questions/1681017/start-stop-tomcat-using-maven  
+
+tomcat 7 versions for ubuntu 12.04
+7.0.52 debian package  
+http://packages.ubuntu.com/trusty/all/tomcat7/download 
+latest version  
+http://askubuntu.com/questions/339169/how-to-install-tomcat-7-0-42-on-ubuntu-12-04-3-lts  
+
+
 
     
