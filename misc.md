@@ -11,4 +11,4 @@ http://tomcat.apache.org/download-70.cgi
   http://www.oracle.com/technetwork/java/javase/downloads/index.html?ssSourceSiteId=otnjp
 2. check java folders
 
-    cd /Library/Java/JavaVirtualMachines
+        cd /Library/Java/JavaVirtualMachines
