@@ -1,7 +1,7 @@
 #Tomcat 7 source
 ubuntu svn client
 
-    sudo apt-get install subversion
+    $ sudo apt-get install subversion
         
 apache tomcat source  
 http://tomcat.apache.org/download-70.cgi  
@@ -11,11 +11,11 @@ http://tomcat.apache.org/download-70.cgi
   http://www.oracle.com/technetwork/java/javase/downloads/index.html?ssSourceSiteId=otnjp
 2. check java folders
 
-        cd /Library/Java/JavaVirtualMachines
-        ls
+        $ cd /Library/Java/JavaVirtualMachines
+        $ ls
         jdk1.8.0_111.jdk
-        export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home"
-        java -version
+        $ export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home"
+        $ java -version
 
 #Tomcat on ubuntu 12.04
 https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-7-on-ubuntu-14-04-via-apt-get  
@@ -38,5 +38,8 @@ Installing Tomcat
     ------------------------------------------------------------
       0            /usr/lib/jvm/java-8-oracle/jre/bin/java   1081      auto mode
     * 1            /usr/lib/jvm/java-8-oracle/jre/bin/java   1081      manual mode
+    
+    $ vi /etc/default/tomcat7
+    JAVA_HOME="/usr/lib/jvm/java-8-oracle/jre/"
     
     
