@@ -61,6 +61,17 @@ latest version
 http://askubuntu.com/questions/339169/how-to-install-tomcat-7-0-42-on-ubuntu-12-04-3-lts  
 http://tecadmin.net/install-tomcat-7-on-ubuntu  
 
+#GPT key error
+For example,
+
+    $ sudo add-apt-repository ppa:webupd8team/java
+    gpg: requesting key EEA14886 from hkp server keyserver.ubuntu.com
+    ?: [fd 4]: read error: Connection reset by peer
+
+Try:
+
+    $ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys  EEA14886
+
 
 
     
