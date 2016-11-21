@@ -7,6 +7,7 @@ apache tomcat source
 http://tomcat.apache.org/download-70.cgi  
 
 #Eclipse on mac
+
 1. install jdk on mac  
   http://www.oracle.com/technetwork/java/javase/downloads/index.html?ssSourceSiteId=otnjp
 2. check java folders
@@ -15,9 +16,14 @@ http://tomcat.apache.org/download-70.cgi
         $ ls
         jdk1.8.0_111.jdk
         $ export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home"
-        $ java -version
+        $ java -version  
+        
+3. install eclipse  
+  https://eclipse.org/downloads/eclipse-packages/  
+  Select mirror at KAIST.
 
 #Tomcat on ubuntu 12.04
+
 https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-7-on-ubuntu-14-04-via-apt-get  
 Installing JDK
 
