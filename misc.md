@@ -68,10 +68,16 @@ For example,
     gpg: requesting key EEA14886 from hkp server keyserver.ubuntu.com
     ?: [fd 4]: read error: Connection reset by peer
 
-Try:
+Try: (still error)
 
     $ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys  EEA14886
-
+    Executing: gpg --ignore-time-conflict --no-options --no-default-keyring --secret-keyring /tmp/tmp.alSdmyui9W --trustdb-name /etc/apt/trustdb.gpg --keyring /etc/apt/trusted.gpg --primary-keyring /etc/apt/trusted.gpg --keyserver keyserver.ubuntu.com --recv-keys EEA14886
+    gpg: requesting key EEA14886 from hkp server keyserver.ubuntu.com
+    ?: [fd 4]: read error: Connection reset by peer
+    gpg: key EEA14886: "Launchpad VLC" not changed
+    gpg: Total number processed: 1
+    gpg:              unchanged: 1
+    
 
 
     
