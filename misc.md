@@ -91,4 +91,6 @@ The workaround is install gnupg-curl
 
     $ sudo apt-get install gnupg-curl
     
-The error gone.
+The error gone. WHY?
+https://packages.debian.org/sid/gnupg-curl  
+
