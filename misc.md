@@ -21,7 +21,20 @@ http://tomcat.apache.org/download-70.cgi
 3. install eclipse  
   https://eclipse.org/downloads/eclipse-packages/  
   Select mirror at KAIST.
+4. install maven  
 
+       /Users/shevious/Documents/workspace/apache-maven-3.3.9
+       $ vi ~/.profile
+       export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home"
+       export PATH=/Users/shevious/Documents/workspace/apache-maven-3.3.9/bin:$PATH
+       $ mvn -v
+       Apache Maven 3.3.9 (bb52d8502b132ec0a5a3f4c09453c07478323dc5; 2015-11-11T01:41:47+09:00)
+       Maven home: /Users/shevious/Documents/workspace/apache-maven-3.3.9
+       Java version: 1.8.0_111, vendor: Oracle Corporation
+       Java home: /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre
+       Default locale: ko_KR, platform encoding: UTF-8
+       OS name: "mac os x", version: "10.12.1", arch: "x86_64", family: "mac"
+       
 #Tomcat on ubuntu 12.04
 
 https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-7-on-ubuntu-14-04-via-apt-get  
