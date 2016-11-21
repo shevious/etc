@@ -77,8 +77,18 @@ Try: (still error)
     gpg: key EEA14886: "Launchpad VLC" not changed
     gpg: Total number processed: 1
     gpg:              unchanged: 1
-    
-    
 
+simple python proxy server  
+https://github.com/inaz2/proxy2  
+The server works good. But the connection reset by peer continues.  
+Maybe it is because of KT internet firewall.  
+Try using hkps (https).
 
+    $ sudo apt-key adv --keyserver hkps://keyserver.ubuntu.com --recv-keys  EEA14886
+
+Then, certificate error.  
+The workaround is install gnupg-curl
+
+    $ sudo apt-get install gnupg-curl
     
+The error gone.
