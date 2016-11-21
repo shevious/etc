@@ -59,6 +59,7 @@ tomcat 7 versions for ubuntu 12.04
 http://packages.ubuntu.com/trusty/all/tomcat7/download 
 latest version  
 http://askubuntu.com/questions/339169/how-to-install-tomcat-7-0-42-on-ubuntu-12-04-3-lts  
+simple and working:
 http://tecadmin.net/install-tomcat-7-on-ubuntu  
 
 #gpg key error
