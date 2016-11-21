@@ -61,7 +61,7 @@ latest version
 http://askubuntu.com/questions/339169/how-to-install-tomcat-7-0-42-on-ubuntu-12-04-3-lts  
 http://tecadmin.net/install-tomcat-7-on-ubuntu  
 
-#GPT key error
+#gpg key error
 For example,
 
     $ sudo add-apt-repository ppa:webupd8team/java
@@ -77,6 +77,7 @@ Try: (still error)
     gpg: key EEA14886: "Launchpad VLC" not changed
     gpg: Total number processed: 1
     gpg:              unchanged: 1
+    
     
 
 
