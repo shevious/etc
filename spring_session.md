@@ -38,3 +38,6 @@ http://stackoverflow.com/questions/15947407/set-custom-session-id-java-apache-to
     
 하지만 generateSessionId가 SessionIdGenerator를 이용해서 사용하는 부분도 있음. 소스 추적 필요.  
 
+## mysql connector tomcat copy location
+
+    $CATALINA_HOME/lib 
