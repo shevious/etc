@@ -45,12 +45,13 @@ Session Created :: C76B6318831695033A482A6803E845F3-n1
     END
     get 50EA082CDFD57B313EC4711C84FB205E-n1
     VALUE 50EA082CDFD57B313EC4711C84FB205E-n1 2048 168
-    WXeX01XhXk#50EA082CDFD57B313EC4711C84FB205E-n1srjava.lang.Integer⠤8Ivaluexrjava.lang.Number
-                                                                                             xp
+    WXeX01XhXk#50EA082CDFD57B313EC4711C84FB205E-n1@srjava.lang.Integer⠤8Ivaluexrjava.lang.Number@
+                                                                                             @xp
 login:
 
     get 50EA082CDFD57B313EC4711C84FB205E-n1
     VALUE 50EA082CDFD57B313EC4711C84FB205E-n1 2048 195
-    WXeX01XX50EA082CDFD57B313EC4711C84FB205E-n1srjava.lang.Integer⠤8Ivaluexrjava.lang.Number
-                                                                                           xptidtadmintpwdtadmin
-    
+    WXeX01X@X50EA082CDFD57B313EC4711C84FB205E-n1@srjava.lang.Integer⠤8Ivaluexrjava.lang.Number@
+                                                                                           @xptidtadmintpwdtadmin
+
+https://www.tutorialspoint.com/memcached/memcached_quick_guide.htm
