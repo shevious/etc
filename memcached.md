@@ -8,4 +8,5 @@
 test:
 
     $ telnet <ipaddress> 11211
+    quit
     
