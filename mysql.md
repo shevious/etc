@@ -20,4 +20,13 @@ http://askubuntu.com/questions/422612/installing-mysql-5-6-using-ppa
     sudo add-apt-repository -y ppa:ondrej/mysql-5.6
     sudo apt-get update
     sudo apt-get -y install mysql-server-5.6
-    
+
+## mysql external connection
+
+    $ sudo vi /etc/mysql/mysql.conf.d/mysql.cnf
+    [mysql]
+    bind-address=0.0.0.0
+
+    $ mysql -u root
+    GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY 'password' WITH GRANT OPTION;
+    FLUSH PRIVILEGES;
