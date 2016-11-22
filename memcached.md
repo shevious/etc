@@ -5,3 +5,7 @@
     -l 0.0.0.0
     $ sudo service memcached restart
     
+test:
+
+    $ telnet <ipaddress> 11211
+    
