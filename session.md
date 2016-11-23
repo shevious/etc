@@ -7,3 +7,10 @@ http://eli.thegreenplace.net/2011/06/29/django-sessions-part-ii-how-sessions-wor
 
 What is pickle?  
 https://wiki.python.org/moin/UsingPickle  
+
+## python memcached library for edx
+
+        // using edxapp virtualenv
+        $ pip list
+        python-memcached (1.48)
+
