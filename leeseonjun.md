@@ -68,3 +68,5 @@ http://db.history.go.kr/item/level.do?setId=1&itemId=su&synonym=off&chinessChar=
 
 사망신고:  
 http://lawqa.jinbo.net/xe/?document_srl=887302  
+http://lawqa.jinbo.net/xe/?mid=board403&document_srl=1192774  
+
