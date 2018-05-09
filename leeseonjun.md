@@ -64,3 +64,7 @@
 
 日帝侵略下韓國36年史  
 http://db.history.go.kr/item/level.do?setId=1&itemId=su&synonym=off&chinessChar=on&page=1&pre_page=1&brokerPagingInfo=&position=0&levelId=su_011_1935_09_17_0450  
+
+
+사망신고:  
+http://lawqa.jinbo.net/xe/?document_srl=887302  
