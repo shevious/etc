@@ -1,4 +1,10 @@
-#
+# django with pyc only
+
+```
+virtualenv venv
+. venv/bin/activate
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTc4NTg2NV19
+eyJoaXN0b3J5IjpbMTgzMjAzMjU2MF19
 -->
