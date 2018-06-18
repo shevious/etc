@@ -7,8 +7,9 @@ pip install django==1.10
 pip install gunicorn
 django-admin startproject mysite
 cd mysite
-manage.py migrate
+python manage.py migrate
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjA0NzMzMl19
+eyJoaXN0b3J5IjpbLTIwNDc1MDAyMjBdfQ==
 -->
