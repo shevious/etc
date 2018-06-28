@@ -13,6 +13,6 @@ rm mysite/*.py
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDMwNjUxMTYsLTE5MTE2MDQ3MzNdfQ
-==
+eyJoaXN0b3J5IjpbLTE5MzkzNjQ1NjQsLTE2NDMwNjUxMTYsLT
+E5MTE2MDQ3MzNdfQ==
 -->
