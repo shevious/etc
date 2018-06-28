@@ -1,6 +1,6 @@
 # django with pyc only
 
-```
+```bash
 virtualenv venv
 . venv/bin/activate
 pip install django==1.10
@@ -13,6 +13,6 @@ rm mysite/*.py
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzkzNjQ1NjQsLTE2NDMwNjUxMTYsLT
-E5MTE2MDQ3MzNdfQ==
+eyJoaXN0b3J5IjpbMTY5MzYxMDI0LC0xNjQzMDY1MTE2LC0xOT
+ExNjA0NzMzXX0=
 -->
