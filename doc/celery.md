@@ -1,5 +1,7 @@
 # celery
+
 http://docs.celeryproject.org/en/latest/getting-started/first-steps-with-celery.html  
+https://simpleisbetterthancomplex.com/tutorial/2017/08/20/how-to-use-celery-with-django.html  
 
 ```bash
 sudo apt-get install rabbitmq-server
@@ -125,6 +127,6 @@ sudo rabbitmq-plugins enable rabbitmq_management
 sudo service rabbitmq-server restart
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODAyMTk3OSwxOTI3MDMzNzU2LDE0OT
+eyJoaXN0b3J5IjpbLTYwNTg5MTQyMCwxOTI3MDMzNzU2LDE0OT
 U3MDMwODBdfQ==
 -->
