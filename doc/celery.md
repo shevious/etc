@@ -42,7 +42,21 @@ templates/generate_random_users.html
         <input type="submit" value="Submit" />
     </form>
 ```
+mysite/core/tasks.py
+```python
+import string
 
+from django.contrib.auth.models import User
+from django.utils.crypto import get_random_string
+
+from celery import shared_task
+import time
+
+@shared_task
+def sleeptask(total):
+    time.sleep(total);
+    return '{} sleeptask created with success!'.format(total)
+```
 mysite/forms.py
 ```python
 from django import forms
@@ -78,6 +92,10 @@ class GenerateRandomUserView(FormView):
         messages.success(self.request, 'We are generating your random users! Wait a moment and refresh this page.')
         return redirect('/generate')
 ```
+myste/urls.py
+```python
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjcwNDQ0NywxNDk1NzAzMDgwXX0=
+eyJoaXN0b3J5IjpbMTcyNDAzODA2NSwxNDk1NzAzMDgwXX0=
 -->
