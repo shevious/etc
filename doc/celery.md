@@ -14,7 +14,7 @@ cd mysite
 mysite/settings.py
 ```python
 CELERY_BROKER_URL = 'amqp://localhost'
-
+# add DIRS to templates folder
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
@@ -31,7 +31,17 @@ TEMPLATES = [
     },
 ]
 ```
+templates/
+```html
+   <form action="" method="post">
+        {% csrf_token %}
+        <table>
+        {{ form }}
+        </table>
+        <input type="submit" value="Submit" />
+    </form>
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjczMTQ0MzYsMTQ5NTcwMzA4MF19
+eyJoaXN0b3J5IjpbLTg3NjM2ODE0LDE0OTU3MDMwODBdfQ==
 -->
