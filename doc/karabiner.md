@@ -4,7 +4,11 @@ karabiner 설정파일 경로:
 
 	~/.config/karabiner/assets/complex_modifications
 
+my.json:
+```json
 
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5NDY3MjU4LC0xNTAwODM3NzczXX0=
+eyJoaXN0b3J5IjpbODg4MjcxMDEyLDQwOTQ2NzI1OCwtMTUwMD
+gzNzc3M119
 -->
