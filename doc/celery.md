@@ -31,7 +31,17 @@ TEMPLATES = [
     },
 ]
 ```
+mysite/celery.py
+```python
+import os
+from celery import Celery
 
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mysite.settings')
+
+app = Celery('mysite')
+app.config_from_object('django.conf:settings', namespace='CELERY')
+app.autodiscover_tasks()
+```
 templates/generate_random_users.html
 ```html
    <form action="" method="post">
@@ -101,6 +111,11 @@ urlpatterns = [
     path('generate/', GenerateRandomUserView.as_view()),
 ]
 ```
+
+run
+```bash
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0NTk3NjgyLDE0OTU3MDMwODBdfQ==
+eyJoaXN0b3J5IjpbLTE5MDcwMTA2NDcsMTQ5NTcwMzA4MF19
 -->
