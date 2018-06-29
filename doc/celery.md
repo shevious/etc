@@ -31,7 +31,8 @@ TEMPLATES = [
     },
 ]
 ```
-templates/
+
+templates/generate_random_users.html
 ```html
    <form action="" method="post">
         {% csrf_token %}
@@ -41,7 +42,26 @@ templates/
         <input type="submit" value="Submit" />
     </form>
 ```
+```python
+from django.contrib.auth.models import User
+from django.contrib import messages
+from django.views.generic.edit import FormView
+from django.shortcuts import redirect
 
+from .forms import GenerateRandomUserForm
+from .core.tasks import sleeptask
+
+class GenerateRandomUserView(FormView):
+    template_name = 'generate_random_users.html'
+    form_class = GenerateRandomUserForm
+
+    def form_valid(self, form):
+        print('########')
+        total = form.cleaned_data.get('total')
+        sleeptask.delay(total)
+        messages.success(self.request, 'We are generating your random users! Wait a moment and refresh this page.')
+        return redirect('/generate')
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjM2ODE0LDE0OTU3MDMwODBdfQ==
+eyJoaXN0b3J5IjpbLTE5MDY0NDMwMTUsMTQ5NTcwMzA4MF19
 -->
