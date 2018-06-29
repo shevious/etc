@@ -114,8 +114,15 @@ urlpatterns = [
 
 run
 ```bash
+celery -A mysite worker -l info
+```
 
+install flower:
+```bash
+pip install flower
+sudo rabbitmq-plugins enable rabbitmq_management
+sudo service rabbitmq-server restart
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDcwMTA2NDcsMTQ5NTcwMzA4MF19
+eyJoaXN0b3J5IjpbMTkyNzAzMzc1NiwxNDk1NzAzMDgwXX0=
 -->
