@@ -42,6 +42,22 @@ templates/generate_random_users.html
         <input type="submit" value="Submit" />
     </form>
 ```
+
+mysite/forms.py
+```python
+from django import forms
+from django.core.validators import MinValueValidator, MaxValueValidator
+
+class GenerateRandomUserForm(forms.Form):
+    total = forms.IntegerField(
+        validators=[
+            MinValueValidator(5),
+            MaxValueValidator(500)
+        ]
+    )
+```
+
+mysite/views.py
 ```python
 from django.contrib.auth.models import User
 from django.contrib import messages
@@ -63,5 +79,5 @@ class GenerateRandomUserView(FormView):
         return redirect('/generate')
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDY0NDMwMTUsMTQ5NTcwMzA4MF19
+eyJoaXN0b3J5IjpbMTc0NjcwNDQ0NywxNDk1NzAzMDgwXX0=
 -->
