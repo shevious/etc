@@ -2,7 +2,8 @@
 
 ```bash
 sudo apt-get install rabbitmq-server
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTcwMzA4MF19
+eyJoaXN0b3J5IjpbNjAyMDcwMDc0LDE0OTU3MDMwODBdfQ==
 -->
