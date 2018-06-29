@@ -1,4 +1,5 @@
 # celery
+http://docs.celeryproject.org/en/latest/getting-started/first-steps-with-celery.html  
 
 ```bash
 sudo apt-get install rabbitmq-server
@@ -124,5 +125,6 @@ sudo rabbitmq-plugins enable rabbitmq_management
 sudo service rabbitmq-server restart
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzAzMzc1NiwxNDk1NzAzMDgwXX0=
+eyJoaXN0b3J5IjpbMTkyODAyMTk3OSwxOTI3MDMzNzU2LDE0OT
+U3MDMwODBdfQ==
 -->
