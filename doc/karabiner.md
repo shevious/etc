@@ -2,10 +2,9 @@
 
 karabiner 설정파일 경로:
 
-	~/.config/karabiner/assets
+	~/.config/karabiner/assets/complex_modifications
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjU3ODkzNTcsLTE1MDA4Mzc3NzNdfQ
-==
+eyJoaXN0b3J5IjpbNDA5NDY3MjU4LC0xNTAwODM3NzczXX0=
 -->
