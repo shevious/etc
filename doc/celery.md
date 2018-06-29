@@ -94,8 +94,13 @@ class GenerateRandomUserView(FormView):
 ```
 myste/urls.py
 ```python
-
+#... 
+#add generate url
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    path('generate/', GenerateRandomUserView.as_view()),
+]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDAzODA2NSwxNDk1NzAzMDgwXX0=
+eyJoaXN0b3J5IjpbOTg0NTk3NjgyLDE0OTU3MDMwODBdfQ==
 -->
