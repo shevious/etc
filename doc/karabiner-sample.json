@@ -122,6 +122,8 @@
             {
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
+                "^com\\.vandyke\\.SecureCRT$",
+                "^com\\.apple\\.ScreenSharing$",
                 "^com\\.microsoft\\.rdc$",
                 "^com\\.microsoft\\.rdc\\.mac$",
                 "^com\\.microsoft\\.rdc\\.macos$",
@@ -269,6 +271,8 @@
             {
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
+                "^com\\.vandyke\\.SecureCRT$",
+                "^com\\.apple\\.ScreenSharing$",
                 "^com\\.microsoft\\.rdc$",
                 "^com\\.microsoft\\.rdc\\.mac$",
                 "^com\\.microsoft\\.rdc\\.macos$",
@@ -1359,6 +1363,8 @@
             {
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
+                "^com\\.vandyke\\.SecureCRT$",
+                "^com\\.apple\\.ScreenSharing$",
                 "^com\\.microsoft\\.rdc$",
                 "^com\\.microsoft\\.rdc\\.mac$",
                 "^com\\.microsoft\\.rdc\\.macos$",
