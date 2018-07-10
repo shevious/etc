@@ -134,9 +134,11 @@ sudo service rabbitmq-server restart
 (looks good.)  
 [Single-beat](https://github.com/ybrs/single-beat)   
 
+[celerybeat - multiple instances & monitoring](https://stackoverflow.com/questions/28162338/celerybeat-multiple-instances-monitoring)  
+(Q&A)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDEzODAwOTYsLTYwNTg5MTQyMCwxOT
-I3MDMzNzU2LDE0OTU3MDMwODBdfQ==
+eyJoaXN0b3J5IjpbLTM2MTQyMDY5NSwtNjA1ODkxNDIwLDE5Mj
+cwMzM3NTYsMTQ5NTcwMzA4MF19
 -->
