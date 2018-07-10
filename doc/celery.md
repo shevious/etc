@@ -126,7 +126,12 @@ pip install flower
 sudo rabbitmq-plugins enable rabbitmq_management
 sudo service rabbitmq-server restart
 ```
+
+
+# celery beat for multiple servers
+
+[celery-redundant-scheduler](https://github.com/MnogoByte/celery-redundant-scheduler)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTg5MTQyMCwxOTI3MDMzNzU2LDE0OT
-U3MDMwODBdfQ==
+eyJoaXN0b3J5IjpbLTE1MTQ1NzY0OTAsLTYwNTg5MTQyMCwxOT
+I3MDMzNzU2LDE0OTU3MDMwODBdfQ==
 -->
