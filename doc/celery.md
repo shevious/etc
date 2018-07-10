@@ -131,7 +131,12 @@ sudo service rabbitmq-server restart
 # celery beat for multiple servers
 
 [celery-redundant-scheduler](https://github.com/MnogoByte/celery-redundant-scheduler)  
+(looks good.)  
+[Single-beat](https://github.com/ybrs/single-beat)   
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQ1NzY0OTAsLTYwNTg5MTQyMCwxOT
+eyJoaXN0b3J5IjpbLTE1NDEzODAwOTYsLTYwNTg5MTQyMCwxOT
 I3MDMzNzU2LDE0OTU3MDMwODBdfQ==
 -->
