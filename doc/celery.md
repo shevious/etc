@@ -135,10 +135,12 @@ sudo service rabbitmq-server restart
 [Single-beat](https://github.com/ybrs/single-beat)   
 
 [celerybeat - multiple instances & monitoring](https://stackoverflow.com/questions/28162338/celerybeat-multiple-instances-monitoring)  
-(Q&A)
+(Q&A)  
 
+[Distributed Task Locking in Celery](http://loose-bits.com/2010/10/distributed-task-locking-in-celery.html)  
+( c
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTQyMDY5NSwtNjA1ODkxNDIwLDE5Mj
-cwMzM3NTYsMTQ5NTcwMzA4MF19
+eyJoaXN0b3J5IjpbMTU0NDI3NDA5OSwtMzYxNDIwNjk1LC02MD
+U4OTE0MjAsMTkyNzAzMzc1NiwxNDk1NzAzMDgwXX0=
 -->
