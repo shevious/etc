@@ -138,9 +138,9 @@ sudo service rabbitmq-server restart
 (Q&A)  
 
 [Distributed Task Locking in Celery](http://loose-bits.com/2010/10/distributed-task-locking-in-celery.html)  
-( c
+(참고용)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDI3NDA5OSwtMzYxNDIwNjk1LC02MD
-U4OTE0MjAsMTkyNzAzMzc1NiwxNDk1NzAzMDgwXX0=
+eyJoaXN0b3J5IjpbLTEyNjI5ODA1OTQsLTM2MTQyMDY5NSwtNj
+A1ODkxNDIwLDE5MjcwMzM3NTYsMTQ5NTcwMzA4MF19
 -->
