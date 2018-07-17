@@ -12,6 +12,7 @@ sudo apt-get install linux-headers-$(uname -r)
 sudo apt-get remove nvidia* && sudo apt autoremove
 sudo apt-get install dkms build-essential linux-headers-generic
 
+# 아래 내용 추가
 sudo vi /etc/modprobe.d/blacklist.conf 
 ```
 add lines:
@@ -23,8 +24,11 @@ alias nouveau off
 alias lbm-nouveau off
 ```
 ```bash
-
+#필요함?
+echo options nouveau modeset=0 | sudo tee -a /etc/modprobe.d/nouveau-kms.conf
+#커널 
+sudo update-initramfs -u
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk0MzA4OSwtMTc5MDExMjA5OV19
+eyJoaXN0b3J5IjpbLTY0MDMyNjIxMSwtMTc5MDExMjA5OV19
 -->
