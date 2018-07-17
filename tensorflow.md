@@ -26,9 +26,11 @@ alias lbm-nouveau off
 ```bash
 #필요함?
 echo options nouveau modeset=0 | sudo tee -a /etc/modprobe.d/nouveau-kms.conf
-#커널 
+#커널 rebuild
 sudo update-initramfs -u
+#재부팅
+sudo reboot
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDMyNjIxMSwtMTc5MDExMjA5OV19
+eyJoaXN0b3J5IjpbLTI1NTg4MTkxMiwtMTc5MDExMjA5OV19
 -->
