@@ -4,7 +4,8 @@
 
 ```bash
 $ lspci | grep -i nvidia
+$ uname -m && cat /etc/*release
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0MzUyMzY3XX0=
+eyJoaXN0b3J5IjpbODYwOTM4MDQwXX0=
 -->
