@@ -30,7 +30,14 @@ echo options nouveau modeset=0 | sudo tee -a /etc/modprobe.d/nouveau-kms.conf
 sudo update-initramfs -u
 #재부팅
 sudo reboot
+
+#그래픽 서비스 종료
+sudo service lightdm stop
+#cuda run파일이 있는 경로로 이동한다.
+sudo ./NVIDIA-Linux-x86_64-384.59.run # 버전은 달라질 수 있다.
+
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTg4MTkxMiwtMTc5MDExMjA5OV19
+eyJoaXN0b3J5IjpbMjY2MzkyNDc5LC0xNzkwMTEyMDk5XX0=
 -->
