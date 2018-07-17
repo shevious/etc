@@ -13,8 +13,18 @@ sudo apt-get remove nvidia* && sudo apt autoremove
 sudo apt-get install dkms build-essential linux-headers-generic
 
 sudo vi /etc/modprobe.d/blacklist.conf 
+```
+add lines:
+```
+blacklist nouveau
+blacklist lbm-nouveau
+options nouveau modeset=0
+alias nouveau off
+alias lbm-nouveau off
+```
+```bash
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3MTUxNjUwLC0xNzkwMTEyMDk5XX0=
+eyJoaXN0b3J5IjpbLTE2OTk0MzA4OSwtMTc5MDExMjA5OV19
 -->
