@@ -8,9 +8,13 @@ lspci | grep -i nvidia
 uname -m && cat /etc/*release
 gcc --version
 sudo apt-get install linux-headers-$(uname -r)
+
+sudo apt-get remove nvidia* && sudo apt autoremove
+sudo apt-get install dkms build-essential linux-headers-generic
+
+sudo vi /etc/modprobe.d/blacklist.conf 
+
 ```
-``
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTI1NDQyNzIsLTE3OTAxMTIwOTldfQ
-==
+eyJoaXN0b3J5IjpbMzc3MTUxNjUwLC0xNzkwMTEyMDk5XX0=
 -->
