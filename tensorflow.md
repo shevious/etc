@@ -1,6 +1,8 @@
 # install cuda ubuntu
 
  [NVIDIA CUDA Installation Guide for Linux](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#abstract)  
+ 
+ 
 
 ```bash
 lspci | grep -i nvidia
@@ -9,5 +11,5 @@ gcc --version
 sudo apt-get install linux-headers-$(uname -r)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTAxMTIwOTldfQ==
+eyJoaXN0b3J5IjpbODEzMzQ0MDI5LC0xNzkwMTEyMDk5XX0=
 -->
