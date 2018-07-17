@@ -36,6 +36,7 @@ sudo service lightdm stop
 
 
 #graphic driver install
+# http://www.nvidia.com/Download/index.aspx?lang=en-us
 wget http://us.download.nvidia.com/XFree86/Linux-x86_64/340.32/NVIDIA-Linux-x86_64-340.32.run
 sudo ./NVIDIA-Linux-x86_64-340.32.run # 버전은 달라질 수 있다.
 
@@ -44,6 +45,6 @@ sudo ./NVIDIA-Linux-x86_64-340.32.run # 버전은 달라질 수 있다.
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMjgyMzMxMCwyNjYzOTI0NzksLTE3OT
-AxMTIwOTldfQ==
+eyJoaXN0b3J5IjpbLTE2MzcwNjYyOTQsMTAwMjgyMzMxMCwyNj
+YzOTI0NzksLTE3OTAxMTIwOTldfQ==
 -->
