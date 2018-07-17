@@ -33,11 +33,17 @@ sudo reboot
 
 #그래픽 서비스 종료
 sudo service lightdm stop
-#cuda run파일이 있는 경로로 이동한다.
-sudo ./NVIDIA-Linux-x86_64-384.59.run # 버전은 달라질 수 있다.
+
+
+#graphic driver install
+wget http://us.download.nvidia.com/XFree86/Linux-x86_64/340.32/NVIDIA-Linux-x86_64-340.32.run
+sudo ./NVIDIA-Linux-x86_64-340.32.run # 버전은 달라질 수 있다.
+
+
 
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2MzkyNDc5LC0xNzkwMTEyMDk5XX0=
+eyJoaXN0b3J5IjpbMTAwMjgyMzMxMCwyNjYzOTI0NzksLTE3OT
+AxMTIwOTldfQ==
 -->
