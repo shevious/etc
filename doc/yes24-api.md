@@ -9,8 +9,16 @@ grant all privileges on loginapi.* to appuser@'%';
 npm install sequelize-cli -g
 ```
 
+## app설치
+```bash
+git clone https://github.com/hckim0707/yes24-api.git
+cd yes24-api
+npm install
+```
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwOTg1NDE2MywtMTQzOTc5ODg4NSwzNT
+eyJoaXN0b3J5IjpbMTA5OTQ0Njc3MywtMTQzOTc5ODg4NSwzNT
 M5NDkzMTFdfQ==
 -->
