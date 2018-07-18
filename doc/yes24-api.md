@@ -4,8 +4,13 @@ create database loginapi;
 grant all privileges on loginapi.* to appuser@'%';
 ```
 
-## 
+## sequelize cli 설치
+```
+npm install sequelize-cli -g
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwODM1NDgwLC0xNDM5Nzk4ODg1LDM1Mz
-k0OTMxMV19
+eyJoaXN0b3J5IjpbMTEwOTg1NDE2MywtMTQzOTc5ODg4NSwzNT
+M5NDkzMTFdfQ==
 -->
