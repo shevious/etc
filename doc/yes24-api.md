@@ -15,11 +15,16 @@ git clone https://github.com/hckim0707/yes24-api.git
 cd yes24-api
 npm install
 sequelize db:migrate
+node createuser.js
+^C
+
+DEBUG=yes24-api:* npm start
 ```
+browse http://localhost:4000
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjMxNTY1NzcsLTE0Mzk3OTg4ODUsMz
-UzOTQ5MzExXX0=
+eyJoaXN0b3J5IjpbLTgwNzkxNDkwNiwtMTA2MzE1NjU3NywtMT
+QzOTc5ODg4NSwzNTM5NDkzMTFdfQ==
 -->
