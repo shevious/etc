@@ -20,9 +20,11 @@ sudo sysctl -w kern.maxfilesperproc=524288
 ```
 ```bash
 npm install react-native-scripts --save
+npm install
+npm start
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjA4ODcwODgsLTE1OTEyNTYwNzVdfQ
-==
+eyJoaXN0b3J5IjpbLTIxMjQ2ODEyNTcsLTE4NjA4ODcwODgsLT
+E1OTEyNTYwNzVdfQ==
 -->
