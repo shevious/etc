@@ -6,8 +6,7 @@ kern.maxfiles: 49152
 kern.maxfilesperproc: 24576
 ```
 ```bash
-sudo sysctl -w kern.maxfiles=5242880
-sudo sysctl -w kern.maxfilesperproc=524288
+brew install watchman
 ```
 ```json
 "scripts": {
@@ -25,6 +24,6 @@ npm start
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQ2ODEyNTcsLTE4NjA4ODcwODgsLT
-E1OTEyNTYwNzVdfQ==
+eyJoaXN0b3J5IjpbMjA3OTk2ODIyNiwtMjEyNDY4MTI1NywtMT
+g2MDg4NzA4OCwtMTU5MTI1NjA3NV19
 -->
