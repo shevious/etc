@@ -30,10 +30,14 @@ react-native unlink react-native-vector-icons
 ```
 
 java 9 error:
-
-
+```
+FAILURE: Build failed with an exception.
+* What went wrong:
+Could not determine java version from '9.0.1'.
+```
+install jdk: Java SE Development Kit 8u181
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODU2MjkzMSwxNTQyNjM2NDUyLC0yMT
-I0NjgxMjU3LC0xODYwODg3MDg4LC0xNTkxMjU2MDc1XX0=
+eyJoaXN0b3J5IjpbNzEyMzY1Mjk4LDE1NDI2MzY0NTIsLTIxMj
+Q2ODEyNTcsLTE4NjA4ODcwODgsLTE1OTEyNTYwNzVdfQ==
 -->
