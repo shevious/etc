@@ -22,7 +22,18 @@ npm install
 npm start
 ```
 
+```bash
+#link
+react-native link react-native-vector-icons
+#unlink
+react-native unlink react-native-vector-icons
+```
+
+java 9 error:
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MjYzNjQ1MiwtMjEyNDY4MTI1NywtMT
-g2MDg4NzA4OCwtMTU5MTI1NjA3NV19
+eyJoaXN0b3J5IjpbMTY3ODU2MjkzMSwxNTQyNjM2NDUyLC0yMT
+I0NjgxMjU3LC0xODYwODg3MDg4LC0xNTkxMjU2MDc1XX0=
 -->
