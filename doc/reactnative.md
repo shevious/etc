@@ -41,11 +41,13 @@ install jdk: Java SE Development Kit 8u181
 
 ## react-native-app devtools: 
 
-https://github.com/facebook/react-devtools/tree/master/packages/react-devtools
+https://github.com/facebook/react-devtools/tree/master/packages/react-devtools  
+https://codeburst.io/react-native-debugging-tools-3a24e4e40e4  
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDg5MDMzNjAsNzEyMzY1Mjk4LDE1ND
-I2MzY0NTIsLTIxMjQ2ODEyNTcsLTE4NjA4ODcwODgsLTE1OTEy
-NTYwNzVdfQ==
+eyJoaXN0b3J5IjpbODY5MzU4MTk3LDcxMjM2NTI5OCwxNTQyNj
+M2NDUyLC0yMTI0NjgxMjU3LC0xODYwODg3MDg4LC0xNTkxMjU2
+MDc1XX0=
 -->
