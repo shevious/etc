@@ -37,8 +37,15 @@ Could not determine java version from '9.0.1'.
 ```
 install jdk: Java SE Development Kit 8u181
 
+
+
+## react-native-app devtools: 
+
+https://github.com/facebook/react-devtools/tree/master/packages/react-devtools
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDk5MTUzNSw3MTIzNjUyOTgsMTU0Mj
-YzNjQ1MiwtMjEyNDY4MTI1NywtMTg2MDg4NzA4OCwtMTU5MTI1
-NjA3NV19
+eyJoaXN0b3J5IjpbLTEwNDg5MDMzNjAsNzEyMzY1Mjk4LDE1ND
+I2MzY0NTIsLTIxMjQ2ODEyNTcsLTE4NjA4ODcwODgsLTE1OTEy
+NTYwNzVdfQ==
 -->
