@@ -45,10 +45,13 @@ https://github.com/facebook/react-devtools/tree/master/packages/react-devtools
 https://blog.expo.io/using-react-devtools-with-react-native-6c59e636a03b  
 https://codeburst.io/react-native-debugging-tools-3a24e4e40e4  
 
+## android https error on dev server
 
+https://serverfault.com/questions/699853/ssl-will-not-work-on-android-mobile  
+see production
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzIzNTY0NjMsODY5MzU4MTk3LDcxMj
-M2NTI5OCwxNTQyNjM2NDUyLC0yMTI0NjgxMjU3LC0xODYwODg3
-MDg4LC0xNTkxMjU2MDc1XX0=
+eyJoaXN0b3J5IjpbLTEyMTM3MzIzNTMsLTExMzIzNTY0NjMsOD
+Y5MzU4MTk3LDcxMjM2NTI5OCwxNTQyNjM2NDUyLC0yMTI0Njgx
+MjU3LC0xODYwODg3MDg4LC0xNTkxMjU2MDc1XX0=
 -->
