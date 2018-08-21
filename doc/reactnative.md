@@ -43,7 +43,7 @@ install jdk: Java SE Development Kit 8u181
 
 https://github.com/facebook/react-devtools/tree/master/packages/react-devtools  
 https://blog.expo.io/using-react-devtools-with-react-native-6c59e636a03b  
-https://codeburst.io/react-native-debugging-tools-3a24e4e40e4   
+[React Native Debugging Tools](https://codeburst.io/react-native-debugging-tools-3a24e4e40e4)   
 
 ## android https error on dev server
 
@@ -51,8 +51,8 @@ https://serverfault.com/questions/699853/ssl-will-not-work-on-android-mobile
 see production
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzMwMTcyMTEsLTEyMTM3MzIzNTMsLT
-ExMzIzNTY0NjMsODY5MzU4MTk3LDcxMjM2NTI5OCwxNTQyNjM2
-NDUyLC0yMTI0NjgxMjU3LC0xODYwODg3MDg4LC0xNTkxMjU2MD
-c1XX0=
+eyJoaXN0b3J5IjpbMTI2MDE4MzY4NywtMTAzMzAxNzIxMSwtMT
+IxMzczMjM1MywtMTEzMjM1NjQ2Myw4NjkzNTgxOTcsNzEyMzY1
+Mjk4LDE1NDI2MzY0NTIsLTIxMjQ2ODEyNTcsLTE4NjA4ODcwOD
+gsLTE1OTEyNTYwNzVdfQ==
 -->
