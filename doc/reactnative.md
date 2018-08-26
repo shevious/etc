@@ -50,9 +50,17 @@ install jdk: Java SE Development Kit 8u181
 https://serverfault.com/questions/699853/ssl-will-not-work-on-android-mobile  
 see production
 
+## splash screen
+
+### android
+
+https://android.jlelse.eu/change-splash-screen-in-react-native-android-app-d3f99ac1ebd1  
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzY0NDU1MSwtMTAzMzAxNzIxMSwtMT
-IxMzczMjM1MywtMTEzMjM1NjQ2Myw4NjkzNTgxOTcsNzEyMzY1
-Mjk4LDE1NDI2MzY0NTIsLTIxMjQ2ODEyNTcsLTE4NjA4ODcwOD
-gsLTE1OTEyNTYwNzVdfQ==
+eyJoaXN0b3J5IjpbMTMxOTY3MDkxNCwxMzEzNjQ0NTUxLC0xMD
+MzMDE3MjExLC0xMjEzNzMyMzUzLC0xMTMyMzU2NDYzLDg2OTM1
+ODE5Nyw3MTIzNjUyOTgsMTU0MjYzNjQ1MiwtMjEyNDY4MTI1Ny
+wtMTg2MDg4NzA4OCwtMTU5MTI1NjA3NV19
 -->
