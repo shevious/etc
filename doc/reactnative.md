@@ -45,6 +45,12 @@ install jdk: Java SE Development Kit 8u181
 [Using react-devtools with React Native](https://blog.expo.io/using-react-devtools-with-react-native-6c59e636a03b)  
 [React Native Debugging Tools](https://codeburst.io/react-native-debugging-tools-3a24e4e40e4)   
 
+## run ios on device
+
+```
+RCT_METRO_PORT=8081 react-native run-ios --device
+```
+
 ## android https error on dev server
 
 https://serverfault.com/questions/699853/ssl-will-not-work-on-android-mobile  
@@ -59,8 +65,9 @@ https://android.jlelse.eu/change-splash-screen-in-react-native-android-app-d3f99
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTY3MDkxNCwxMzEzNjQ0NTUxLC0xMD
-MzMDE3MjExLC0xMjEzNzMyMzUzLC0xMTMyMzU2NDYzLDg2OTM1
-ODE5Nyw3MTIzNjUyOTgsMTU0MjYzNjQ1MiwtMjEyNDY4MTI1Ny
-wtMTg2MDg4NzA4OCwtMTU5MTI1NjA3NV19
+eyJoaXN0b3J5IjpbMjQ4MDM4OTQ0LDEzMTk2NzA5MTQsMTMxMz
+Y0NDU1MSwtMTAzMzAxNzIxMSwtMTIxMzczMjM1MywtMTEzMjM1
+NjQ2Myw4NjkzNTgxOTcsNzEyMzY1Mjk4LDE1NDI2MzY0NTIsLT
+IxMjQ2ODEyNTcsLTE4NjA4ODcwODgsLTE1OTEyNTYwNzVdfQ==
+
 -->
