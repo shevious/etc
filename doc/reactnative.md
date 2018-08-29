@@ -62,12 +62,17 @@ see production
 
 https://android.jlelse.eu/change-splash-screen-in-react-native-android-app-d3f99ac1ebd1  
 
+## android device log 
+
+```
+$ adb logcat | grep ReactNativeJS
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4MDM4OTQ0LDEzMTk2NzA5MTQsMTMxMz
-Y0NDU1MSwtMTAzMzAxNzIxMSwtMTIxMzczMjM1MywtMTEzMjM1
-NjQ2Myw4NjkzNTgxOTcsNzEyMzY1Mjk4LDE1NDI2MzY0NTIsLT
-IxMjQ2ODEyNTcsLTE4NjA4ODcwODgsLTE1OTEyNTYwNzVdfQ==
-
+eyJoaXN0b3J5IjpbLTE4NzEwNzA0OTUsMjQ4MDM4OTQ0LDEzMT
+k2NzA5MTQsMTMxMzY0NDU1MSwtMTAzMzAxNzIxMSwtMTIxMzcz
+MjM1MywtMTEzMjM1NjQ2Myw4NjkzNTgxOTcsNzEyMzY1Mjk4LD
+E1NDI2MzY0NTIsLTIxMjQ2ODEyNTcsLTE4NjA4ODcwODgsLTE1
+OTEyNTYwNzVdfQ==
 -->
