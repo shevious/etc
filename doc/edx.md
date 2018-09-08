@@ -33,13 +33,15 @@ make dev.clone
 export OPENEDX_RELEASE=hawthorn.master 
 make dev.checkout
 make pull
-make dev.checkout
 make dev.provision
 ```
 
+#### provision error
+
+[sudo apt-get update failes due to Hash Sum mismatch](https://askubuntu.com/questions/760574/sudo-apt-get-update-failes-due-to-hash-sum-mismatch)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTYyNTc0OSwxMTEyOTIxMzUxLC0xMD
-cxMzE4MDg3LDQ4NTgwMjAsLTYxOTg2MjZdfQ==
+eyJoaXN0b3J5IjpbLTExOTAyNjgxOTUsMTExMjkyMTM1MSwtMT
+A3MTMxODA4Nyw0ODU4MDIwLC02MTk4NjI2XX0=
 -->
