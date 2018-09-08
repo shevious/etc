@@ -30,11 +30,12 @@ cd devstack
 # git tag
 make requirements
 make dev.clone
-export 
+export OPENEDX_RELEASE=hawthorn.master 
+make dev.checkout
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzEzMTgwODcsNDg1ODAyMCwtNjE5OD
-YyNl19
+eyJoaXN0b3J5IjpbMTExMjkyMTM1MSwtMTA3MTMxODA4Nyw0OD
+U4MDIwLC02MTk4NjI2XX0=
 -->
