@@ -44,7 +44,8 @@ make dev.provision
 remote debugger
 `DEVSTACK_WORKSPACE=/Users/<username>/workspace`
 `OPENEDX_RELEASE=hawthorn.master`
-
+interpreter path:
+`/edx/app/edxapp/venvs/edxapp/bin/python`
 
 ### docker commands
 list all docker images:
@@ -57,7 +58,7 @@ docker-compose images
 `~/Library/Caches/Pychar*`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI1ODQ2OTEsOTc1ODkyNjI5LDg1OD
-I4OTYxOSwtMTE5MDI2ODE5NSwxMTEyOTIxMzUxLC0xMDcxMzE4
-MDg3LDQ4NTgwMjAsLTYxOTg2MjZdfQ==
+eyJoaXN0b3J5IjpbLTc1Mzk2NzUwMiw5NzU4OTI2MjksODU4Mj
+g5NjE5LC0xMTkwMjY4MTk1LDExMTI5MjEzNTEsLTEwNzEzMTgw
+ODcsNDg1ODAyMCwtNjE5ODYyNl19
 -->
