@@ -47,6 +47,13 @@ remote debugger
 interpreter path:
 `/edx/app/edxapp/venvs/edxapp/bin/python`
 
+debugger(django server);
+additional options: `runserver 0.0.0.0:18000`
+custom run command: `lms`
+env variable: `DJANGO_SETTINGS_MODULE=`
+
+
+
 ### docker commands
 list all docker images:
 ```bash
@@ -58,7 +65,7 @@ docker-compose images
 `~/Library/Caches/Pychar*`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1Mzk2NzUwMiw5NzU4OTI2MjksODU4Mj
-g5NjE5LC0xMTkwMjY4MTk1LDExMTI5MjEzNTEsLTEwNzEzMTgw
-ODcsNDg1ODAyMCwtNjE5ODYyNl19
+eyJoaXN0b3J5IjpbOTU3OTI5NTA0LC03NTM5Njc1MDIsOTc1OD
+kyNjI5LDg1ODI4OTYxOSwtMTE5MDI2ODE5NSwxMTEyOTIxMzUx
+LC0xMDcxMzE4MDg3LDQ4NTgwMjAsLTYxOTg2MjZdfQ==
 -->
