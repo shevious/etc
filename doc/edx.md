@@ -32,10 +32,14 @@ make requirements
 make dev.clone
 export OPENEDX_RELEASE=hawthorn.master 
 make dev.checkout
+make pull
+make dev.checkout
+make dev.provision
 ```
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjkyMTM1MSwtMTA3MTMxODA4Nyw0OD
-U4MDIwLC02MTk4NjI2XX0=
+eyJoaXN0b3J5IjpbLTg3OTYyNTc0OSwxMTEyOTIxMzUxLC0xMD
+cxMzE4MDg3LDQ4NTgwMjAsLTYxOTg2MjZdfQ==
 -->
