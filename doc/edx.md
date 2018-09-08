@@ -48,8 +48,11 @@ docker container ls --all
 docker-compose images
 ```
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4Mjg5NjE5LC0xMTkwMjY4MTk1LDExMT
-I5MjEzNTEsLTEwNzEzMTgwODcsNDg1ODAyMCwtNjE5ODYyNl19
+### pycharm remote resources
+`~/Library/Caches/Pychar*`
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTc1ODkyNjI5LDg1ODI4OTYxOSwtMTE5MD
+I2ODE5NSwxMTEyOTIxMzUxLC0xMDcxMzE4MDg3LDQ4NTgwMjAs
+LTYxOTg2MjZdfQ==
 -->
