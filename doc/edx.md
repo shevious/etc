@@ -5,7 +5,7 @@
 
 
 ## devstack
-[Open edX Devstack]
+[Open edX Devstack](https://github.com/edx/devstack/blob/master/README.rst)  
 
 install docker
 configure docker
@@ -35,6 +35,6 @@ export
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjIzNTgzMzQsNDg1ODAyMCwtNjE5OD
+eyJoaXN0b3J5IjpbLTEwNzEzMTgwODcsNDg1ODAyMCwtNjE5OD
 YyNl19
 -->
