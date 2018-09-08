@@ -5,6 +5,7 @@
 
 
 ## devstack
+[Open edX Devstack]
 
 install docker
 configure docker
@@ -34,5 +35,6 @@ export
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1ODAyMCwtNjE5ODYyNl19
+eyJoaXN0b3J5IjpbLTE1MjIzNTgzMzQsNDg1ODAyMCwtNjE5OD
+YyNl19
 -->
