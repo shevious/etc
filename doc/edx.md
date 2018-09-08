@@ -40,6 +40,11 @@ make dev.provision
 
 [sudo apt-get update failes due to Hash Sum mismatch](https://askubuntu.com/questions/760574/sudo-apt-get-update-failes-due-to-hash-sum-mismatch)
 
+#### pycharm
+remote debugger
+`DEVSTACK_WORKSPACE=/Users/<username>/workspace`
+`OPENEDX_RELEASE=hawthorn.master`
+
 
 ### docker commands
 list all docker images:
@@ -52,7 +57,7 @@ docker-compose images
 `~/Library/Caches/Pychar*`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1ODkyNjI5LDg1ODI4OTYxOSwtMTE5MD
-I2ODE5NSwxMTEyOTIxMzUxLC0xMDcxMzE4MDg3LDQ4NTgwMjAs
-LTYxOTg2MjZdfQ==
+eyJoaXN0b3J5IjpbLTE0NjI1ODQ2OTEsOTc1ODkyNjI5LDg1OD
+I4OTYxOSwtMTE5MDI2ODE5NSwxMTEyOTIxMzUxLC0xMDcxMzE4
+MDg3LDQ4NTgwMjAsLTYxOTg2MjZdfQ==
 -->
