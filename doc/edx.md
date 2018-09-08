@@ -41,17 +41,21 @@ make dev.provision
 [sudo apt-get update failes due to Hash Sum mismatch](https://askubuntu.com/questions/760574/sudo-apt-get-update-failes-due-to-hash-sum-mismatch)
 
 #### pycharm
-remote debugger
-`DEVSTACK_WORKSPACE=/Users/<username>/workspace`
-`OPENEDX_RELEASE=hawthorn.master`
-interpreter path:
-`/edx/app/edxapp/venvs/edxapp/bin/python`
+remote debugger  
+`DEVSTACK_WORKSPACE=/Users/<username>/workspace`  
+`OPENEDX_RELEASE=hawthorn.master`  
+interpreter path:  
+`/edx/app/edxapp/venvs/edxapp/bin/python`  
 
-debugger(django server);
-additional options: `runserver 0.0.0.0:18000`
-custom run command: `lms`
-env variable: `DJANGO_SETTINGS_MODULE=lms.envs.devstack_docker`
-working directory: `/edx/app/edxapp/edx-platform`
+debugger(django server);  
+additional options: `runserver 0.0.0.0:18000`  
+custom run command: `lms`  
+env variable: `DJANGO_SETTINGS_MODULE=lms.envs.devstack_docker`  
+working directory: `/edx/app/edxapp/edx-platform`  
+local directory: `/Users/<username>/workspace/edx-platform`   
+remote directory: `/edx/app/edxapp/edx-platform`  
+Deselect "Add content..." and "Add source..."  
+
 
 
 
@@ -66,7 +70,7 @@ docker-compose images
 `~/Library/Caches/Pychar*`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjI1ODAxNywtNzUzOTY3NTAyLDk3NT
+eyJoaXN0b3J5IjpbMjA3NzAwNzU3OSwtNzUzOTY3NTAyLDk3NT
 g5MjYyOSw4NTgyODk2MTksLTExOTAyNjgxOTUsMTExMjkyMTM1
 MSwtMTA3MTMxODA4Nyw0ODU4MDIwLC02MTk4NjI2XX0=
 -->
