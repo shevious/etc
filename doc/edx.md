@@ -50,7 +50,8 @@ interpreter path:
 debugger(django server);
 additional options: `runserver 0.0.0.0:18000`
 custom run command: `lms`
-env variable: `DJANGO_SETTINGS_MODULE=`
+env variable: `DJANGO_SETTINGS_MODULE=lms.envs.devstack_docker`
+working directory: `/edx/app/edxapp/edx-platform`
 
 
 
@@ -65,7 +66,7 @@ docker-compose images
 `~/Library/Caches/Pychar*`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3OTI5NTA0LC03NTM5Njc1MDIsOTc1OD
-kyNjI5LDg1ODI4OTYxOSwtMTE5MDI2ODE5NSwxMTEyOTIxMzUx
-LC0xMDcxMzE4MDg3LDQ4NTgwMjAsLTYxOTg2MjZdfQ==
+eyJoaXN0b3J5IjpbMjAxMjI1ODAxNywtNzUzOTY3NTAyLDk3NT
+g5MjYyOSw4NTgyODk2MTksLTExOTAyNjgxOTUsMTExMjkyMTM1
+MSwtMTA3MTMxODA4Nyw0ODU4MDIwLC02MTk4NjI2XX0=
 -->
