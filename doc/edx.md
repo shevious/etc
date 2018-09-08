@@ -41,7 +41,15 @@ make dev.provision
 [sudo apt-get update failes due to Hash Sum mismatch](https://askubuntu.com/questions/760574/sudo-apt-get-update-failes-due-to-hash-sum-mismatch)
 
 
+### docker commands
+list all docker images:
+```bash
+docker container ls --all
+docker-compose images
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTAyNjgxOTUsMTExMjkyMTM1MSwtMT
-A3MTMxODA4Nyw0ODU4MDIwLC02MTk4NjI2XX0=
+eyJoaXN0b3J5IjpbODU4Mjg5NjE5LC0xMTkwMjY4MTk1LDExMT
+I5MjEzNTEsLTEwNzEzMTgwODcsNDg1ODAyMCwtNjE5ODYyNl19
+
 -->
