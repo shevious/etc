@@ -99,14 +99,16 @@ make dev.sync.daemon.start
 # run lms service only
 docker-compose -f docker-compose.yml -f docker-compose-sync.yml up -d lms
 ```
+### docker compose
+http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/
 
 ### pycharm remote resources
 `~/Library/Caches/Pychar*`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEzNTg5NjM3LC02NzY2Nzc5MiwxNTYwNj
-k0MjA1LC01MDEwNTYyNzgsLTEzMzMzOTk2MDMsMjA3NzAwNzU3
-OSwtNzUzOTY3NTAyLDk3NTg5MjYyOSw4NTgyODk2MTksLTExOT
-AyNjgxOTUsMTExMjkyMTM1MSwtMTA3MTMxODA4Nyw0ODU4MDIw
-LC02MTk4NjI2XX0=
+eyJoaXN0b3J5IjpbLTg3MTk3OTk4Nyw3MTM1ODk2MzcsLTY3Nj
+Y3NzkyLDE1NjA2OTQyMDUsLTUwMTA1NjI3OCwtMTMzMzM5OTYw
+MywyMDc3MDA3NTc5LC03NTM5Njc1MDIsOTc1ODkyNjI5LDg1OD
+I4OTYxOSwtMTE5MDI2ODE5NSwxMTEyOTIxMzUxLC0xMDcxMzE4
+MDg3LDQ4NTgwMjAsLTYxOTg2MjZdfQ==
 -->
