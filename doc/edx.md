@@ -47,6 +47,7 @@ make stop
 [sudo apt-get update failes due to Hash Sum mismatch](https://askubuntu.com/questions/760574/sudo-apt-get-update-failes-due-to-hash-sum-mismatch)
 
 ## pycharm
+
 #### remote debugger  
 environments:
 `DEVSTACK_WORKSPACE=/Users/<username>/workspace`  
@@ -90,15 +91,13 @@ make dev.sync.daemon.start
 docker-compose -f docker-compose.yml -f docker-compose-sync.yml up -d lms
 ```
 
-
-
 ### pycharm remote resources
 `~/Library/Caches/Pychar*`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2NzA0MDU3LC02NzY2Nzc5MiwxNTYwNj
-k0MjA1LC01MDEwNTYyNzgsLTEzMzMzOTk2MDMsMjA3NzAwNzU3
-OSwtNzUzOTY3NTAyLDk3NTg5MjYyOSw4NTgyODk2MTksLTExOT
-AyNjgxOTUsMTExMjkyMTM1MSwtMTA3MTMxODA4Nyw0ODU4MDIw
-LC02MTk4NjI2XX0=
+eyJoaXN0b3J5IjpbLTEzOTI5OTAxOTcsLTY3NjY3NzkyLDE1Nj
+A2OTQyMDUsLTUwMTA1NjI3OCwtMTMzMzM5OTYwMywyMDc3MDA3
+NTc5LC03NTM5Njc1MDIsOTc1ODkyNjI5LDg1ODI4OTYxOSwtMT
+E5MDI2ODE5NSwxMTEyOTIxMzUxLC0xMDcxMzE4MDg3LDQ4NTgw
+MjAsLTYxOTg2MjZdfQ==
 -->
