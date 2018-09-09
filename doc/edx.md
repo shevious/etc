@@ -40,7 +40,7 @@ make dev.provision
 
 [sudo apt-get update failes due to Hash Sum mismatch](https://askubuntu.com/questions/760574/sudo-apt-get-update-failes-due-to-hash-sum-mismatch)
 
-#### pycharm
+## pycharm
 remote debugger  
 `DEVSTACK_WORKSPACE=/Users/<username>/workspace`  
 `OPENEDX_RELEASE=hawthorn.master`  
@@ -57,7 +57,10 @@ local directory: `/Users/<username>/workspace/edx-platform`
 remote directory: `/edx/app/edxapp/edx-platform`  
 Deselect "Add content..." and "Add source..."  
 
+#### hang issue for debug run
 
+[Python remote debugging using docker-compose hangs](https://youtrack.jetbrains.com/issue/PY-24191)  
+[](https://intellij-support.jetbrains.com/hc/en-us/community/posts/115000210730-Pycharm-Debugger-hangs-when-using-with-docker-compose)
 
 
 ### docker commands
@@ -71,8 +74,8 @@ docker-compose images
 `~/Library/Caches/Pychar*`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzMzOTk2MDMsMjA3NzAwNzU3OSwtNz
-UzOTY3NTAyLDk3NTg5MjYyOSw4NTgyODk2MTksLTExOTAyNjgx
-OTUsMTExMjkyMTM1MSwtMTA3MTMxODA4Nyw0ODU4MDIwLC02MT
-k4NjI2XX0=
+eyJoaXN0b3J5IjpbLTE2NjY5Mzk5MTIsLTEzMzMzOTk2MDMsMj
+A3NzAwNzU3OSwtNzUzOTY3NTAyLDk3NTg5MjYyOSw4NTgyODk2
+MTksLTExOTAyNjgxOTUsMTExMjkyMTM1MSwtMTA3MTMxODA4Ny
+w0ODU4MDIwLC02MTk4NjI2XX0=
 -->
