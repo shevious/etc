@@ -65,13 +65,17 @@ Deselect "Add content..." and "Add source..."
 solution: use `--noreload` option.
 
 ### docker commands
-list all docker images:
+
 ```bash
+#list all docker images:
 docker container ls --all
 docker-compose images
 
 #start docker-sync daemon for edx 
 make dev.sync.daemon.start
+
+# run lms service only
+docker-compose -f docker-compose.yml -f docker-compose-sync.yml up -d lms
 ```
 
 
@@ -80,8 +84,9 @@ make dev.sync.daemon.start
 `~/Library/Caches/Pychar*`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MDY5NDIwNSwtNTAxMDU2Mjc4LC0xMz
-MzMzk5NjAzLDIwNzcwMDc1NzksLTc1Mzk2NzUwMiw5NzU4OTI2
-MjksODU4Mjg5NjE5LC0xMTkwMjY4MTk1LDExMTI5MjEzNTEsLT
-EwNzEzMTgwODcsNDg1ODAyMCwtNjE5ODYyNl19
+eyJoaXN0b3J5IjpbLTY3NjY3NzkyLDE1NjA2OTQyMDUsLTUwMT
+A1NjI3OCwtMTMzMzM5OTYwMywyMDc3MDA3NTc5LC03NTM5Njc1
+MDIsOTc1ODkyNjI5LDg1ODI4OTYxOSwtMTE5MDI2ODE5NSwxMT
+EyOTIxMzUxLC0xMDcxMzE4MDg3LDQ4NTgwMjAsLTYxOTg2MjZd
+fQ==
 -->
