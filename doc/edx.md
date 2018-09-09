@@ -60,8 +60,9 @@ Deselect "Add content..." and "Add source..."
 #### hang issue for debug run
 
 [Python remote debugging using docker-compose hangs](https://youtrack.jetbrains.com/issue/PY-24191)  
-[](https://intellij-support.jetbrains.com/hc/en-us/community/posts/115000210730-Pycharm-Debugger-hangs-when-using-with-docker-compose)
+[Pycharm Debugger hangs when using with docker-compose](https://intellij-support.jetbrains.com/hc/en-us/community/posts/115000210730-Pycharm-Debugger-hangs-when-using-with-docker-compose)  
 
+solution: use `--noreload` option.
 
 ### docker commands
 list all docker images:
@@ -74,8 +75,8 @@ docker-compose images
 `~/Library/Caches/Pychar*`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjY5Mzk5MTIsLTEzMzMzOTk2MDMsMj
-A3NzAwNzU3OSwtNzUzOTY3NTAyLDk3NTg5MjYyOSw4NTgyODk2
-MTksLTExOTAyNjgxOTUsMTExMjkyMTM1MSwtMTA3MTMxODA4Ny
-w0ODU4MDIwLC02MTk4NjI2XX0=
+eyJoaXN0b3J5IjpbLTUwMTA1NjI3OCwtMTMzMzM5OTYwMywyMD
+c3MDA3NTc5LC03NTM5Njc1MDIsOTc1ODkyNjI5LDg1ODI4OTYx
+OSwtMTE5MDI2ODE5NSwxMTEyOTIxMzUxLC0xMDcxMzE4MDg3LD
+Q4NTgwMjAsLTYxOTg2MjZdfQ==
 -->
