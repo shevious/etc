@@ -41,14 +41,16 @@ make dev.provision
 [sudo apt-get update failes due to Hash Sum mismatch](https://askubuntu.com/questions/760574/sudo-apt-get-update-failes-due-to-hash-sum-mismatch)
 
 ## pycharm
-remote debugger  
+#### remote debugger  
+environments:
 `DEVSTACK_WORKSPACE=/Users/<username>/workspace`  
 `OPENEDX_RELEASE=hawthorn.master`  
 interpreter path:  
 `/edx/app/edxapp/venvs/edxapp/bin/python`  
 
-debugger(django server);  
+#### debugger(django server);  
 Edit debugger configuration -> Add Django Server
+Erase PORT.
 additional options: `runserver 0.0.0.0:18000 --noreload`  
 custom run command: `lms`  
 env variable:                 
@@ -86,7 +88,7 @@ docker-compose -f docker-compose.yml -f docker-compose-sync.yml up -d lms
 `~/Library/Caches/Pychar*`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzMyMTE3NywtNjc2Njc3OTIsMTU2MD
+eyJoaXN0b3J5IjpbLTIwMjkxOTYxMiwtNjc2Njc3OTIsMTU2MD
 Y5NDIwNSwtNTAxMDU2Mjc4LC0xMzMzMzk5NjAzLDIwNzcwMDc1
 NzksLTc1Mzk2NzUwMiw5NzU4OTI2MjksODU4Mjg5NjE5LC0xMT
 kwMjY4MTk1LDExMTI5MjEzNTEsLTEwNzEzMTgwODcsNDg1ODAy
