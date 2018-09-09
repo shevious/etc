@@ -69,14 +69,19 @@ list all docker images:
 ```bash
 docker container ls --all
 docker-compose images
+
+#start docker-sync daemon for edx 
+make dev.sync.daemon.start
 ```
+
+
 
 ### pycharm remote resources
 `~/Library/Caches/Pychar*`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTA1NjI3OCwtMTMzMzM5OTYwMywyMD
-c3MDA3NTc5LC03NTM5Njc1MDIsOTc1ODkyNjI5LDg1ODI4OTYx
-OSwtMTE5MDI2ODE5NSwxMTEyOTIxMzUxLC0xMDcxMzE4MDg3LD
-Q4NTgwMjAsLTYxOTg2MjZdfQ==
+eyJoaXN0b3J5IjpbMTU2MDY5NDIwNSwtNTAxMDU2Mjc4LC0xMz
+MzMzk5NjAzLDIwNzcwMDc1NzksLTc1Mzk2NzUwMiw5NzU4OTI2
+MjksODU4Mjg5NjE5LC0xMTkwMjY4MTk1LDExMTI5MjEzNTEsLT
+EwNzEzMTgwODcsNDg1ODAyMCwtNjE5ODYyNl19
 -->
