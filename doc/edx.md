@@ -57,10 +57,11 @@ interpreter path:
 
 #### Preferences -> Languages & Frameworks -> Django
 
- - [x] Enable Django Support
- Django Project Root: `/Users/<username>/workspace/edx-platform`  
- Settings: `lms/envs/devstack_docker.py`
- 
+ - [x] Enable Django Support  
+ Django Project Root: `/Users/<username>/workspace/edx-platform`    
+ Settings: `lms/envs/devstack_docker.py`  
+ Manage Scripts: `manage.py` (Select file with browser button)  
+
 
 #### debugger(django server);  
 
@@ -102,9 +103,9 @@ docker-compose -f docker-compose.yml -f docker-compose-sync.yml up -d lms
 `~/Library/Caches/Pychar*`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTIxNTA2OTAsLTY3NjY3NzkyLDE1Nj
-A2OTQyMDUsLTUwMTA1NjI3OCwtMTMzMzM5OTYwMywyMDc3MDA3
-NTc5LC03NTM5Njc1MDIsOTc1ODkyNjI5LDg1ODI4OTYxOSwtMT
-E5MDI2ODE5NSwxMTEyOTIxMzUxLC0xMDcxMzE4MDg3LDQ4NTgw
-MjAsLTYxOTg2MjZdfQ==
+eyJoaXN0b3J5IjpbLTYxNTIzNzgwNCwtNjc2Njc3OTIsMTU2MD
+Y5NDIwNSwtNTAxMDU2Mjc4LC0xMzMzMzk5NjAzLDIwNzcwMDc1
+NzksLTc1Mzk2NzUwMiw5NzU4OTI2MjksODU4Mjg5NjE5LC0xMT
+kwMjY4MTk1LDExMTI5MjEzNTEsLTEwNzEzMTgwODcsNDg1ODAy
+MCwtNjE5ODYyNl19
 -->
