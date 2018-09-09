@@ -55,6 +55,8 @@ environments:
 interpreter path:  
 `/edx/app/edxapp/venvs/edxapp/bin/python`  
 
+#### Preferences -> Languages &
+
 #### debugger(django server);  
 
 Edit debugger configuration -> Add Django Server
@@ -95,7 +97,7 @@ docker-compose -f docker-compose.yml -f docker-compose-sync.yml up -d lms
 `~/Library/Caches/Pychar*`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTI5OTAxOTcsLTY3NjY3NzkyLDE1Nj
+eyJoaXN0b3J5IjpbLTIwNzE1OTkyODUsLTY3NjY3NzkyLDE1Nj
 A2OTQyMDUsLTUwMTA1NjI3OCwtMTMzMzM5OTYwMywyMDc3MDA3
 NTc5LC03NTM5Njc1MDIsOTc1ODkyNjI5LDg1ODI4OTYxOSwtMT
 E5MDI2ODE5NSwxMTEyOTIxMzUxLC0xMDcxMzE4MDg3LDQ4NTgw
