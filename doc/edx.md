@@ -35,7 +35,11 @@ make dev.clone
 export OPENEDX_RELEASE=hawthorn.master 
 make dev.checkout
 make pull
-make dev.provision
+make dev.sync.provision
+make dev.sync.up
+
+# shutdown
+make stop
 ```
 
 #### provision error
@@ -91,9 +95,9 @@ docker-compose -f docker-compose.yml -f docker-compose-sync.yml up -d lms
 `~/Library/Caches/Pychar*`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0NjA3ODc5LC02NzY2Nzc5MiwxNTYwNj
-k0MjA1LC01MDEwNTYyNzgsLTEzMzMzOTk2MDMsMjA3NzAwNzU3
-OSwtNzUzOTY3NTAyLDk3NTg5MjYyOSw4NTgyODk2MTksLTExOT
-AyNjgxOTUsMTExMjkyMTM1MSwtMTA3MTMxODA4Nyw0ODU4MDIw
-LC02MTk4NjI2XX0=
+eyJoaXN0b3J5IjpbMTU0OTk4OTEyOCwtNjc2Njc3OTIsMTU2MD
+Y5NDIwNSwtNTAxMDU2Mjc4LC0xMzMzMzk5NjAzLDIwNzcwMDc1
+NzksLTc1Mzk2NzUwMiw5NzU4OTI2MjksODU4Mjg5NjE5LC0xMT
+kwMjY4MTk1LDExMTI5MjEzNTEsLTEwNzEzMTgwODcsNDg1ODAy
+MCwtNjE5ODYyNl19
 -->
