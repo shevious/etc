@@ -48,6 +48,7 @@ interpreter path:
 `/edx/app/edxapp/venvs/edxapp/bin/python`  
 
 debugger(django server);  
+Edit debugger configuration -> Add Django
 additional options: `runserver 0.0.0.0:18000`  
 custom run command: `lms`  
 env variable: `DJANGO_SETTINGS_MODULE=lms.envs.devstack_docker`    
@@ -84,9 +85,9 @@ docker-compose -f docker-compose.yml -f docker-compose-sync.yml up -d lms
 `~/Library/Caches/Pychar*`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjY3NzkyLDE1NjA2OTQyMDUsLTUwMT
-A1NjI3OCwtMTMzMzM5OTYwMywyMDc3MDA3NTc5LC03NTM5Njc1
-MDIsOTc1ODkyNjI5LDg1ODI4OTYxOSwtMTE5MDI2ODE5NSwxMT
-EyOTIxMzUxLC0xMDcxMzE4MDg3LDQ4NTgwMjAsLTYxOTg2MjZd
-fQ==
+eyJoaXN0b3J5IjpbMTU4MzQ0NDk3MCwtNjc2Njc3OTIsMTU2MD
+Y5NDIwNSwtNTAxMDU2Mjc4LC0xMzMzMzk5NjAzLDIwNzcwMDc1
+NzksLTc1Mzk2NzUwMiw5NzU4OTI2MjksODU4Mjg5NjE5LC0xMT
+kwMjY4MTk1LDExMTI5MjEzNTEsLTEwNzEzMTgwODcsNDg1ODAy
+MCwtNjE5ODYyNl19
 -->
