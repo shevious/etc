@@ -16,13 +16,15 @@ brew install python
 ```
 add path to ~/.profile
 ```bash
-# brew python unversioned path
+# brew python unversioned path(optional)
 export PATH=/usr/local/opt/python/libexec/bin:$PATH
 ```
 ```bash
-pip install virtualenv
+pip3 install virtualenv
 virtualenv venv
 surce venv/bin/activate
+
+sudo gem install docker-sync
 
 cd workspace # or the root directory of devstack
 git clone https://github.com/edx/devstack
@@ -89,9 +91,9 @@ docker-compose -f docker-compose.yml -f docker-compose-sync.yml up -d lms
 `~/Library/Caches/Pychar*`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjQ2NzkzMiwtNjc2Njc3OTIsMTU2MD
-Y5NDIwNSwtNTAxMDU2Mjc4LC0xMzMzMzk5NjAzLDIwNzcwMDc1
-NzksLTc1Mzk2NzUwMiw5NzU4OTI2MjksODU4Mjg5NjE5LC0xMT
-kwMjY4MTk1LDExMTI5MjEzNTEsLTEwNzEzMTgwODcsNDg1ODAy
-MCwtNjE5ODYyNl19
+eyJoaXN0b3J5IjpbNzI0NjA3ODc5LC02NzY2Nzc5MiwxNTYwNj
+k0MjA1LC01MDEwNTYyNzgsLTEzMzMzOTk2MDMsMjA3NzAwNzU3
+OSwtNzUzOTY3NTAyLDk3NTg5MjYyOSw4NTgyODk2MTksLTExOT
+AyNjgxOTUsMTExMjkyMTM1MSwtMTA3MTMxODA4Nyw0ODU4MDIw
+LC02MTk4NjI2XX0=
 -->
