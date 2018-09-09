@@ -69,10 +69,12 @@ Edit debugger configuration -> Add Django Server
 Erase PORT.
 additional options: `runserver 0.0.0.0:18000 --noreload`  
 custom run command: `lms`  
-env variable:                 
-           `DJANGO_SETTINGS_MODULE=lms.envs.devstack_docker`    
-           `PYTHONUNBUFFERED=1`   
-           Uncheck `Include Parent Environment Variable`
+env variable:     
+            
+      `DJANGO_SETTINGS_MODULE=lms.envs.devstack_docker`    
+      `PYTHONUNBUFFERED=1` 
+             Uncheck `Include Parent Environment Variable`
+             
 working directory: `/edx/app/edxapp/edx-platform`  
 local directory: `/Users/<username>/workspace/edx-platform`   
 remote directory: `/edx/app/edxapp/edx-platform`  
@@ -103,7 +105,7 @@ docker-compose -f docker-compose.yml -f docker-compose-sync.yml up -d lms
 `~/Library/Caches/Pychar*`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTM3NTU2LC02NzY2Nzc5MiwxNTYwNj
+eyJoaXN0b3J5IjpbMzE0ODY2Mjg2LC02NzY2Nzc5MiwxNTYwNj
 k0MjA1LC01MDEwNTYyNzgsLTEzMzMzOTk2MDMsMjA3NzAwNzU3
 OSwtNzUzOTY3NTAyLDk3NTg5MjYyOSw4NTgyODk2MTksLTExOT
 AyNjgxOTUsMTExMjkyMTM1MSwtMTA3MTMxODA4Nyw0ODU4MDIw
