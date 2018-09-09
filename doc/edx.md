@@ -57,7 +57,7 @@ interpreter path:
 
 #### Preferences -> Languages & Frameworks -> Django
 
- - [v ] List item
+ - [x] List item
 
 #### debugger(django server);  
 
@@ -99,9 +99,9 @@ docker-compose -f docker-compose.yml -f docker-compose-sync.yml up -d lms
 `~/Library/Caches/Pychar*`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4NjAzOTgyLC02NzY2Nzc5MiwxNTYwNj
-k0MjA1LC01MDEwNTYyNzgsLTEzMzMzOTk2MDMsMjA3NzAwNzU3
-OSwtNzUzOTY3NTAyLDk3NTg5MjYyOSw4NTgyODk2MTksLTExOT
-AyNjgxOTUsMTExMjkyMTM1MSwtMTA3MTMxODA4Nyw0ODU4MDIw
-LC02MTk4NjI2XX0=
+eyJoaXN0b3J5IjpbMzUxODE0MCwtNjc2Njc3OTIsMTU2MDY5ND
+IwNSwtNTAxMDU2Mjc4LC0xMzMzMzk5NjAzLDIwNzcwMDc1Nzks
+LTc1Mzk2NzUwMiw5NzU4OTI2MjksODU4Mjg5NjE5LC0xMTkwMj
+Y4MTk1LDExMTI5MjEzNTEsLTEwNzEzMTgwODcsNDg1ODAyMCwt
+NjE5ODYyNl19
 -->
