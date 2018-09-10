@@ -93,6 +93,9 @@ solution: use `--noreload` option.
 docker container ls --all
 docker-compose images
 
+#docker images location-mac
+/Users/<username>/Library/Containers/com.docker.docker/Data/vms
+
 #start docker-sync daemon for edx 
 make dev.sync.daemon.start
 
@@ -106,9 +109,9 @@ http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/
 `~/Library/Caches/Pychar*`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MTk3OTk4Nyw3MTM1ODk2MzcsLTY3Nj
-Y3NzkyLDE1NjA2OTQyMDUsLTUwMTA1NjI3OCwtMTMzMzM5OTYw
-MywyMDc3MDA3NTc5LC03NTM5Njc1MDIsOTc1ODkyNjI5LDg1OD
-I4OTYxOSwtMTE5MDI2ODE5NSwxMTEyOTIxMzUxLC0xMDcxMzE4
-MDg3LDQ4NTgwMjAsLTYxOTg2MjZdfQ==
+eyJoaXN0b3J5IjpbOTI2NTk1ODIsLTg3MTk3OTk4Nyw3MTM1OD
+k2MzcsLTY3NjY3NzkyLDE1NjA2OTQyMDUsLTUwMTA1NjI3OCwt
+MTMzMzM5OTYwMywyMDc3MDA3NTc5LC03NTM5Njc1MDIsOTc1OD
+kyNjI5LDg1ODI4OTYxOSwtMTE5MDI2ODE5NSwxMTEyOTIxMzUx
+LC0xMDcxMzE4MDg3LDQ4NTgwMjAsLTYxOTg2MjZdfQ==
 -->
