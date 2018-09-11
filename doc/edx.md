@@ -108,10 +108,39 @@ http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/
 ### pycharm remote resources
 `~/Library/Caches/Pychar*`
 
+
+## insights
+
+#### before insights
+```bash
+(venv) sheviousui-iMac:devstack shevious$ docker images
+REPOSITORY                TAG                 IMAGE ID            CREATED             SIZE
+intellij/docker/compose   1.10.0              6d14511e6aa4        46 hours ago        59.3MB
+pycharm_helpers           PY-173.4127.16      e88cb11c90a6        2 days ago          34.7MB
+edxops/edxapp             hawthorn.master     ce5c8a6ce344        3 days ago          2.59GB
+mysql                     5.6                 1f47fade220d        6 days ago          256MB
+edxops/ecommerce          hawthorn.master     423970a14e56        5 weeks ago         1.76GB
+edxops/discovery          hawthorn.master     c7f7c968b346        5 weeks ago         1.74GB
+edxops/credentials        hawthorn.master     86a89709c525        5 weeks ago         1.62GB
+busybox                   latest              e1ddd7948a1c        5 weeks ago         1.16MB
+edxops/forum              hawthorn.master     6c80012890d2        6 weeks ago         1.25GB
+edxops/notes              hawthorn.master     96b9c4f2b7b3        7 weeks ago         1.05GB
+edxops/devpi              hawthorn.master     7f05492b3fcf        2 months ago        1.02GB
+edxops/firefox            hawthorn.master     64e4b04ae13b        2 months ago        860MB
+edxops/chrome             hawthorn.master     bfc16ec25edd        2 months ago        892MB
+eugenmayer/unison         2.51.2.1            8131aeebf904        5 months ago        80.7MB
+mongo                     3.2.16              16149f61df57        12 months ago       301MB
+docker/compose            1.11.2              61252c282969        18 months ago       59.4MB
+edxops/elasticsearch      devstack            bff0a7ae0833        19 months ago       347MB
+docker/compose            1.10.0              62fbca31c5ee        20 months ago       59.3MB
+memcached                 1.4.24              66438aa20444        2 years ago         132MB
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2NTk1ODIsLTg3MTk3OTk4Nyw3MTM1OD
-k2MzcsLTY3NjY3NzkyLDE1NjA2OTQyMDUsLTUwMTA1NjI3OCwt
-MTMzMzM5OTYwMywyMDc3MDA3NTc5LC03NTM5Njc1MDIsOTc1OD
-kyNjI5LDg1ODI4OTYxOSwtMTE5MDI2ODE5NSwxMTEyOTIxMzUx
-LC0xMDcxMzE4MDg3LDQ4NTgwMjAsLTYxOTg2MjZdfQ==
+eyJoaXN0b3J5IjpbNDQ3Nzg0NzgwLDkyNjU5NTgyLC04NzE5Nz
+k5ODcsNzEzNTg5NjM3LC02NzY2Nzc5MiwxNTYwNjk0MjA1LC01
+MDEwNTYyNzgsLTEzMzMzOTk2MDMsMjA3NzAwNzU3OSwtNzUzOT
+Y3NTAyLDk3NTg5MjYyOSw4NTgyODk2MTksLTExOTAyNjgxOTUs
+MTExMjkyMTM1MSwtMTA3MTMxODA4Nyw0ODU4MDIwLC02MTk4Nj
+I2XX0=
 -->
