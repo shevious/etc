@@ -136,11 +136,15 @@ docker/compose            1.10.0              62fbca31c5ee        20 months ago 
 memcached                 1.4.24              66438aa20444        2 years ago         132MB
 ```
 
+### insights docker
+
+https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=edxops&starCount=0
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3Nzg0NzgwLDkyNjU5NTgyLC04NzE5Nz
-k5ODcsNzEzNTg5NjM3LC02NzY2Nzc5MiwxNTYwNjk0MjA1LC01
-MDEwNTYyNzgsLTEzMzMzOTk2MDMsMjA3NzAwNzU3OSwtNzUzOT
-Y3NTAyLDk3NTg5MjYyOSw4NTgyODk2MTksLTExOTAyNjgxOTUs
-MTExMjkyMTM1MSwtMTA3MTMxODA4Nyw0ODU4MDIwLC02MTk4Nj
-I2XX0=
+eyJoaXN0b3J5IjpbMTEzNTk3NDk0Miw0NDc3ODQ3ODAsOTI2NT
+k1ODIsLTg3MTk3OTk4Nyw3MTM1ODk2MzcsLTY3NjY3NzkyLDE1
+NjA2OTQyMDUsLTUwMTA1NjI3OCwtMTMzMzM5OTYwMywyMDc3MD
+A3NTc5LC03NTM5Njc1MDIsOTc1ODkyNjI5LDg1ODI4OTYxOSwt
+MTE5MDI2ODE5NSwxMTEyOTIxMzUxLC0xMDcxMzE4MDg3LDQ4NT
+gwMjAsLTYxOTg2MjZdfQ==
 -->
