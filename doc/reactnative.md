@@ -45,6 +45,10 @@ install jdk: Java SE Development Kit 8u181
 [Using react-devtools with React Native](https://blog.expo.io/using-react-devtools-with-react-native-6c59e636a03b)  
 [React Native Debugging Tools](https://codeburst.io/react-native-debugging-tools-3a24e4e40e4)   
 
+## component lifecycle
+http://busypeoples.github.io/post/react-component-lifecycle/  
+
+
 ## run ios on device
 
 ```
@@ -70,9 +74,9 @@ $ adb logcat | grep ReactNativeJS
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzEwNzA0OTUsMjQ4MDM4OTQ0LDEzMT
-k2NzA5MTQsMTMxMzY0NDU1MSwtMTAzMzAxNzIxMSwtMTIxMzcz
-MjM1MywtMTEzMjM1NjQ2Myw4NjkzNTgxOTcsNzEyMzY1Mjk4LD
-E1NDI2MzY0NTIsLTIxMjQ2ODEyNTcsLTE4NjA4ODcwODgsLTE1
-OTEyNTYwNzVdfQ==
+eyJoaXN0b3J5IjpbMTUxNjkyMDE5LC0xODcxMDcwNDk1LDI0OD
+AzODk0NCwxMzE5NjcwOTE0LDEzMTM2NDQ1NTEsLTEwMzMwMTcy
+MTEsLTEyMTM3MzIzNTMsLTExMzIzNTY0NjMsODY5MzU4MTk3LD
+cxMjM2NTI5OCwxNTQyNjM2NDUyLC0yMTI0NjgxMjU3LC0xODYw
+ODg3MDg4LC0xNTkxMjU2MDc1XX0=
 -->
