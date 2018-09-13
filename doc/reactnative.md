@@ -47,7 +47,8 @@ install jdk: Java SE Development Kit 8u181
 
 ## component lifecycle
 http://busypeoples.github.io/post/react-component-lifecycle/  
-
+https://reactarmory.com/guides/lifecycle-simulators  
+https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b3e8d  
 
 ## run ios on device
 
@@ -74,9 +75,9 @@ $ adb logcat | grep ReactNativeJS
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjkyMDE5LC0xODcxMDcwNDk1LDI0OD
-AzODk0NCwxMzE5NjcwOTE0LDEzMTM2NDQ1NTEsLTEwMzMwMTcy
-MTEsLTEyMTM3MzIzNTMsLTExMzIzNTY0NjMsODY5MzU4MTk3LD
-cxMjM2NTI5OCwxNTQyNjM2NDUyLC0yMTI0NjgxMjU3LC0xODYw
-ODg3MDg4LC0xNTkxMjU2MDc1XX0=
+eyJoaXN0b3J5IjpbLTg0MzE0MDAxOCwxNTE2OTIwMTksLTE4Nz
+EwNzA0OTUsMjQ4MDM4OTQ0LDEzMTk2NzA5MTQsMTMxMzY0NDU1
+MSwtMTAzMzAxNzIxMSwtMTIxMzczMjM1MywtMTEzMjM1NjQ2My
+w4NjkzNTgxOTcsNzEyMzY1Mjk4LDE1NDI2MzY0NTIsLTIxMjQ2
+ODEyNTcsLTE4NjA4ODcwODgsLTE1OTEyNTYwNzVdfQ==
 -->
