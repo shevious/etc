@@ -46,6 +46,7 @@ install jdk: Java SE Development Kit 8u181
 [React Native Debugging Tools](https://codeburst.io/react-native-debugging-tools-3a24e4e40e4)   
 
 ## component lifecycle
+
 http://busypeoples.github.io/post/react-component-lifecycle/  
 https://reactarmory.com/guides/lifecycle-simulators  
 https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b3e8d  
@@ -75,7 +76,7 @@ $ adb logcat | grep ReactNativeJS
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MzE0MDAxOCwxNTE2OTIwMTksLTE4Nz
+eyJoaXN0b3J5IjpbLTQ4OTEwNTk1MiwxNTE2OTIwMTksLTE4Nz
 EwNzA0OTUsMjQ4MDM4OTQ0LDEzMTk2NzA5MTQsMTMxMzY0NDU1
 MSwtMTAzMzAxNzIxMSwtMTIxMzczMjM1MywtMTEzMjM1NjQ2My
 w4NjkzNTgxOTcsNzEyMzY1Mjk4LDE1NDI2MzY0NTIsLTIxMjQ2
