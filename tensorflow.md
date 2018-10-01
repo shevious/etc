@@ -45,7 +45,13 @@ nomodeset:
 https://askubuntu.com/questions/38780/how-do-i-set-nomodeset-after-ive-already-installed-ubuntu  
 http://reachlab-kr.github.io/linux/2015/09/13/Ubuntu-Nvidia-nomodeset.html  
 
+
+# tensorflow mac
+
+[tensorflow-gpu-macosx](https://github.com/zylo117/tensorflow-gpu-macosx)  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDc2MDc4MTAsLTE2MzcwNjYyOTQsMT
-AwMjgyMzMxMCwyNjYzOTI0NzksLTE3OTAxMTIwOTldfQ==
+eyJoaXN0b3J5IjpbLTIwNjgyNzcwMjMsLTIxMDc2MDc4MTAsLT
+E2MzcwNjYyOTQsMTAwMjgyMzMxMCwyNjYzOTI0NzksLTE3OTAx
+MTIwOTldfQ==
 -->
