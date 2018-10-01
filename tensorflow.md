@@ -50,9 +50,9 @@ http://reachlab-kr.github.io/linux/2015/09/13/Ubuntu-Nvidia-nomodeset.html
 
 [tensorflow-gpu-macosx](https://github.com/zylo117/tensorflow-gpu-macosx)  
 [Tensorflow GPU 1.8 with MacOS 10.13.6](https://egpu.io/forums/mac-setup/tensorflow-gpu-1-8-with-macos-10-13-6/)  
-[]()(  
+[Tensorflow 1.8 with CUDA on macOS High Sierra 10.13.4](https://gist.github.com/Willian-Zhang/a3bd10da2d8b343875f3862b2a62eb3b)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njc2ODExMTgsLTIxMDc2MDc4MTAsLT
-E2MzcwNjYyOTQsMTAwMjgyMzMxMCwyNjYzOTI0NzksLTE3OTAx
-MTIwOTldfQ==
+eyJoaXN0b3J5IjpbNjE2MjkzNjM5LC0yMTA3NjA3ODEwLC0xNj
+M3MDY2Mjk0LDEwMDI4MjMzMTAsMjY2MzkyNDc5LC0xNzkwMTEy
+MDk5XX0=
 -->
