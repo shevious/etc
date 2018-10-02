@@ -106,10 +106,11 @@ $ sudo perl uninstall_cuda_9.1.pl \
 $ sudo perl uninstall_cuda_9.1.pl \
     --manifest=.cuda_samples_uninstall_manifest_do_not_delete.txt
 ```
+#### install cuda tookit cuda_10.0.130_mac.dmg
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTc5NDc4MywtNTYxMDM0Mzk4LC00MD
-kwNDcyMjgsNzAxOTgwNDQxLDYxNjI5MzYzOSwtMjEwNzYwNzgx
-MCwtMTYzNzA2NjI5NCwxMDAyODIzMzEwLDI2NjM5MjQ3OSwtMT
-c5MDExMjA5OV19
+eyJoaXN0b3J5IjpbNDUyNjE3NjQ4LC01NjEwMzQzOTgsLTQwOT
+A0NzIyOCw3MDE5ODA0NDEsNjE2MjkzNjM5LC0yMTA3NjA3ODEw
+LC0xNjM3MDY2Mjk0LDEwMDI4MjMzMTAsMjY2MzkyNDc5LC0xNz
+kwMTEyMDk5XX0=
 -->
