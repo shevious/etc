@@ -51,8 +51,15 @@ http://reachlab-kr.github.io/linux/2015/09/13/Ubuntu-Nvidia-nomodeset.html
 [tensorflow-gpu-macosx](https://github.com/zylo117/tensorflow-gpu-macosx)  
 [Tensorflow GPU 1.8 with MacOS 10.13.6](https://egpu.io/forums/mac-setup/tensorflow-gpu-1-8-with-macos-10-13-6/)  
 [Tensorflow 1.8 with CUDA on macOS High Sierra 10.13.4](https://gist.github.com/Willian-Zhang/a3bd10da2d8b343875f3862b2a62eb3b)  
+
+#### cuda mac driver
+
+https://www.nvidia.com/object/mac-driver-archive.html  
+(installed [CUDA 410.130 driver for MAC](https://www.nvidia.com/object/macosx-cuda-410.130-driver.html) )  
+
+#### cuda toolkit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2MjkzNjM5LC0yMTA3NjA3ODEwLC0xNj
-M3MDY2Mjk0LDEwMDI4MjMzMTAsMjY2MzkyNDc5LC0xNzkwMTEy
-MDk5XX0=
+eyJoaXN0b3J5IjpbLTEzNTgxMTk3NDcsNjE2MjkzNjM5LC0yMT
+A3NjA3ODEwLC0xNjM3MDY2Mjk0LDEwMDI4MjMzMTAsMjY2Mzky
+NDc5LC0xNzkwMTEyMDk5XX0=
 -->
