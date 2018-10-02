@@ -73,12 +73,17 @@ Choose which packages you wish to install. The packages are:
 
 Set up the required environment variables:
 
+```bash
 export PATH=/Developer/NVIDIA/CUDA-9.1/bin${PATH:+:${PATH}}
 export DYLD_LIBRARY_PATH=/Developer/NVIDIA/CUDA-9.1/lib\
                          ${DYLD_LIBRARY_PATH:+:${DYLD_LIBRARY_PATH}}
+
+cd ~/NVIDIA_CUDA-9.1_Samples
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTM2NjE5OSwtNTYxMDM0Mzk4LC00MD
-kwNDcyMjgsNzAxOTgwNDQxLDYxNjI5MzYzOSwtMjEwNzYwNzgx
-MCwtMTYzNzA2NjI5NCwxMDAyODIzMzEwLDI2NjM5MjQ3OSwtMT
-c5MDExMjA5OV19
+eyJoaXN0b3J5IjpbLTExNjIxNjkxMzEsLTU2MTAzNDM5OCwtND
+A5MDQ3MjI4LDcwMTk4MDQ0MSw2MTYyOTM2MzksLTIxMDc2MDc4
+MTAsLTE2MzcwNjYyOTQsMTAwMjgyMzMxMCwyNjYzOTI0NzksLT
+E3OTAxMTIwOTldfQ==
 -->
