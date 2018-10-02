@@ -122,13 +122,13 @@ curl -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/web
 -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" \
 -LO https://download.developer.apple.com/Developer_Tools/Xcode_9.2/Xcode_9.2.xip
 ```
-
+copy `xcode_9.2` to `/Applications`
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3NzM5NzM2LC0xMzg5MDMzNjAzLDg0Mj
-QxMzg1NywtMTYzMzAyOTE5OSwtMzgxMDk5NDk3LC01NjEwMzQz
-OTgsLTQwOTA0NzIyOCw3MDE5ODA0NDEsNjE2MjkzNjM5LC0yMT
-A3NjA3ODEwLC0xNjM3MDY2Mjk0LDEwMDI4MjMzMTAsMjY2Mzky
-NDc5LC0xNzkwMTEyMDk5XX0=
+eyJoaXN0b3J5IjpbMzQxNjgyODUsOTU3NzM5NzM2LC0xMzg5MD
+MzNjAzLDg0MjQxMzg1NywtMTYzMzAyOTE5OSwtMzgxMDk5NDk3
+LC01NjEwMzQzOTgsLTQwOTA0NzIyOCw3MDE5ODA0NDEsNjE2Mj
+kzNjM5LC0yMTA3NjA3ODEwLC0xNjM3MDY2Mjk0LDEwMDI4MjMz
+MTAsMjY2MzkyNDc5LC0xNzkwMTEyMDk5XX0=
 -->
