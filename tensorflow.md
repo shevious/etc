@@ -56,10 +56,15 @@ http://reachlab-kr.github.io/linux/2015/09/13/Ubuntu-Nvidia-nomodeset.html
 
 https://www.nvidia.com/object/mac-driver-archive.html  
 (installed [CUDA 410.130 driver for MAC](https://www.nvidia.com/object/macosx-cuda-410.130-driver.html) )  
+```bash
+$ kextstat | grep -i cuda
+153  0 0xffffff7f835af000 0x2000 0x2000 com.nvidia.CUDA (1.1.0) E13478CB-B251-3C0A-86E9-A6B56F528FE8 <4 1>
+```
 
 #### cuda toolkit
 
 https://developer.nvidia.com/cuda-toolkit-archive  
+https://docs.nvidia.com/cuda/archive/9.1/cuda-installation-guide-mac-os-x/index.html  
 
 Choose which packages you wish to install. The packages are:
 
@@ -82,8 +87,8 @@ cd ~/NVIDIA_CUDA-9.1_Samples
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjIxNjkxMzEsLTU2MTAzNDM5OCwtND
-A5MDQ3MjI4LDcwMTk4MDQ0MSw2MTYyOTM2MzksLTIxMDc2MDc4
-MTAsLTE2MzcwNjYyOTQsMTAwMjgyMzMxMCwyNjYzOTI0NzksLT
-E3OTAxMTIwOTldfQ==
+eyJoaXN0b3J5IjpbLTI3NzM4OTAwNCwtNTYxMDM0Mzk4LC00MD
+kwNDcyMjgsNzAxOTgwNDQxLDYxNjI5MzYzOSwtMjEwNzYwNzgx
+MCwtMTYzNzA2NjI5NCwxMDAyODIzMzEwLDI2NjM5MjQ3OSwtMT
+c5MDExMjA5OV19
 -->
