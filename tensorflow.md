@@ -98,11 +98,14 @@ make: *** [vectorAdd.o] Error 1
 Error -> Let;s try cuda 10.0
 
 #### uninstall cuda 9.1
-```
+```bash
+$ cd /Developer/NVIDIA/CUDA-9.1/bin
+$ sudo perl uninstall_cuda_9.1.pl \
+    --manifest=.cuda_toolkit_uninstall_manifest_do_not_delete.txt
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDI2NTI4MSwtNTYxMDM0Mzk4LC00MD
-kwNDcyMjgsNzAxOTgwNDQxLDYxNjI5MzYzOSwtMjEwNzYwNzgx
-MCwtMTYzNzA2NjI5NCwxMDAyODIzMzEwLDI2NjM5MjQ3OSwtMT
-c5MDExMjA5OV19
+eyJoaXN0b3J5IjpbOTQzMTAxMzgsLTU2MTAzNDM5OCwtNDA5MD
+Q3MjI4LDcwMTk4MDQ0MSw2MTYyOTM2MzksLTIxMDc2MDc4MTAs
+LTE2MzcwNjYyOTQsMTAwMjgyMzMxMCwyNjYzOTI0NzksLTE3OT
+AxMTIwOTldfQ==
 -->
