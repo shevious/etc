@@ -127,18 +127,14 @@ copy `xcode_9.2` to `/Applications`
 $ xcode-select -p
 /Library/Developer/CommandLineTools
 $ sudo xcode-select -s /Applications/Xcode_9.2.app
-
--bash: xcode-selct: command not found
-
-galhyeon-iMac:~ shevious$ xcode-select -p
-
+$ xcode-select -p
 /Applications/Xcode_9.2.app/Contents/Develope
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjk4NzExNTYsOTU3NzM5NzM2LC0xMz
-g5MDMzNjAzLDg0MjQxMzg1NywtMTYzMzAyOTE5OSwtMzgxMDk5
-NDk3LC01NjEwMzQzOTgsLTQwOTA0NzIyOCw3MDE5ODA0NDEsNj
-E2MjkzNjM5LC0yMTA3NjA3ODEwLC0xNjM3MDY2Mjk0LDEwMDI4
-MjMzMTAsMjY2MzkyNDc5LC0xNzkwMTEyMDk5XX0=
+eyJoaXN0b3J5IjpbLTQ5NjY2ODkzMCw5NTc3Mzk3MzYsLTEzOD
+kwMzM2MDMsODQyNDEzODU3LC0xNjMzMDI5MTk5LC0zODEwOTk0
+OTcsLTU2MTAzNDM5OCwtNDA5MDQ3MjI4LDcwMTk4MDQ0MSw2MT
+YyOTM2MzksLTIxMDc2MDc4MTAsLTE2MzcwNjYyOTQsMTAwMjgy
+MzMxMCwyNjYzOTI0NzksLTE3OTAxMTIwOTldfQ==
 -->
