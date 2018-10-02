@@ -96,7 +96,7 @@ nvcc fatal : The version ('100000') of the host compiler ('Apple clang') is not 
 make: *** [vectorAdd.o] Error 1
 ```
 
-Error -> Let's try cuda 10.0
+Error -> Let's try xcode 9.4
 
 #### uninstall cuda 9.1
 
@@ -108,14 +108,12 @@ sudo perl uninstall_cuda_9.1.pl \
     --manifest=.cuda_samples_uninstall_manifest_do_not_delete.txt
 ```
 
-#### cuda toolkit 10.0.130
-
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzMwMjkxOTksLTM4MTA5OTQ5NywtNT
-YxMDM0Mzk4LC00MDkwNDcyMjgsNzAxOTgwNDQxLDYxNjI5MzYz
-OSwtMjEwNzYwNzgxMCwtMTYzNzA2NjI5NCwxMDAyODIzMzEwLD
-I2NjM5MjQ3OSwtMTc5MDExMjA5OV19
+eyJoaXN0b3J5IjpbLTc1NjczMzYwOSwtMTYzMzAyOTE5OSwtMz
+gxMDk5NDk3LC01NjEwMzQzOTgsLTQwOTA0NzIyOCw3MDE5ODA0
+NDEsNjE2MjkzNjM5LC0yMTA3NjA3ODEwLC0xNjM3MDY2Mjk0LD
+EwMDI4MjMzMTAsMjY2MzkyNDc5LC0xNzkwMTEyMDk5XX0=
 -->
