@@ -103,12 +103,11 @@ $ cd /Developer/NVIDIA/CUDA-9.1/bin
 $ sudo perl uninstall_cuda_9.1.pl \
     --manifest=.cuda_toolkit_uninstall_manifest_do_not_delete.txt
 $ sudo perl uninstall_cuda_9.1.pl \
-    --manifest=.cuda_toolkit_uninstall_manifest_do_not_delete.txt
-
+    --manifest=.cuda_samples_uninstall_manifest_do_not_delete.txt
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0MDkxNTUwLC01NjEwMzQzOTgsLTQwOT
-A0NzIyOCw3MDE5ODA0NDEsNjE2MjkzNjM5LC0yMTA3NjA3ODEw
-LC0xNjM3MDY2Mjk0LDEwMDI4MjMzMTAsMjY2MzkyNDc5LC0xNz
-kwMTEyMDk5XX0=
+eyJoaXN0b3J5IjpbMTk1MjM5NDg0OSwtNTYxMDM0Mzk4LC00MD
+kwNDcyMjgsNzAxOTgwNDQxLDYxNjI5MzYzOSwtMjEwNzYwNzgx
+MCwtMTYzNzA2NjI5NCwxMDAyODIzMzEwLDI2NjM5MjQ3OSwtMT
+c5MDExMjA5OV19
 -->
