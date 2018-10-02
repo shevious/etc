@@ -108,11 +108,12 @@ sudo perl uninstall_cuda_9.1.pl \
     --manifest=.cuda_samples_uninstall_manifest_do_not_delete.txt
 ```
 
+#### xcode 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjczMzYwOSwtMTYzMzAyOTE5OSwtMz
+eyJoaXN0b3J5IjpbMTUzODE3Mzg2NCwtMTYzMzAyOTE5OSwtMz
 gxMDk5NDk3LC01NjEwMzQzOTgsLTQwOTA0NzIyOCw3MDE5ODA0
 NDEsNjE2MjkzNjM5LC0yMTA3NjA3ODEwLC0xNjM3MDY2Mjk0LD
 EwMDI4MjMzMTAsMjY2MzkyNDc5LC0xNzkwMTEyMDk5XX0=
