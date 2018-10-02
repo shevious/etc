@@ -102,10 +102,13 @@ Error -> Let;s try cuda 10.0
 $ cd /Developer/NVIDIA/CUDA-9.1/bin
 $ sudo perl uninstall_cuda_9.1.pl \
     --manifest=.cuda_toolkit_uninstall_manifest_do_not_delete.txt
+$ sudo perl uninstall_cuda_9.1.pl \
+    --manifest=.cuda_toolkit_uninstall_manifest_do_not_delete.txt
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzMTAxMzgsLTU2MTAzNDM5OCwtNDA5MD
-Q3MjI4LDcwMTk4MDQ0MSw2MTYyOTM2MzksLTIxMDc2MDc4MTAs
-LTE2MzcwNjYyOTQsMTAwMjgyMzMxMCwyNjYzOTI0NzksLTE3OT
-AxMTIwOTldfQ==
+eyJoaXN0b3J5IjpbNzI0MDkxNTUwLC01NjEwMzQzOTgsLTQwOT
+A0NzIyOCw3MDE5ODA0NDEsNjE2MjkzNjM5LC0yMTA3NjA3ODEw
+LC0xNjM3MDY2Mjk0LDEwMDI4MjMzMTAsMjY2MzkyNDc5LC0xNz
+kwMTEyMDk5XX0=
 -->
