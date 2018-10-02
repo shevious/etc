@@ -61,7 +61,7 @@ $ kextstat | grep -i cuda
 153  0 0xffffff7f835af000 0x2000 0x2000 com.nvidia.CUDA (1.1.0) E13478CB-B251-3C0A-86E9-A6B56F528FE8 <4 1>
 ```
 
-#### cuda toolkit
+#### cuda toolkit 9.1
 
 [cuda-toolkit-archive](https://developer.nvidia.com/cuda-toolkit-archive)  
 [cuda-installation-guide-mac-os-x](https://docs.nvidia.com/cuda/archive/9.1/cuda-installation-guide-mac-os-x/index.html)  
@@ -106,11 +106,15 @@ $ sudo perl uninstall_cuda_9.1.pl \
 $ sudo perl uninstall_cuda_9.1.pl \
     --manifest=.cuda_samples_uninstall_manifest_do_not_delete.txt
 ```
-#### install cuda tookit cuda_10.0.130_mac.dmg
+
+#### cuda toolkit 10.0.130
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyNjE3NjQ4LC01NjEwMzQzOTgsLTQwOT
-A0NzIyOCw3MDE5ODA0NDEsNjE2MjkzNjM5LC0yMTA3NjA3ODEw
-LC0xNjM3MDY2Mjk0LDEwMDI4MjMzMTAsMjY2MzkyNDc5LC0xNz
-kwMTEyMDk5XX0=
+eyJoaXN0b3J5IjpbLTM4MTA5OTQ5NywtNTYxMDM0Mzk4LC00MD
+kwNDcyMjgsNzAxOTgwNDQxLDYxNjI5MzYzOSwtMjEwNzYwNzgx
+MCwtMTYzNzA2NjI5NCwxMDAyODIzMzEwLDI2NjM5MjQ3OSwtMT
+c5MDExMjA5OV19
 -->
