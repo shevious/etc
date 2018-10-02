@@ -123,12 +123,15 @@ curl -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/web
 -LO https://download.developer.apple.com/Developer_Tools/Xcode_9.2/Xcode_9.2.xip
 ```
 copy `xcode_9.2` to `/Applications`
-
+```bash
+$ xcode-select -p
+/Library/Developer/CommandLineTools
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxNjgyODUsOTU3NzM5NzM2LC0xMzg5MD
-MzNjAzLDg0MjQxMzg1NywtMTYzMzAyOTE5OSwtMzgxMDk5NDk3
-LC01NjEwMzQzOTgsLTQwOTA0NzIyOCw3MDE5ODA0NDEsNjE2Mj
-kzNjM5LC0yMTA3NjA3ODEwLC0xNjM3MDY2Mjk0LDEwMDI4MjMz
-MTAsMjY2MzkyNDc5LC0xNzkwMTEyMDk5XX0=
+eyJoaXN0b3J5IjpbMTg1OTIxNDQwNCw5NTc3Mzk3MzYsLTEzOD
+kwMzM2MDMsODQyNDEzODU3LC0xNjMzMDI5MTk5LC0zODEwOTk0
+OTcsLTU2MTAzNDM5OCwtNDA5MDQ3MjI4LDcwMTk4MDQ0MSw2MT
+YyOTM2MzksLTIxMDc2MDc4MTAsLTE2MzcwNjYyOTQsMTAwMjgy
+MzMxMCwyNjYzOTI0NzksLTE3OTAxMTIwOTldfQ==
 -->
