@@ -84,7 +84,7 @@ export DYLD_LIBRARY_PATH=/Developer/NVIDIA/CUDA-9.1/lib\
                          ${DYLD_LIBRARY_PATH:+:${DYLD_LIBRARY_PATH}}
 
 cd ~/NVIDIA_CUDA-9.1_Samples
-$ make -C 0_Simple/vectorAdd
+make -C 0_Simple/vectorAdd
 xcode-select: error: tool 'xcodebuild' requires Xcode, but active developer directory '/Library/Developer/CommandLineTools' is a command line tools instance
 
 expr: syntax error
@@ -95,15 +95,16 @@ nvcc fatal : The version ('100000') of the host compiler ('Apple clang') is not 
 
 make: *** [vectorAdd.o] Error 1
 ```
-Error -> Let;s try cuda 10.0
+
+Error -> Let's try cuda 10.0
 
 #### uninstall cuda 9.1
 
 ```bash
-$ cd /Developer/NVIDIA/CUDA-9.1/bin
-$ sudo perl uninstall_cuda_9.1.pl \
+cd /Developer/NVIDIA/CUDA-9.1/bin
+sudo perl uninstall_cuda_9.1.pl \
     --manifest=.cuda_toolkit_uninstall_manifest_do_not_delete.txt
-$ sudo perl uninstall_cuda_9.1.pl \
+sudo perl uninstall_cuda_9.1.pl \
     --manifest=.cuda_samples_uninstall_manifest_do_not_delete.txt
 ```
 
@@ -113,8 +114,8 @@ $ sudo perl uninstall_cuda_9.1.pl \
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTA5OTQ5NywtNTYxMDM0Mzk4LC00MD
-kwNDcyMjgsNzAxOTgwNDQxLDYxNjI5MzYzOSwtMjEwNzYwNzgx
-MCwtMTYzNzA2NjI5NCwxMDAyODIzMzEwLDI2NjM5MjQ3OSwtMT
-c5MDExMjA5OV19
+eyJoaXN0b3J5IjpbLTE2MzMwMjkxOTksLTM4MTA5OTQ5NywtNT
+YxMDM0Mzk4LC00MDkwNDcyMjgsNzAxOTgwNDQxLDYxNjI5MzYz
+OSwtMjEwNzYwNzgxMCwtMTYzNzA2NjI5NCwxMDAyODIzMzEwLD
+I2NjM5MjQ3OSwtMTc5MDExMjA5OV19
 -->
