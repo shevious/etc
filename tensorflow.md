@@ -68,7 +68,8 @@ Choose which packages you wish to install. The packages are:
 -   **CUDA Toolkit**: The CUDA Toolkit supplements the CUDA Driver with compilers and additional libraries and header files that are installed into /Developer/NVIDIA/CUDA-9.1 by default. Symlinks are created in /usr/local/cuda/ pointing to their respective files in /Developer/NVIDIA/CUDA-9.1/. Previous installations of the toolkit will be moved to /Developer/NVIDIA/CUDA-#.# to better support side-by-side installations.
 -   **CUDA Samples (read-only)**: A read-only copy of the CUDA Samples is installed in /Developer/NVIDIA/CUDA-9.1/samples. Previous installations of the samples will be moved to /Developer/NVIDIA/CUDA-#.#/samples to better support side-by-side installations.
 
--  <font color="red"> [install local Samples] during ff </font> 
+-  Click **Install Local Samples** button during install. 
+   => '/Users/
 
 Set up the required environment variables:
 
@@ -76,8 +77,8 @@ export PATH=/Developer/NVIDIA/CUDA-9.1/bin${PATH:+:${PATH}}
 export DYLD_LIBRARY_PATH=/Developer/NVIDIA/CUDA-9.1/lib\
                          ${DYLD_LIBRARY_PATH:+:${DYLD_LIBRARY_PATH}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjI1NDY3MiwtNTYxMDM0Mzk4LC00MD
-kwNDcyMjgsNzAxOTgwNDQxLDYxNjI5MzYzOSwtMjEwNzYwNzgx
-MCwtMTYzNzA2NjI5NCwxMDAyODIzMzEwLDI2NjM5MjQ3OSwtMT
-c5MDExMjA5OV19
+eyJoaXN0b3J5IjpbLTEyMjUyMjU1MzksLTU2MTAzNDM5OCwtND
+A5MDQ3MjI4LDcwMTk4MDQ0MSw2MTYyOTM2MzksLTIxMDc2MDc4
+MTAsLTE2MzcwNjYyOTQsMTAwMjgyMzMxMCwyNjYzOTI0NzksLT
+E3OTAxMTIwOTldfQ==
 -->
