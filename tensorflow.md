@@ -106,6 +106,8 @@ sudo perl uninstall_cuda_9.1.pl \
     --manifest=.cuda_toolkit_uninstall_manifest_do_not_delete.txt
 sudo perl uninstall_cuda_9.1.pl \
     --manifest=.cuda_samples_uninstall_manifest_do_not_delete.txt
+cd /usr/local/cuda
+sudo perl 
 ```
 
 #### xcode 9.2 for cuda tookit 9.1
@@ -134,10 +136,10 @@ $ xcode-select -p
 compile ok -> execution hang.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0OTAzNDgyLC00OTY2Njg5MzAsOTU3Nz
-M5NzM2LC0xMzg5MDMzNjAzLDg0MjQxMzg1NywtMTYzMzAyOTE5
-OSwtMzgxMDk5NDk3LC01NjEwMzQzOTgsLTQwOTA0NzIyOCw3MD
-E5ODA0NDEsNjE2MjkzNjM5LC0yMTA3NjA3ODEwLC0xNjM3MDY2
-Mjk0LDEwMDI4MjMzMTAsMjY2MzkyNDc5LC0xNzkwMTEyMDk5XX
-0=
+eyJoaXN0b3J5IjpbLTk1OTMxMzcwMiw3MzQ5MDM0ODIsLTQ5Nj
+Y2ODkzMCw5NTc3Mzk3MzYsLTEzODkwMzM2MDMsODQyNDEzODU3
+LC0xNjMzMDI5MTk5LC0zODEwOTk0OTcsLTU2MTAzNDM5OCwtND
+A5MDQ3MjI4LDcwMTk4MDQ0MSw2MTYyOTM2MzksLTIxMDc2MDc4
+MTAsLTE2MzcwNjYyOTQsMTAwMjgyMzMxMCwyNjYzOTI0NzksLT
+E3OTAxMTIwOTldfQ==
 -->
