@@ -98,7 +98,7 @@ make: *** [vectorAdd.o] Error 1
 
 Error -> Let's try xcode 9.4
 
-#### uninstall cuda 9.1
+#### uninstall cuda 9.1 (when needed)
 
 ```bash
 cd /Developer/NVIDIA/CUDA-9.1/bin
@@ -108,13 +108,13 @@ sudo perl uninstall_cuda_9.1.pl \
     --manifest=.cuda_samples_uninstall_manifest_do_not_delete.txt
 ```
 
-#### xcode 
+#### xcode 9.2 for cuda tookit 9.1
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODE3Mzg2NCwtMTYzMzAyOTE5OSwtMz
-gxMDk5NDk3LC01NjEwMzQzOTgsLTQwOTA0NzIyOCw3MDE5ODA0
-NDEsNjE2MjkzNjM5LC0yMTA3NjA3ODEwLC0xNjM3MDY2Mjk0LD
-EwMDI4MjMzMTAsMjY2MzkyNDc5LC0xNzkwMTEyMDk5XX0=
+eyJoaXN0b3J5IjpbODQyNDEzODU3LC0xNjMzMDI5MTk5LC0zOD
+EwOTk0OTcsLTU2MTAzNDM5OCwtNDA5MDQ3MjI4LDcwMTk4MDQ0
+MSw2MTYyOTM2MzksLTIxMDc2MDc4MTAsLTE2MzcwNjYyOTQsMT
+AwMjgyMzMxMCwyNjYzOTI0NzksLTE3OTAxMTIwOTldfQ==
 -->
