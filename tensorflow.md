@@ -63,8 +63,8 @@ $ kextstat | grep -i cuda
 
 #### cuda toolkit
 
-https://developer.nvidia.com/cuda-toolkit-archive  
-https://docs.nvidia.com/cuda/archive/9.1/cuda-installation-guide-mac-os-x/index.html  
+[cuda-toolkit-archive](https://developer.nvidia.com/cuda-toolkit-archive)  
+[cuda-installation-guide-mac-os-x](https://docs.nvidia.com/cuda/archive/9.1/cuda-installation-guide-mac-os-x/index.html)  
 
 Choose which packages you wish to install. The packages are:
 
@@ -87,7 +87,7 @@ cd ~/NVIDIA_CUDA-9.1_Samples
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzM4OTAwNCwtNTYxMDM0Mzk4LC00MD
+eyJoaXN0b3J5IjpbMTUzOTc0OTYzNCwtNTYxMDM0Mzk4LC00MD
 kwNDcyMjgsNzAxOTgwNDQxLDYxNjI5MzYzOSwtMjEwNzYwNzgx
 MCwtMTYzNzA2NjI5NCwxMDAyODIzMzEwLDI2NjM5MjQ3OSwtMT
 c5MDExMjA5OV19
