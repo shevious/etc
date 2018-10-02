@@ -63,7 +63,7 @@ https://developer.nvidia.com/cuda-toolkit-archive
 
 Choose which packages you wish to install. The packages are:
 
--   ~~*CUDA Driver*~~: ~~This will install /Library/Frameworks/CUDA.framework and the UNIX-compatibility stub /usr/local/cuda/lib/libcuda.dylib that refers to it.~~
+-   <font color="lightgray">~~**CUDA Driver**~~: ~~This will install /Library/Frameworks/CUDA.framework and the UNIX-compatibility stub /usr/local/cuda/lib/libcuda.dylib that refers to it.~~ </font>
 (Driver는 이미 설치 했으므로 필요없음.)
 -   **CUDA Toolkit**: The CUDA Toolkit supplements the CUDA Driver with compilers and additional libraries and header files that are installed into /Developer/NVIDIA/CUDA-9.1 by default. Symlinks are created in /usr/local/cuda/ pointing to their respective files in /Developer/NVIDIA/CUDA-9.1/. Previous installations of the toolkit will be moved to /Developer/NVIDIA/CUDA-#.# to better support side-by-side installations.
 -   **CUDA Samples (read-only)**: A read-only copy of the CUDA Samples is installed in /Developer/NVIDIA/CUDA-9.1/samples. Previous installations of the samples will be moved to /Developer/NVIDIA/CUDA-#.#/samples to better support side-by-side installations.
@@ -76,7 +76,8 @@ export PATH=/Developer/NVIDIA/CUDA-9.1/bin${PATH:+:${PATH}}
 export DYLD_LIBRARY_PATH=/Developer/NVIDIA/CUDA-9.1/lib\
                          ${DYLD_LIBRARY_PATH:+:${DYLD_LIBRARY_PATH}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwOTk0NDE2LC00MDkwNDcyMjgsNzAxOT
-gwNDQxLDYxNjI5MzYzOSwtMjEwNzYwNzgxMCwtMTYzNzA2NjI5
-NCwxMDAyODIzMzEwLDI2NjM5MjQ3OSwtMTc5MDExMjA5OV19
+eyJoaXN0b3J5IjpbLTU2MTAzNDM5OCwtNDA5MDQ3MjI4LDcwMT
+k4MDQ0MSw2MTYyOTM2MzksLTIxMDc2MDc4MTAsLTE2MzcwNjYy
+OTQsMTAwMjgyMzMxMCwyNjYzOTI0NzksLTE3OTAxMTIwOTldfQ
+==
 -->
