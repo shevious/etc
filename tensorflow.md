@@ -58,8 +58,10 @@ https://www.nvidia.com/object/mac-driver-archive.html
 (installed [CUDA 410.130 driver for MAC](https://www.nvidia.com/object/macosx-cuda-410.130-driver.html) )  
 
 #### cuda toolkit
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTgxMTk3NDcsNjE2MjkzNjM5LC0yMT
-A3NjA3ODEwLC0xNjM3MDY2Mjk0LDEwMDI4MjMzMTAsMjY2Mzky
-NDc5LC0xNzkwMTEyMDk5XX0=
+eyJoaXN0b3J5IjpbNzAxOTgwNDQxLDYxNjI5MzYzOSwtMjEwNz
+YwNzgxMCwtMTYzNzA2NjI5NCwxMDAyODIzMzEwLDI2NjM5MjQ3
+OSwtMTc5MDExMjA5OV19
 -->
