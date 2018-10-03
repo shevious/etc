@@ -135,12 +135,17 @@ $ xcode-select -p
 ```
 
 compile ok -> execution hang.
+(maybe it's mojave problem.)
+
+#### remove cuda from Mojave (just for reference)
+
+https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTkwOTcwMCwtOTU5MzEzNzAyLDczND
-kwMzQ4MiwtNDk2NjY4OTMwLDk1NzczOTczNiwtMTM4OTAzMzYw
-Myw4NDI0MTM4NTcsLTE2MzMwMjkxOTksLTM4MTA5OTQ5NywtNT
-YxMDM0Mzk4LC00MDkwNDcyMjgsNzAxOTgwNDQxLDYxNjI5MzYz
-OSwtMjEwNzYwNzgxMCwtMTYzNzA2NjI5NCwxMDAyODIzMzEwLD
-I2NjM5MjQ3OSwtMTc5MDExMjA5OV19
+eyJoaXN0b3J5IjpbLTM0OTMwNTg2OSwtOTMxOTA5NzAwLC05NT
+kzMTM3MDIsNzM0OTAzNDgyLC00OTY2Njg5MzAsOTU3NzM5NzM2
+LC0xMzg5MDMzNjAzLDg0MjQxMzg1NywtMTYzMzAyOTE5OSwtMz
+gxMDk5NDk3LC01NjEwMzQzOTgsLTQwOTA0NzIyOCw3MDE5ODA0
+NDEsNjE2MjkzNjM5LC0yMTA3NjA3ODEwLC0xNjM3MDY2Mjk0LD
+EwMDI4MjMzMTAsMjY2MzkyNDc5LC0xNzkwMTEyMDk5XX0=
 -->
