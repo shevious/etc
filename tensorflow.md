@@ -52,6 +52,8 @@ http://reachlab-kr.github.io/linux/2015/09/13/Ubuntu-Nvidia-nomodeset.html
 [Tensorflow GPU 1.8 with MacOS 10.13.6](https://egpu.io/forums/mac-setup/tensorflow-gpu-1-8-with-macos-10-13-6/)  
 [Tensorflow 1.8 with CUDA on macOS High Sierra 10.13.4](https://gist.github.com/Willian-Zhang/a3bd10da2d8b343875f3862b2a62eb3b)  
 
+## High Sierra 10.13.6
+
 #### cuda mac driver
 
 https://www.nvidia.com/object/mac-driver-archive.html  
@@ -142,10 +144,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0OTMwNTg2OSwtOTMxOTA5NzAwLC05NT
-kzMTM3MDIsNzM0OTAzNDgyLC00OTY2Njg5MzAsOTU3NzM5NzM2
-LC0xMzg5MDMzNjAzLDg0MjQxMzg1NywtMTYzMzAyOTE5OSwtMz
-gxMDk5NDk3LC01NjEwMzQzOTgsLTQwOTA0NzIyOCw3MDE5ODA0
-NDEsNjE2MjkzNjM5LC0yMTA3NjA3ODEwLC0xNjM3MDY2Mjk0LD
-EwMDI4MjMzMTAsMjY2MzkyNDc5LC0xNzkwMTEyMDk5XX0=
+eyJoaXN0b3J5IjpbLTYzMjc3Mjc5NCwtMzQ5MzA1ODY5LC05Mz
+E5MDk3MDAsLTk1OTMxMzcwMiw3MzQ5MDM0ODIsLTQ5NjY2ODkz
+MCw5NTc3Mzk3MzYsLTEzODkwMzM2MDMsODQyNDEzODU3LC0xNj
+MzMDI5MTk5LC0zODEwOTk0OTcsLTU2MTAzNDM5OCwtNDA5MDQ3
+MjI4LDcwMTk4MDQ0MSw2MTYyOTM2MzksLTIxMDc2MDc4MTAsLT
+E2MzcwNjYyOTQsMTAwMjgyMzMxMCwyNjYzOTI0NzksLTE3OTAx
+MTIwOTldfQ==
 -->
