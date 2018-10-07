@@ -111,7 +111,13 @@ Done
 ```
 Succcess with no warnings.
 
+```bash
+make -C 1_Utilities/deviceQuery
 
+```
+
+
+# Mojave with no nvidia web drive
 #### mojave error log
 ```bash
 cd ~/NVIDIA_CUDA-9.1_Samples
@@ -173,7 +179,7 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDYzMjA0NDgsMTIwMjE4MDg5MiwyMz
+eyJoaXN0b3J5IjpbLTEyNTgyMDA5ODQsMTIwMjE4MDg5MiwyMz
 Q4MDI4MjAsLTM0OTMwNTg2OSwtOTMxOTA5NzAwLC05NTkzMTM3
 MDIsNzM0OTAzNDgyLC00OTY2Njg5MzAsOTU3NzM5NzM2LC0xMz
 g5MDMzNjAzLDg0MjQxMzg1NywtMTYzMzAyOTE5OSwtMzgxMDk5
