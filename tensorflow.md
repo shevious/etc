@@ -54,7 +54,8 @@ http://reachlab-kr.github.io/linux/2015/09/13/Ubuntu-Nvidia-nomodeset.html
 
 ## High Sierra 10.13.6
 
-#### cuda mac driver
+#### ~~cuda mac driver~~
+cooda tookit 버전으로 시도함.
 
 https://www.nvidia.com/object/mac-driver-archive.html  
 (installed [CUDA 410.130 driver for MAC](https://www.nvidia.com/object/macosx-cuda-410.130-driver.html) )  
@@ -144,11 +145,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjc3Mjc5NCwtMzQ5MzA1ODY5LC05Mz
-E5MDk3MDAsLTk1OTMxMzcwMiw3MzQ5MDM0ODIsLTQ5NjY2ODkz
-MCw5NTc3Mzk3MzYsLTEzODkwMzM2MDMsODQyNDEzODU3LC0xNj
-MzMDI5MTk5LC0zODEwOTk0OTcsLTU2MTAzNDM5OCwtNDA5MDQ3
-MjI4LDcwMTk4MDQ0MSw2MTYyOTM2MzksLTIxMDc2MDc4MTAsLT
-E2MzcwNjYyOTQsMTAwMjgyMzMxMCwyNjYzOTI0NzksLTE3OTAx
-MTIwOTldfQ==
+eyJoaXN0b3J5IjpbMjM0ODAyODIwLC0zNDkzMDU4NjksLTkzMT
+kwOTcwMCwtOTU5MzEzNzAyLDczNDkwMzQ4MiwtNDk2NjY4OTMw
+LDk1NzczOTczNiwtMTM4OTAzMzYwMyw4NDI0MTM4NTcsLTE2Mz
+MwMjkxOTksLTM4MTA5OTQ5NywtNTYxMDM0Mzk4LC00MDkwNDcy
+MjgsNzAxOTgwNDQxLDYxNjI5MzYzOSwtMjEwNzYwNzgxMCwtMT
+YzNzA2NjI5NCwxMDAyODIzMzEwLDI2NjM5MjQ3OSwtMTc5MDEx
+MjA5OV19
 -->
