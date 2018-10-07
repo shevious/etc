@@ -54,15 +54,8 @@ http://reachlab-kr.github.io/linux/2015/09/13/Ubuntu-Nvidia-nomodeset.html
 
 ## High Sierra 10.13.6
 
-#### ~~cuda mac driver~~
-cooda tookit 버전으로 시도함.
 
-https://www.nvidia.com/object/mac-driver-archive.html  
-(installed [CUDA 410.130 driver for MAC](https://www.nvidia.com/object/macosx-cuda-410.130-driver.html) )  
-```bash
-$ kextstat | grep -i cuda
-153  0 0xffffff7f835af000 0x2000 0x2000 com.nvidia.CUDA (1.1.0) E13478CB-B251-3C0A-86E9-A6B56F528FE8 <4 1>
-```
+
 
 #### cuda toolkit 9.1
 
@@ -78,6 +71,21 @@ Choose which packages you wish to install. The packages are:
 
 -  Click **Install Local Samples** button during install. 
    => Samples copied to `/Users/username/NVIDIA_CUDA-9.1_Samples`
+
+#### cuda mac driver
+cuda control panel 에서 update 필요하다고 경고함.
+
+
+https://www.nvidia.com/object/mac-driver-archive.html  
+
+[NVIDIA CUDA 387.178 FOR MACOS RELEASE](https://www.nvidia.com/object/macosx-cuda-387.178-driver.html)  
+
+(installed [CUDA 410.130 driver for MAC](https://www.nvidia.com/object/macosx-cuda-410.130-driver.html) )  
+```bash
+$ kextstat | grep -i cuda
+153  0 0xffffff7f835af000 0x2000 0x2000 com.nvidia.CUDA (1.1.0) E13478CB-B251-3C0A-86E9-A6B56F528FE8 <4 1>
+```
+
 
 Set up the required environment variables:
 
@@ -145,11 +153,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0ODAyODIwLC0zNDkzMDU4NjksLTkzMT
-kwOTcwMCwtOTU5MzEzNzAyLDczNDkwMzQ4MiwtNDk2NjY4OTMw
-LDk1NzczOTczNiwtMTM4OTAzMzYwMyw4NDI0MTM4NTcsLTE2Mz
-MwMjkxOTksLTM4MTA5OTQ5NywtNTYxMDM0Mzk4LC00MDkwNDcy
-MjgsNzAxOTgwNDQxLDYxNjI5MzYzOSwtMjEwNzYwNzgxMCwtMT
-YzNzA2NjI5NCwxMDAyODIzMzEwLDI2NjM5MjQ3OSwtMTc5MDEx
-MjA5OV19
+eyJoaXN0b3J5IjpbMTYwODIwNjY1NywyMzQ4MDI4MjAsLTM0OT
+MwNTg2OSwtOTMxOTA5NzAwLC05NTkzMTM3MDIsNzM0OTAzNDgy
+LC00OTY2Njg5MzAsOTU3NzM5NzM2LC0xMzg5MDMzNjAzLDg0Mj
+QxMzg1NywtMTYzMzAyOTE5OSwtMzgxMDk5NDk3LC01NjEwMzQz
+OTgsLTQwOTA0NzIyOCw3MDE5ODA0NDEsNjE2MjkzNjM5LC0yMT
+A3NjA3ODEwLC0xNjM3MDY2Mjk0LDEwMDI4MjMzMTAsMjY2Mzky
+NDc5XX0=
 -->
