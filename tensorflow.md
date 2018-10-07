@@ -64,8 +64,8 @@ http://reachlab-kr.github.io/linux/2015/09/13/Ubuntu-Nvidia-nomodeset.html
 
 Choose which packages you wish to install. The packages are:
 
--   <font color="lightgray">~~**CUDA Driver**~~: ~~This will install /Library/Frameworks/CUDA.framework and the UNIX-compatibility stub /usr/local/cuda/lib/libcuda.dylib that refers to it.~~ </font>
-(Driver는 이미 설치 했으므로 필요없음.)
+-   **CUDA Driver**: This will install /Library/Frameworks/CUDA.framework and the UNIX-compatibility stub /usr/local/cuda/lib/libcuda.dylib that refers to it.
+
 -   **CUDA Toolkit**: The CUDA Toolkit supplements the CUDA Driver with compilers and additional libraries and header files that are installed into /Developer/NVIDIA/CUDA-9.1 by default. Symlinks are created in /usr/local/cuda/ pointing to their respective files in /Developer/NVIDIA/CUDA-9.1/. Previous installations of the toolkit will be moved to /Developer/NVIDIA/CUDA-#.# to better support side-by-side installations.
 -   **CUDA Samples (read-only)**: A read-only copy of the CUDA Samples is installed in /Developer/NVIDIA/CUDA-9.1/samples. Previous installations of the samples will be moved to /Developer/NVIDIA/CUDA-#.#/samples to better support side-by-side installations.
 
@@ -159,6 +159,14 @@ deviceQuery, CUDA Driver = CUDART, CUDA Driver Version = 9.1, CUDA Runtime Versi
 Result = PASS
 ```
 
+#### install homebrew
+
+https://brew.sh/index_ko
+
+
+
+
+
 
 # Mojave with no nvidia web drive
 #### mojave error log
@@ -222,11 +230,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwNDE3NTE5LDEyMDIxODA4OTIsMjM0OD
-AyODIwLC0zNDkzMDU4NjksLTkzMTkwOTcwMCwtOTU5MzEzNzAy
-LDczNDkwMzQ4MiwtNDk2NjY4OTMwLDk1NzczOTczNiwtMTM4OT
-AzMzYwMyw4NDI0MTM4NTcsLTE2MzMwMjkxOTksLTM4MTA5OTQ5
-NywtNTYxMDM0Mzk4LC00MDkwNDcyMjgsNzAxOTgwNDQxLDYxNj
-I5MzYzOSwtMjEwNzYwNzgxMCwtMTYzNzA2NjI5NCwxMDAyODIz
-MzEwXX0=
+eyJoaXN0b3J5IjpbLTEyMTEzNzQwMzAsNzAwNDE3NTE5LDEyMD
+IxODA4OTIsMjM0ODAyODIwLC0zNDkzMDU4NjksLTkzMTkwOTcw
+MCwtOTU5MzEzNzAyLDczNDkwMzQ4MiwtNDk2NjY4OTMwLDk1Nz
+czOTczNiwtMTM4OTAzMzYwMyw4NDI0MTM4NTcsLTE2MzMwMjkx
+OTksLTM4MTA5OTQ5NywtNTYxMDM0Mzk4LC00MDkwNDcyMjgsNz
+AxOTgwNDQxLDYxNjI5MzYzOSwtMjEwNzYwNzgxMCwtMTYzNzA2
+NjI5NF19
 -->
