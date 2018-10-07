@@ -161,7 +161,8 @@ Result = PASS
 
 #### cuDNN
 
-https://developer.nvidia.com/rdp/cudnn-archive
+https://developer.nvidia.com/rdp/cudnn-archive  
+https://docs.nvidia.com/deeplearning/sdk/cudnn-archived/index.html  
 
 
 
@@ -236,11 +237,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDc2Njg4OCwtMTIxMTM3NDAzMCw3MD
-A0MTc1MTksMTIwMjE4MDg5MiwyMzQ4MDI4MjAsLTM0OTMwNTg2
-OSwtOTMxOTA5NzAwLC05NTkzMTM3MDIsNzM0OTAzNDgyLC00OT
-Y2Njg5MzAsOTU3NzM5NzM2LC0xMzg5MDMzNjAzLDg0MjQxMzg1
-NywtMTYzMzAyOTE5OSwtMzgxMDk5NDk3LC01NjEwMzQzOTgsLT
-QwOTA0NzIyOCw3MDE5ODA0NDEsNjE2MjkzNjM5LC0yMTA3NjA3
-ODEwXX0=
+eyJoaXN0b3J5IjpbLTE3NzAyNzg1ODYsLTEyMTEzNzQwMzAsNz
+AwNDE3NTE5LDEyMDIxODA4OTIsMjM0ODAyODIwLC0zNDkzMDU4
+NjksLTkzMTkwOTcwMCwtOTU5MzEzNzAyLDczNDkwMzQ4MiwtND
+k2NjY4OTMwLDk1NzczOTczNiwtMTM4OTAzMzYwMyw4NDI0MTM4
+NTcsLTE2MzMwMjkxOTksLTM4MTA5OTQ5NywtNTYxMDM0Mzk4LC
+00MDkwNDcyMjgsNzAxOTgwNDQxLDYxNjI5MzYzOSwtMjEwNzYw
+NzgxMF19
 -->
