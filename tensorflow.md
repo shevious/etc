@@ -112,8 +112,51 @@ Done
 Succcess with no warnings.
 
 ```bash
-make -C 1_Utilities/deviceQuery
+$ make -C 1_Utilities/deviceQuery
+$ bin/x86_64/darwin/release/deviceQuery
+bin/x86_64/darwin/release/deviceQuery Starting...
 
+CUDA Device Query (Runtime API) version (CUDART static linking)
+
+Detected 1 CUDA Capable device(s)
+
+Device 0: "GeForce GTX 750 Ti"
+CUDA Driver Version / Runtime Version  9.1 / 9.1
+CUDA Capability Major/Minor version number:  5.0
+Total amount of global memory: 2048 MBytes (2147155968 bytes)
+( 5) Multiprocessors, (128) CUDA Cores/MP: 640 CUDA Cores
+GPU Max Clock rate:  1110 MHz (1.11 GHz)
+Memory Clock rate: 2700 Mhz
+Memory Bus Width:  128-bit
+L2 Cache Size: 2097152 bytes
+Maximum Texture Dimension Size (x,y,z) 1D=(65536), 2D=(65536, 65536), 3D=(4096, 4096, 4096)
+Maximum Layered 1D Texture Size, (num) layers  1D=(16384), 2048 layers
+Maximum Layered 2D Texture Size, (num) layers  2D=(16384, 16384), 2048 layers
+Total amount of constant memory: 65536 bytes
+Total amount of shared memory per block: 49152 bytes
+Total number of registers available per block: 65536
+Warp size: 32
+Maximum number of threads per multiprocessor:  2048
+Maximum number of threads per block: 1024
+Max dimension size of a thread block (x,y,z): (1024, 1024, 64)
+Max dimension size of a grid size  (x,y,z): (2147483647, 65535, 65535)
+Maximum memory pitch:  2147483647 bytes
+Texture alignment: 512 bytes
+Concurrent copy and kernel execution:  Yes with 1 copy engine(s)
+Run time limit on kernels: Yes
+Integrated GPU sharing Host Memory:  No
+Support host page-locked memory mapping: Yes
+Alignment requirement for Surfaces:  Yes
+Device has ECC support:  Disabled
+Device supports Unified Addressing (UVA):  Yes
+Supports Cooperative Kernel Launch:  No
+Supports MultiDevice Co-op Kernel Launch:  No
+Device PCI Domain ID / Bus ID / location ID: 0 / 1 / 0
+Compute Mode:
+< Default (multiple host threads can use ::cudaSetDevice() with device simultaneously) >
+
+deviceQuery, CUDA Driver = CUDART, CUDA Driver Version = 9.1, CUDA Runtime Version = 9.1, NumDevs = 1
+Result = PASS
 ```
 
 
@@ -179,11 +222,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTgyMDA5ODQsMTIwMjE4MDg5MiwyMz
-Q4MDI4MjAsLTM0OTMwNTg2OSwtOTMxOTA5NzAwLC05NTkzMTM3
-MDIsNzM0OTAzNDgyLC00OTY2Njg5MzAsOTU3NzM5NzM2LC0xMz
-g5MDMzNjAzLDg0MjQxMzg1NywtMTYzMzAyOTE5OSwtMzgxMDk5
-NDk3LC01NjEwMzQzOTgsLTQwOTA0NzIyOCw3MDE5ODA0NDEsNj
-E2MjkzNjM5LC0yMTA3NjA3ODEwLC0xNjM3MDY2Mjk0LDEwMDI4
-MjMzMTBdfQ==
+eyJoaXN0b3J5IjpbNzAwNDE3NTE5LDEyMDIxODA4OTIsMjM0OD
+AyODIwLC0zNDkzMDU4NjksLTkzMTkwOTcwMCwtOTU5MzEzNzAy
+LDczNDkwMzQ4MiwtNDk2NjY4OTMwLDk1NzczOTczNiwtMTM4OT
+AzMzYwMyw4NDI0MTM4NTcsLTE2MzMwMjkxOTksLTM4MTA5OTQ5
+NywtNTYxMDM0Mzk4LC00MDkwNDcyMjgsNzAxOTgwNDQxLDYxNj
+I5MzYzOSwtMjEwNzYwNzgxMCwtMTYzNzA2NjI5NCwxMDAyODIz
+MzEwXX0=
 -->
