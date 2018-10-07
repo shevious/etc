@@ -93,7 +93,26 @@ Set up the required environment variables:
 export PATH=/Developer/NVIDIA/CUDA-9.1/bin${PATH:+:${PATH}}
 export DYLD_LIBRARY_PATH=/Developer/NVIDIA/CUDA-9.1/lib\
                          ${DYLD_LIBRARY_PATH:+:${DYLD_LIBRARY_PATH}}
+$ xcode-select -p
+/Applications/Xcode_9.2.app/Contents/Developer
+$ make -C 0_Simple/vectorAdd
+/Developer/NVIDIA/CUDA-9.1/bin/nvcc -ccbin clang++ -I../../common/inc  -m64  -Xcompiler -arch -Xcompiler x86_64  -gencode arch=compute_30,code=sm_30 -gencode arch=compute_35,code=sm_35 -gencode arch=compute_37,code=sm_37 -gencode arch=compute_50,code=sm_50 -gencode arch=compute_52,code=sm_52 -gencode arch=compute_60,code=sm_60 -gencode arch=compute_61,code=sm_61 -gencode arch=compute_70,code=sm_70 -gencode arch=compute_70,code=compute_70 -o vectorAdd.o -c vectorAdd.cu
+/Developer/NVIDIA/CUDA-9.1/bin/nvcc -ccbin clang++ -m64  -Xcompiler -arch -Xcompiler x86_64  -Xlinker -rpath -Xlinker /Developer/NVIDIA/CUDA-9.1/lib  -gencode arch=compute_30,code=sm_30 -gencode arch=compute_35,code=sm_35 -gencode arch=compute_37,code=sm_37 -gencode arch=compute_50,code=sm_50 -gencode arch=compute_52,code=sm_52 -gencode arch=compute_60,code=sm_60 -gencode arch=compute_61,code=sm_61 -gencode arch=compute_70,code=sm_70 -gencode arch=compute_70,code=compute_70 -o vectorAdd vectorAdd.o
+mkdir -p ../../bin/x86_64/darwin/release
+cp vectorAdd ../../bin/x86_64/darwin/release
+
+$ bin/x86_64/darwin/release/vectorAdd
+[Vector addition of 50000 elements]
+Copy input data from the host memory to the CUDA device
+CUDA kernel launch with 196 blocks of 256 threads
+Copy output data from the CUDA device to the host memory
+Test PASSED
+Done
+
 ```
+
+
+
 #### mojave error log
 ```bash
 cd ~/NVIDIA_CUDA-9.1_Samples
@@ -155,7 +174,7 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Njk4NzYzOCwxMjAyMTgwODkyLDIzND
+eyJoaXN0b3J5IjpbMTc2NzYzODA3MiwxMjAyMTgwODkyLDIzND
 gwMjgyMCwtMzQ5MzA1ODY5LC05MzE5MDk3MDAsLTk1OTMxMzcw
 Miw3MzQ5MDM0ODIsLTQ5NjY2ODkzMCw5NTc3Mzk3MzYsLTEzOD
 kwMzM2MDMsODQyNDEzODU3LC0xNjMzMDI5MTk5LC0zODEwOTk0
