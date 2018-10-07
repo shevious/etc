@@ -159,6 +159,12 @@ deviceQuery, CUDA Driver = CUDART, CUDA Driver Version = 9.1, CUDA Runtime Versi
 Result = PASS
 ```
 
+#### cuDNN
+
+https://developer.nvidia.com/rdp/cudnn-archive
+
+
+
 #### install homebrew
 
 https://brew.sh/index_ko
@@ -230,11 +236,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTEzNzQwMzAsNzAwNDE3NTE5LDEyMD
-IxODA4OTIsMjM0ODAyODIwLC0zNDkzMDU4NjksLTkzMTkwOTcw
-MCwtOTU5MzEzNzAyLDczNDkwMzQ4MiwtNDk2NjY4OTMwLDk1Nz
-czOTczNiwtMTM4OTAzMzYwMyw4NDI0MTM4NTcsLTE2MzMwMjkx
-OTksLTM4MTA5OTQ5NywtNTYxMDM0Mzk4LC00MDkwNDcyMjgsNz
-AxOTgwNDQxLDYxNjI5MzYzOSwtMjEwNzYwNzgxMCwtMTYzNzA2
-NjI5NF19
+eyJoaXN0b3J5IjpbLTUxMDc2Njg4OCwtMTIxMTM3NDAzMCw3MD
+A0MTc1MTksMTIwMjE4MDg5MiwyMzQ4MDI4MjAsLTM0OTMwNTg2
+OSwtOTMxOTA5NzAwLC05NTkzMTM3MDIsNzM0OTAzNDgyLC00OT
+Y2Njg5MzAsOTU3NzM5NzM2LC0xMzg5MDMzNjAzLDg0MjQxMzg1
+NywtMTYzMzAyOTE5OSwtMzgxMDk5NDk3LC01NjEwMzQzOTgsLT
+QwOTA0NzIyOCw3MDE5ODA0NDEsNjE2MjkzNjM5LC0yMTA3NjA3
+ODEwXX0=
 -->
