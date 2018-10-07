@@ -93,7 +93,9 @@ Set up the required environment variables:
 export PATH=/Developer/NVIDIA/CUDA-9.1/bin${PATH:+:${PATH}}
 export DYLD_LIBRARY_PATH=/Developer/NVIDIA/CUDA-9.1/lib\
                          ${DYLD_LIBRARY_PATH:+:${DYLD_LIBRARY_PATH}}
-
+```
+#### mojave error log
+```bash
 cd ~/NVIDIA_CUDA-9.1_Samples
 make -C 0_Simple/vectorAdd
 xcode-select: error: tool 'xcodebuild' requires Xcode, but active developer directory '/Library/Developer/CommandLineTools' is a command line tools instance
@@ -153,11 +155,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMjE4MDg5MiwyMzQ4MDI4MjAsLTM0OT
-MwNTg2OSwtOTMxOTA5NzAwLC05NTkzMTM3MDIsNzM0OTAzNDgy
-LC00OTY2Njg5MzAsOTU3NzM5NzM2LC0xMzg5MDMzNjAzLDg0Mj
-QxMzg1NywtMTYzMzAyOTE5OSwtMzgxMDk5NDk3LC01NjEwMzQz
-OTgsLTQwOTA0NzIyOCw3MDE5ODA0NDEsNjE2MjkzNjM5LC0yMT
-A3NjA3ODEwLC0xNjM3MDY2Mjk0LDEwMDI4MjMzMTAsMjY2Mzky
-NDc5XX0=
+eyJoaXN0b3J5IjpbMTY0Njk4NzYzOCwxMjAyMTgwODkyLDIzND
+gwMjgyMCwtMzQ5MzA1ODY5LC05MzE5MDk3MDAsLTk1OTMxMzcw
+Miw3MzQ5MDM0ODIsLTQ5NjY2ODkzMCw5NTc3Mzk3MzYsLTEzOD
+kwMzM2MDMsODQyNDEzODU3LC0xNjMzMDI5MTk5LC0zODEwOTk0
+OTcsLTU2MTAzNDM5OCwtNDA5MDQ3MjI4LDcwMTk4MDQ0MSw2MT
+YyOTM2MzksLTIxMDc2MDc4MTAsLTE2MzcwNjYyOTQsMTAwMjgy
+MzMxMF19
 -->
