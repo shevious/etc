@@ -108,9 +108,8 @@ CUDA kernel launch with 196 blocks of 256 threads
 Copy output data from the CUDA device to the host memory
 Test PASSED
 Done
-
 ```
-
+Succcess with no warnings.
 
 
 #### mojave error log
@@ -174,11 +173,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzYzODA3MiwxMjAyMTgwODkyLDIzND
-gwMjgyMCwtMzQ5MzA1ODY5LC05MzE5MDk3MDAsLTk1OTMxMzcw
-Miw3MzQ5MDM0ODIsLTQ5NjY2ODkzMCw5NTc3Mzk3MzYsLTEzOD
-kwMzM2MDMsODQyNDEzODU3LC0xNjMzMDI5MTk5LC0zODEwOTk0
-OTcsLTU2MTAzNDM5OCwtNDA5MDQ3MjI4LDcwMTk4MDQ0MSw2MT
-YyOTM2MzksLTIxMDc2MDc4MTAsLTE2MzcwNjYyOTQsMTAwMjgy
-MzMxMF19
+eyJoaXN0b3J5IjpbLTE3NDYzMjA0NDgsMTIwMjE4MDg5MiwyMz
+Q4MDI4MjAsLTM0OTMwNTg2OSwtOTMxOTA5NzAwLC05NTkzMTM3
+MDIsNzM0OTAzNDgyLC00OTY2Njg5MzAsOTU3NzM5NzM2LC0xMz
+g5MDMzNjAzLDg0MjQxMzg1NywtMTYzMzAyOTE5OSwtMzgxMDk5
+NDk3LC01NjEwMzQzOTgsLTQwOTA0NzIyOCw3MDE5ODA0NDEsNj
+E2MjkzNjM5LC0yMTA3NjA3ODEwLC0xNjM3MDY2Mjk0LDEwMDI4
+MjMzMTBdfQ==
 -->
