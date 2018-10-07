@@ -79,11 +79,11 @@ cuda control panel 에서 update 필요하다고 경고함.
 https://www.nvidia.com/object/mac-driver-archive.html  
 
 [NVIDIA CUDA 387.178 FOR MACOS RELEASE](https://www.nvidia.com/object/macosx-cuda-387.178-driver.html)  
+~~([CUDA 410.130 driver for MAC](https://www.nvidia.com/object/macosx-cuda-410.130-driver.html) )~~  
 
-(installed [CUDA 410.130 driver for MAC](https://www.nvidia.com/object/macosx-cuda-410.130-driver.html) )  
 ```bash
 $ kextstat | grep -i cuda
-153  0 0xffffff7f835af000 0x2000 0x2000 com.nvidia.CUDA (1.1.0) E13478CB-B251-3C0A-86E9-A6B56F528FE8 <4 1>
+154  0 0xffffff7f83306000 0x2000 0x2000 com.nvidia.CUDA (1.1.0) 4329B052-6C8A-3900-8E83-744487AEDEF1 <4 1>
 ```
 
 
@@ -153,7 +153,7 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODIwNjY1NywyMzQ4MDI4MjAsLTM0OT
+eyJoaXN0b3J5IjpbMTIwMjE4MDg5MiwyMzQ4MDI4MjAsLTM0OT
 MwNTg2OSwtOTMxOTA5NzAwLC05NTkzMTM3MDIsNzM0OTAzNDgy
 LC00OTY2Njg5MzAsOTU3NzM5NzM2LC0xMzg5MDMzNjAzLDg0Mj
 QxMzg1NywtMTYzMzAyOTE5OSwtMzgxMDk5NDk3LC01NjEwMzQz
