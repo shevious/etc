@@ -94,9 +94,11 @@ export DYLD_LIBRARY_PATH=/Developer/NVIDIA/CUDA-9.1/lib\
                          ${DYLD_LIBRARY_PATH:+:${DYLD_LIBRARY_PATH}}
 $ xcode-select -p
 /Library/Developer/CommandLineTools
-$ sudo xcode-select -s /Applications/Xcode_9.2.app
-$ xcode-select -p
-/Applications/Xcode_9.2.app/Contents/Developer
+```
+```bash
+#sudo xcode-select -s /Applications/Xcode_9.2.app
+#xcode-select -p /Applications/Xcode_9.2.app/Contents/Developer
+# install command line tools for
 $ make -C 0_Simple/vectorAdd
 /Developer/NVIDIA/CUDA-9.1/bin/nvcc -ccbin clang++ -I../../common/inc  -m64  -Xcompiler -arch -Xcompiler x86_64  -gencode arch=compute_30,code=sm_30 -gencode arch=compute_35,code=sm_35 -gencode arch=compute_37,code=sm_37 -gencode arch=compute_50,code=sm_50 -gencode arch=compute_52,code=sm_52 -gencode arch=compute_60,code=sm_60 -gencode arch=compute_61,code=sm_61 -gencode arch=compute_70,code=sm_70 -gencode arch=compute_70,code=compute_70 -o vectorAdd.o -c vectorAdd.cu
 /Developer/NVIDIA/CUDA-9.1/bin/nvcc -ccbin clang++ -m64  -Xcompiler -arch -Xcompiler x86_64  -Xlinker -rpath -Xlinker /Developer/NVIDIA/CUDA-9.1/lib  -gencode arch=compute_30,code=sm_30 -gencode arch=compute_35,code=sm_35 -gencode arch=compute_37,code=sm_37 -gencode arch=compute_50,code=sm_50 -gencode arch=compute_52,code=sm_52 -gencode arch=compute_60,code=sm_60 -gencode arch=compute_61,code=sm_61 -gencode arch=compute_70,code=sm_70 -gencode arch=compute_70,code=compute_70 -o vectorAdd vectorAdd.o
@@ -189,7 +191,7 @@ cd ~/Downloads
 chmod +x bazel-0.14.1-installer-darwin-x86_64.sh
 ./bazel-0.14.1-installer-darwin-x86_64.sh --user
 ...
-..
+...
 Bazel is now installed!
 
 Make sure you have "/Users/shevious/bin" in your path. You can also activate bash
@@ -198,8 +200,6 @@ completion by adding the following line to your ~/.bash_profile:
 
 See http://bazel.build/docs/getting-started.html to start a new project!
 ```
-
-
 
 
 
@@ -265,11 +265,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njc5MzA2NzgsLTI4NTIyNzQ5MywtND
-gyOTQ1MTQ5LDgzMzIyNjQyMiwtNjY2OTMyNzIyLC00NDcwNDc4
-MTksMTE4OTA3MDU2NSwtMTc3MDI3ODU4NiwtMTIxMTM3NDAzMC
-w3MDA0MTc1MTksMTIwMjE4MDg5MiwyMzQ4MDI4MjAsLTM0OTMw
-NTg2OSwtOTMxOTA5NzAwLC05NTkzMTM3MDIsNzM0OTAzNDgyLC
-00OTY2Njg5MzAsOTU3NzM5NzM2LC0xMzg5MDMzNjAzLDg0MjQx
-Mzg1N119
+eyJoaXN0b3J5IjpbLTIzOTM5NDc3MSwtMjg1MjI3NDkzLC00OD
+I5NDUxNDksODMzMjI2NDIyLC02NjY5MzI3MjIsLTQ0NzA0Nzgx
+OSwxMTg5MDcwNTY1LC0xNzcwMjc4NTg2LC0xMjExMzc0MDMwLD
+cwMDQxNzUxOSwxMjAyMTgwODkyLDIzNDgwMjgyMCwtMzQ5MzA1
+ODY5LC05MzE5MDk3MDAsLTk1OTMxMzcwMiw3MzQ5MDM0ODIsLT
+Q5NjY2ODkzMCw5NTc3Mzk3MzYsLTEzODkwMzM2MDMsODQyNDEz
+ODU3XX0=
 -->
