@@ -382,7 +382,7 @@ install [jdk-8u181-macosx-x64.dmg](http://download.oracle.com/otn-pub/java/jdk/8
 sudo xcode-select -s /Applications/Xcode_9.2.app
 pip install numpy
 ```
-
+error=> which is related to python 3.7 => go back to 
 
 ```bash
 
@@ -455,11 +455,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTk2OTU1NiwtMTE5NzgwNDgwMywtMT
-M5MDQzODUzOCwyMDQ5Mzg4ODAwLC0xMDIxODEwMTI5LC0xNTg3
-MTY1NDMyLDE0NDE4NDU2NiwxNDQwODQyOTkxLDEyODc4NDk4Mj
-csLTI4NTIyNzQ5MywtNDgyOTQ1MTQ5LDgzMzIyNjQyMiwtNjY2
-OTMyNzIyLC00NDcwNDc4MTksMTE4OTA3MDU2NSwtMTc3MDI3OD
-U4NiwtMTIxMTM3NDAzMCw3MDA0MTc1MTksMTIwMjE4MDg5Miwy
-MzQ4MDI4MjBdfQ==
+eyJoaXN0b3J5IjpbNTMyMjM4NzY5LDE4MTU5Njk1NTYsLTExOT
+c4MDQ4MDMsLTEzOTA0Mzg1MzgsMjA0OTM4ODgwMCwtMTAyMTgx
+MDEyOSwtMTU4NzE2NTQzMiwxNDQxODQ1NjYsMTQ0MDg0Mjk5MS
+wxMjg3ODQ5ODI3LC0yODUyMjc0OTMsLTQ4Mjk0NTE0OSw4MzMy
+MjY0MjIsLTY2NjkzMjcyMiwtNDQ3MDQ3ODE5LDExODkwNzA1Nj
+UsLTE3NzAyNzg1ODYsLTEyMTEzNzQwMzAsNzAwNDE3NTE5LDEy
+MDIxODA4OTJdfQ==
 -->
