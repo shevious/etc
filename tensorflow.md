@@ -254,7 +254,9 @@ export PATH=$PATH:$HOME/bin
 ```
 ```bash
 brew install python
-
+pip3 install virtualenv
+virtualenv venv
+source venv/bin/activate
 ```
 
 ```bash
@@ -328,11 +330,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTg3NjU1MywtMTU4NzE2NTQzMiwxND
-QxODQ1NjYsMTQ0MDg0Mjk5MSwxMjg3ODQ5ODI3LC0yODUyMjc0
-OTMsLTQ4Mjk0NTE0OSw4MzMyMjY0MjIsLTY2NjkzMjcyMiwtND
-Q3MDQ3ODE5LDExODkwNzA1NjUsLTE3NzAyNzg1ODYsLTEyMTEz
-NzQwMzAsNzAwNDE3NTE5LDEyMDIxODA4OTIsMjM0ODAyODIwLC
-0zNDkzMDU4NjksLTkzMTkwOTcwMCwtOTU5MzEzNzAyLDczNDkw
-MzQ4Ml19
+eyJoaXN0b3J5IjpbLTEwMjE4MTAxMjksLTE1ODcxNjU0MzIsMT
+Q0MTg0NTY2LDE0NDA4NDI5OTEsMTI4Nzg0OTgyNywtMjg1MjI3
+NDkzLC00ODI5NDUxNDksODMzMjI2NDIyLC02NjY5MzI3MjIsLT
+Q0NzA0NzgxOSwxMTg5MDcwNTY1LC0xNzcwMjc4NTg2LC0xMjEx
+Mzc0MDMwLDcwMDQxNzUxOSwxMjAyMTgwODkyLDIzNDgwMjgyMC
+wtMzQ5MzA1ODY5LC05MzE5MDk3MDAsLTk1OTMxMzcwMiw3MzQ5
+MDM0ODJdfQ==
 -->
