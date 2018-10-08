@@ -418,6 +418,10 @@ INFO: Build completed successfully, 9160 total actions
 total 9160 => success
 
 
+#### to check
+https://gist.github.com/Willian-Zhang/088e017774536880bd425178b46b8c17  
+
+https://github.com/tensorflow/tensorflow/issues/19304  
 
 
 # Mojave with no nvidia web drive
@@ -482,11 +486,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTUyNDEyNTksLTIwMjcyODA4ODAsMz
-IwNzQyNCwtNDk0NzkzOTM3LDIxMDg5ODQ0NDUsMTgxNTk2OTU1
-NiwtMTE5NzgwNDgwMywtMTM5MDQzODUzOCwyMDQ5Mzg4ODAwLC
-0xMDIxODEwMTI5LC0xNTg3MTY1NDMyLDE0NDE4NDU2NiwxNDQw
-ODQyOTkxLDEyODc4NDk4MjcsLTI4NTIyNzQ5MywtNDgyOTQ1MT
-Q5LDgzMzIyNjQyMiwtNjY2OTMyNzIyLC00NDcwNDc4MTksMTE4
-OTA3MDU2NV19
+eyJoaXN0b3J5IjpbLTc1NDA1ODQwOCwtMTkxNTI0MTI1OSwtMj
+AyNzI4MDg4MCwzMjA3NDI0LC00OTQ3OTM5MzcsMjEwODk4NDQ0
+NSwxODE1OTY5NTU2LC0xMTk3ODA0ODAzLC0xMzkwNDM4NTM4LD
+IwNDkzODg4MDAsLTEwMjE4MTAxMjksLTE1ODcxNjU0MzIsMTQ0
+MTg0NTY2LDE0NDA4NDI5OTEsMTI4Nzg0OTgyNywtMjg1MjI3ND
+kzLC00ODI5NDUxNDksODMzMjI2NDIyLC02NjY5MzI3MjIsLTQ0
+NzA0NzgxOV19
 -->
