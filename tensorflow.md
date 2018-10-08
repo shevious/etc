@@ -183,8 +183,20 @@ https://brew.sh/index_ko
 brew install coreutils
 brew install llvm
 brew install cliutils/apple/libomp
-chmod +x bazel-<version>-installer-darwin-x86_64.sh
-./bazel-<version>-installer-darwin-x86_64.sh --user
+```
+```bash
+cd ~/Downloads
+chmod +x bazel-0.14.1-installer-darwin-x86_64.sh
+./bazel-0.14.1-installer-darwin-x86_64.sh --user
+...
+..
+Bazel is now installed!
+
+Make sure you have "/Users/shevious/bin" in your path. You can also activate bash
+completion by adding the following line to your ~/.bash_profile:
+  source /Users/shevious/.bazel/bin/bazel-complete.bash
+
+See http://bazel.build/docs/getting-started.html to start a new project!
 ```
 
 
@@ -253,11 +265,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTIyNzQ5MywtNDgyOTQ1MTQ5LDgzMz
-IyNjQyMiwtNjY2OTMyNzIyLC00NDcwNDc4MTksMTE4OTA3MDU2
-NSwtMTc3MDI3ODU4NiwtMTIxMTM3NDAzMCw3MDA0MTc1MTksMT
-IwMjE4MDg5MiwyMzQ4MDI4MjAsLTM0OTMwNTg2OSwtOTMxOTA5
-NzAwLC05NTkzMTM3MDIsNzM0OTAzNDgyLC00OTY2Njg5MzAsOT
-U3NzM5NzM2LC0xMzg5MDMzNjAzLDg0MjQxMzg1NywtMTYzMzAy
-OTE5OV19
+eyJoaXN0b3J5IjpbLTE0Njc5MzA2NzgsLTI4NTIyNzQ5MywtND
+gyOTQ1MTQ5LDgzMzIyNjQyMiwtNjY2OTMyNzIyLC00NDcwNDc4
+MTksMTE4OTA3MDU2NSwtMTc3MDI3ODU4NiwtMTIxMTM3NDAzMC
+w3MDA0MTc1MTksMTIwMjE4MDg5MiwyMzQ4MDI4MjAsLTM0OTMw
+NTg2OSwtOTMxOTA5NzAwLC05NTkzMTM3MDIsNzM0OTAzNDgyLC
+00OTY2Njg5MzAsOTU3NzM5NzM2LC0xMzg5MDMzNjAzLDg0MjQx
+Mzg1N119
 -->
