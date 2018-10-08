@@ -421,8 +421,8 @@ total 9160 => success
 #### to check
 https://gist.github.com/Willian-Zhang/088e017774536880bd425178b46b8c17  
 
-https://github.com/tensorflow/tensorflow/issues/19304  
-
+https://github.com/tensorflow/tensorflow/issues/19304    
+https://stackoverflow.com/questions/49860329/tf-1-7-not-found-tf-gpu-device-with-id-0-was-not-registered  
 
 # Mojave with no nvidia web drive
 #### mojave error log
@@ -486,11 +486,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDA1ODQwOCwtMTkxNTI0MTI1OSwtMj
-AyNzI4MDg4MCwzMjA3NDI0LC00OTQ3OTM5MzcsMjEwODk4NDQ0
-NSwxODE1OTY5NTU2LC0xMTk3ODA0ODAzLC0xMzkwNDM4NTM4LD
-IwNDkzODg4MDAsLTEwMjE4MTAxMjksLTE1ODcxNjU0MzIsMTQ0
-MTg0NTY2LDE0NDA4NDI5OTEsMTI4Nzg0OTgyNywtMjg1MjI3ND
-kzLC00ODI5NDUxNDksODMzMjI2NDIyLC02NjY5MzI3MjIsLTQ0
-NzA0NzgxOV19
+eyJoaXN0b3J5IjpbMTE0NDY4MTgsLTc1NDA1ODQwOCwtMTkxNT
+I0MTI1OSwtMjAyNzI4MDg4MCwzMjA3NDI0LC00OTQ3OTM5Mzcs
+MjEwODk4NDQ0NSwxODE1OTY5NTU2LC0xMTk3ODA0ODAzLC0xMz
+kwNDM4NTM4LDIwNDkzODg4MDAsLTEwMjE4MTAxMjksLTE1ODcx
+NjU0MzIsMTQ0MTg0NTY2LDE0NDA4NDI5OTEsMTI4Nzg0OTgyNy
+wtMjg1MjI3NDkzLC00ODI5NDUxNDksODMzMjI2NDIyLC02NjY5
+MzI3MjJdfQ==
 -->
