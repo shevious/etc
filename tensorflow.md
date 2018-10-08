@@ -372,9 +372,9 @@ build fail: no url:
           "https://github.com/google/protobuf/archive/396336eb961b75f03b25824fe86cf6490fb75e3a.tar.gz",
       ],
 ```
-build again . 
-no Java VM . 
-install [jdk-8u181-macosx-x64.dmg](http://download.oracle.com/otn-pub/java/jdk/8u181-b13/96a7b8442fe848ef90c96a2fad6ed6d1/jdk-8u181-macosx-x64.dmg)
+build again    
+no Java VM    
+install [jdk-8u181-macosx-x64.dmg](http://download.oracle.com/otn-pub/java/jdk/8u181-b13/96a7b8442fe848ef90c96a2fad6ed6d1/jdk-8u181-macosx-x64.dmg)  
 
 
 ```bash
@@ -448,11 +448,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjAzOTkxMCwyMDQ5Mzg4ODAwLC0xMD
-IxODEwMTI5LC0xNTg3MTY1NDMyLDE0NDE4NDU2NiwxNDQwODQy
-OTkxLDEyODc4NDk4MjcsLTI4NTIyNzQ5MywtNDgyOTQ1MTQ5LD
-gzMzIyNjQyMiwtNjY2OTMyNzIyLC00NDcwNDc4MTksMTE4OTA3
-MDU2NSwtMTc3MDI3ODU4NiwtMTIxMTM3NDAzMCw3MDA0MTc1MT
-ksMTIwMjE4MDg5MiwyMzQ4MDI4MjAsLTM0OTMwNTg2OSwtOTMx
-OTA5NzAwXX0=
+eyJoaXN0b3J5IjpbLTEzOTA0Mzg1MzgsMjA0OTM4ODgwMCwtMT
+AyMTgxMDEyOSwtMTU4NzE2NTQzMiwxNDQxODQ1NjYsMTQ0MDg0
+Mjk5MSwxMjg3ODQ5ODI3LC0yODUyMjc0OTMsLTQ4Mjk0NTE0OS
+w4MzMyMjY0MjIsLTY2NjkzMjcyMiwtNDQ3MDQ3ODE5LDExODkw
+NzA1NjUsLTE3NzAyNzg1ODYsLTEyMTEzNzQwMzAsNzAwNDE3NT
+E5LDEyMDIxODA4OTIsMjM0ODAyODIwLC0zNDkzMDU4NjksLTkz
+MTkwOTcwMF19
 -->
