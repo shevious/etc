@@ -54,6 +54,9 @@ http://reachlab-kr.github.io/linux/2015/09/13/Ubuntu-Nvidia-nomodeset.html
 
 ## High Sierra 10.13.6
 
+#### xcode 9.2
+xcode 9.2 and command line tools for 10.13 xcode 9.2
+
 #### cuda toolkit 9.1
 
 [cuda-toolkit-archive](https://developer.nvidia.com/cuda-toolkit-archive)  
@@ -176,6 +179,10 @@ sudo chmod a+r /usr/local/cuda/include/cudnn.h /usr/local/cuda/lib/libcudnn*
 
 https://brew.sh/index_ko
 
+```bash
+brew install coreutils
+
+```
 
 
 
@@ -243,11 +250,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjkzMjcyMiwtNDQ3MDQ3ODE5LDExOD
-kwNzA1NjUsLTE3NzAyNzg1ODYsLTEyMTEzNzQwMzAsNzAwNDE3
-NTE5LDEyMDIxODA4OTIsMjM0ODAyODIwLC0zNDkzMDU4NjksLT
-kzMTkwOTcwMCwtOTU5MzEzNzAyLDczNDkwMzQ4MiwtNDk2NjY4
-OTMwLDk1NzczOTczNiwtMTM4OTAzMzYwMyw4NDI0MTM4NTcsLT
-E2MzMwMjkxOTksLTM4MTA5OTQ5NywtNTYxMDM0Mzk4LC00MDkw
-NDcyMjhdfQ==
+eyJoaXN0b3J5IjpbODMzMjI2NDIyLC02NjY5MzI3MjIsLTQ0Nz
+A0NzgxOSwxMTg5MDcwNTY1LC0xNzcwMjc4NTg2LC0xMjExMzc0
+MDMwLDcwMDQxNzUxOSwxMjAyMTgwODkyLDIzNDgwMjgyMCwtMz
+Q5MzA1ODY5LC05MzE5MDk3MDAsLTk1OTMxMzcwMiw3MzQ5MDM0
+ODIsLTQ5NjY2ODkzMCw5NTc3Mzk3MzYsLTEzODkwMzM2MDMsOD
+QyNDEzODU3LC0xNjMzMDI5MTk5LC0zODEwOTk0OTcsLTU2MTAz
+NDM5OF19
 -->
