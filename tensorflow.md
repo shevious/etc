@@ -382,10 +382,16 @@ install [jdk-8u181-macosx-x64.dmg](http://download.oracle.com/otn-pub/java/jdk/8
 sudo xcode-select -s /Applications/Xcode_9.2.app
 pip install numpy
 ```
-error=> which is related to python 3.7 => go back to 
+error=> which is related to python 3.7 => go back to 3.6
+```bash
+brew uninstall python
+brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/f2a764ef944b1080be64bd88dca9a1d80130c558/Formula/python.rb
+rm -rf ~/venv
+
+``` 
 
 ```bash
-
+bazel clean --expunge
 bazel build --config=cuda --config=opt --cxxopt="-D_GLIBCXX_USE_CXX11_ABI=0" --action_env PATH --action_env LD_LIBRARY_PATH --action_env DYLD_LIBRARY_PATH //tensorflow/tools/pip_package:build_pip_package
 
 bazel build --config=cuda -c opt --cxxopt="-D_GLIBCXX_USE_CXX11_ABI=0" --action_env PATH --action_env LD_LIBRARY_PATH --action_env DYLD_LIBRARY_PATH //tensorflow/tools/pip_package:build_pip_package
@@ -455,11 +461,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyMjM4NzY5LDE4MTU5Njk1NTYsLTExOT
-c4MDQ4MDMsLTEzOTA0Mzg1MzgsMjA0OTM4ODgwMCwtMTAyMTgx
-MDEyOSwtMTU4NzE2NTQzMiwxNDQxODQ1NjYsMTQ0MDg0Mjk5MS
-wxMjg3ODQ5ODI3LC0yODUyMjc0OTMsLTQ4Mjk0NTE0OSw4MzMy
-MjY0MjIsLTY2NjkzMjcyMiwtNDQ3MDQ3ODE5LDExODkwNzA1Nj
-UsLTE3NzAyNzg1ODYsLTEyMTEzNzQwMzAsNzAwNDE3NTE5LDEy
-MDIxODA4OTJdfQ==
+eyJoaXN0b3J5IjpbLTczOTA3OTcyOCwxODE1OTY5NTU2LC0xMT
+k3ODA0ODAzLC0xMzkwNDM4NTM4LDIwNDkzODg4MDAsLTEwMjE4
+MTAxMjksLTE1ODcxNjU0MzIsMTQ0MTg0NTY2LDE0NDA4NDI5OT
+EsMTI4Nzg0OTgyNywtMjg1MjI3NDkzLC00ODI5NDUxNDksODMz
+MjI2NDIyLC02NjY5MzI3MjIsLTQ0NzA0NzgxOSwxMTg5MDcwNT
+Y1LC0xNzcwMjc4NTg2LC0xMjExMzc0MDMwLDcwMDQxNzUxOSwx
+MjAyMTgwODkyXX0=
 -->
