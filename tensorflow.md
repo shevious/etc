@@ -203,7 +203,13 @@ See http://bazel.build/docs/getting-started.html to start a new project!
 
 export PATH=$PATH:$HOME/bin
 ```
+```bash
 
+bazel build --config=cuda --config=opt --cxxopt="-D_GLIBCXX_USE_CXX11_ABI=0" --action_env PATH --action_env LD_LIBRARY_PATH --action_env DYLD_LIBRARY_PATH //tensorflow/tools/pip_package:build_pip_package
+
+bazel build --config=cuda -c opt --cxxopt="-D_GLIBCXX_USE_CXX11_ABI=0" --action_env PATH --action_env LD_LIBRARY_PATH --action_env DYLD_LIBRARY_PATH //tensorflow/tools/pip_package:build_pip_package
+
+```
 
 
 # Mojave with no nvidia web drive
@@ -268,11 +274,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDg0Mjk5MSwxMjg3ODQ5ODI3LC0yOD
-UyMjc0OTMsLTQ4Mjk0NTE0OSw4MzMyMjY0MjIsLTY2NjkzMjcy
-MiwtNDQ3MDQ3ODE5LDExODkwNzA1NjUsLTE3NzAyNzg1ODYsLT
-EyMTEzNzQwMzAsNzAwNDE3NTE5LDEyMDIxODA4OTIsMjM0ODAy
-ODIwLC0zNDkzMDU4NjksLTkzMTkwOTcwMCwtOTU5MzEzNzAyLD
-czNDkwMzQ4MiwtNDk2NjY4OTMwLDk1NzczOTczNiwtMTM4OTAz
-MzYwM119
+eyJoaXN0b3J5IjpbMTQ0MTg0NTY2LDE0NDA4NDI5OTEsMTI4Nz
+g0OTgyNywtMjg1MjI3NDkzLC00ODI5NDUxNDksODMzMjI2NDIy
+LC02NjY5MzI3MjIsLTQ0NzA0NzgxOSwxMTg5MDcwNTY1LC0xNz
+cwMjc4NTg2LC0xMjExMzc0MDMwLDcwMDQxNzUxOSwxMjAyMTgw
+ODkyLDIzNDgwMjgyMCwtMzQ5MzA1ODY5LC05MzE5MDk3MDAsLT
+k1OTMxMzcwMiw3MzQ5MDM0ODIsLTQ5NjY2ODkzMCw5NTc3Mzk3
+MzZdfQ==
 -->
