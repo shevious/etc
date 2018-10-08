@@ -13,8 +13,11 @@ install `bootcamp/setup.exe` not `/setup.exe`.
 #### prompt
 
 http://osxdaily.com/2006/12/11/how-to-customize-your-terminal-prompt/
-```ba
+```bash
+# default prompt
+export PS1="\h:\W \u$ "
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzQ0OTg2LDIwMTk2NTA4MzQsLTk0Mj
-czMDI0Nl19
+eyJoaXN0b3J5IjpbMTA1NzcxNzMwMCwyMDE5NjUwODM0LC05ND
+I3MzAyNDZdfQ==
 -->
