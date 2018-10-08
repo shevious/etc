@@ -323,7 +323,7 @@ Please specify the location where cuDNN 7 library is installed. Refer to README.
 
 Please specify a list of comma-separated Cuda compute capabilities you want to build with.
 You can find the compute capability of your device at: https://developer.nvidia.com/cuda-gpus.
-Please note that each additional compute capability significantly increases your build time and binary size. [Default is: 3.5,7.0]
+Please note that each additional compute capability significantly increases your build time and binary size. [Default is: 3.5,7.0]5.0
 
 
 Do you want to use clang as CUDA compiler? [y/N]: n
@@ -482,11 +482,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjcyODA4ODAsMzIwNzQyNCwtNDk0Nz
-kzOTM3LDIxMDg5ODQ0NDUsMTgxNTk2OTU1NiwtMTE5NzgwNDgw
-MywtMTM5MDQzODUzOCwyMDQ5Mzg4ODAwLC0xMDIxODEwMTI5LC
-0xNTg3MTY1NDMyLDE0NDE4NDU2NiwxNDQwODQyOTkxLDEyODc4
-NDk4MjcsLTI4NTIyNzQ5MywtNDgyOTQ1MTQ5LDgzMzIyNjQyMi
-wtNjY2OTMyNzIyLC00NDcwNDc4MTksMTE4OTA3MDU2NSwtMTc3
-MDI3ODU4Nl19
+eyJoaXN0b3J5IjpbLTE5MTUyNDEyNTksLTIwMjcyODA4ODAsMz
+IwNzQyNCwtNDk0NzkzOTM3LDIxMDg5ODQ0NDUsMTgxNTk2OTU1
+NiwtMTE5NzgwNDgwMywtMTM5MDQzODUzOCwyMDQ5Mzg4ODAwLC
+0xMDIxODEwMTI5LC0xNTg3MTY1NDMyLDE0NDE4NDU2NiwxNDQw
+ODQyOTkxLDEyODc4NDk4MjcsLTI4NTIyNzQ5MywtNDgyOTQ1MT
+Q5LDgzMzIyNjQyMiwtNjY2OTMyNzIyLC00NDcwNDc4MTksMTE4
+OTA3MDU2NV19
 -->
