@@ -364,12 +364,15 @@ FAILED: Build did NOT complete successfully (0 packages loaded)
 ```
 build fail: no url: 
 `https://github.com/dtrebbien/protobuf/archive/50f552646ba1de79e07562b41f3999fe036b4fd0.tar.gz`
-=> fetch from official tensorflow v1.8.0 tag
-"https://mirror.bazel.build/github.com/google/protobuf/archive/396336eb961b75f03b25824fe86cf6490fb75e3a.tar.gz",
-
-"https://github.com/google/protobuf/archive/396336eb961b75f03b25824fe86cf6490fb75e3a.tar.gz",
-
-
+=> fetch from official tensorflow v1.8.0 tag to `tensorflow/workspace.bzl`
+```properties
+      name = "protobuf_archive",
+      urls = [
+          "https://mirror.bazel.build/github.com/google/protobuf/archive/396336eb961b75f03b25824fe86cf6490fb75e3a.tar.gz",
+          "https://github.com/google/protobuf/archive/396336eb961b75f03b25824fe86cf6490fb75e3a.tar.gz",
+      ],
+```
+build again
 
 
 ```bash
@@ -443,11 +446,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzg3Mjk0MjksMjA0OTM4ODgwMCwtMT
-AyMTgxMDEyOSwtMTU4NzE2NTQzMiwxNDQxODQ1NjYsMTQ0MDg0
-Mjk5MSwxMjg3ODQ5ODI3LC0yODUyMjc0OTMsLTQ4Mjk0NTE0OS
-w4MzMyMjY0MjIsLTY2NjkzMjcyMiwtNDQ3MDQ3ODE5LDExODkw
-NzA1NjUsLTE3NzAyNzg1ODYsLTEyMTEzNzQwMzAsNzAwNDE3NT
-E5LDEyMDIxODA4OTIsMjM0ODAyODIwLC0zNDkzMDU4NjksLTkz
-MTkwOTcwMF19
+eyJoaXN0b3J5IjpbLTM1NjY2MzY1MywyMDQ5Mzg4ODAwLC0xMD
+IxODEwMTI5LC0xNTg3MTY1NDMyLDE0NDE4NDU2NiwxNDQwODQy
+OTkxLDEyODc4NDk4MjcsLTI4NTIyNzQ5MywtNDgyOTQ1MTQ5LD
+gzMzIyNjQyMiwtNjY2OTMyNzIyLC00NDcwNDc4MTksMTE4OTA3
+MDU2NSwtMTc3MDI3ODU4NiwtMTIxMTM3NDAzMCw3MDA0MTc1MT
+ksMTIwMjE4MDg5MiwyMzQ4MDI4MjAsLTM0OTMwNTg2OSwtOTMx
+OTA5NzAwXX0=
 -->
