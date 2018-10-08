@@ -166,7 +166,10 @@ https://docs.nvidia.com/deeplearning/sdk/cudnn-archived/index.html
 ```bash
 mkdir ~/cudnn
 cd ~/cudnn
-tar -xzvf ~/Downlo
+tar -xvzf ~/Downloads/cudnn-9.1-osx-x64-v7-ga.tgz
+sudo cp cuda/include/cudnn.h /usr/local/cuda/include
+sudo cp cuda/lib/libcudnn* /usr/local/cuda/lib
+sudo chmod a+r /usr/local/cuda/include/cudnn.h /usr/local/cuda/lib/libcudnn*
 ```
 
 #### install homebrew
@@ -240,11 +243,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzA0NzgxOSwxMTg5MDcwNTY1LC0xNz
-cwMjc4NTg2LC0xMjExMzc0MDMwLDcwMDQxNzUxOSwxMjAyMTgw
-ODkyLDIzNDgwMjgyMCwtMzQ5MzA1ODY5LC05MzE5MDk3MDAsLT
-k1OTMxMzcwMiw3MzQ5MDM0ODIsLTQ5NjY2ODkzMCw5NTc3Mzk3
-MzYsLTEzODkwMzM2MDMsODQyNDEzODU3LC0xNjMzMDI5MTk5LC
-0zODEwOTk0OTcsLTU2MTAzNDM5OCwtNDA5MDQ3MjI4LDcwMTk4
-MDQ0MV19
+eyJoaXN0b3J5IjpbLTY2NjkzMjcyMiwtNDQ3MDQ3ODE5LDExOD
+kwNzA1NjUsLTE3NzAyNzg1ODYsLTEyMTEzNzQwMzAsNzAwNDE3
+NTE5LDEyMDIxODA4OTIsMjM0ODAyODIwLC0zNDkzMDU4NjksLT
+kzMTkwOTcwMCwtOTU5MzEzNzAyLDczNDkwMzQ4MiwtNDk2NjY4
+OTMwLDk1NzczOTczNiwtMTM4OTAzMzYwMyw4NDI0MTM4NTcsLT
+E2MzMwMjkxOTksLTM4MTA5OTQ5NywtNTYxMDM0Mzk4LC00MDkw
+NDcyMjhdfQ==
 -->
