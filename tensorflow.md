@@ -367,13 +367,19 @@ build fail: no url:
 => fetch from official tensorflow v1.8.0 tag to `tensorflow/workspace.bzl`
 => compile error because it should be patched. => [Build Error Windows, No results found for more than one instance of overloaded function](https://github.com/tensorflow/tensorflow/issues/17067#issuecomment-366496974)  
 ```properties
-      name = "protobuf_archive",
-      urls = [
-          "https://mirror.bazel.build/github.com/google/protobuf/archive/396336eb961b75f03b25824fe86cf6490fb75e3a.tar.gz",
-          "https://github.com/google/protobuf/archive/396336eb961b75f03b25824fe86cf6490fb75e3a.tar.gz",
-      ],
-      sha256 = "846d907acf472ae233ec0882ef3a2d24edbbe834b80c305e867ac65a1f2c59e3",
-      strip_prefix = "protobuf-396336eb961b75f03b25824fe86cf6490fb75e3a",
+   tf_http_archive(
+       name = "protobuf_archive",
+       urls = [
+-          "https://mirror.bazel.build/github.com/google/protobuf/archive/396336eb961b75f03b25824fe86cf6490fb75e3a.tar.gz",
+-          "https://github.com/google/protobuf/archive/396336eb961b75f03b25824fe86cf6490fb75e3a.tar.gz",
++          "https://mirror.bazel.build/github.com/dinever/protobuf/archive/188578878eff18c2148baba0e116d87ce8f49410.tar.gz",
++          "https://github.com/dinever/protobuf/archive/188578878eff18c2148baba0e116d87ce8f49410.tar.gz",
+       ],
+-      sha256 = "846d907acf472ae233ec0882ef3a2d24edbbe834b80c305e867ac65a1f2c59e3",
+-      strip_prefix = "protobuf-396336eb961b75f03b25824fe86cf6490fb75e3a",
++      sha256 = "7a1d96ccdf7131535828cad737a76fd65ed766e9511e468d0daa3cc4f3db5175",
++      strip_prefix = "protobuf-188578878eff18c2148baba0e116d87ce8f49410",
+   )
 ```
 build again    
 no Java VM    
@@ -465,7 +471,7 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDA1ODMwMywyMTA4OTg0NDQ1LDE4MT
+eyJoaXN0b3J5IjpbLTQ5NDc5MzkzNywyMTA4OTg0NDQ1LDE4MT
 U5Njk1NTYsLTExOTc4MDQ4MDMsLTEzOTA0Mzg1MzgsMjA0OTM4
 ODgwMCwtMTAyMTgxMDEyOSwtMTU4NzE2NTQzMiwxNDQxODQ1Nj
 YsMTQ0MDg0Mjk5MSwxMjg3ODQ5ODI3LC0yODUyMjc0OTMsLTQ4
