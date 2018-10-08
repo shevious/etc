@@ -347,6 +347,30 @@ Preconfigured Bazel build configs. You can use any of the below by adding "--con
 Configuration finished
 ```
 
+try to build:
+```
+# build failed
+$ bazel build --config=cuda --config=opt --cxxopt="-D_GLIBCXX_USE_CXX11_ABI=0" --action_env PATH --action_env LD_LIBRARY_PATH --action_env DYLD_LIBRARY_PATH //tensorflow/tools/pip_package:build_pip_package
+Unable to find any JVMs matching version "1.7+".
+No Java runtime present, try --request to install.
+WARNING: The following configs were expanded more than once: [cuda]. For repeatable flags, repeats are counted twice and may lead to unexpected behavior.
+ERROR: /Users/shevious/tensorflow-gpu-macosx/tensorflow/tools/pip_package/BUILD:166:1: error loading package 'tensorflow': Encountered error while reading extension file 'protobuf.bzl': no such package '@protobuf_archive//': java.io.IOException: Error downloading [https://mirror.bazel.build/github.com/dtrebbien/protobuf/archive/50f552646ba1de79e07562b41f3999fe036b4fd0.tar.gz, https://github.com/dtrebbien/protobuf/archive/50f552646ba1de79e07562b41f3999fe036b4fd0.tar.gz] to /private/var/tmp/_bazel_shevious/70839c20b974647953bdf89774ca3e3d/external/protobuf_archive/50f552646ba1de79e07562b41f3999fe036b4fd0.tar.gz: All mirrors are down: [GET returned 403 Forbidden, GET returned 404 Not Found] and referenced by '//tensorflow/tools/pip_package:build_pip_package'
+ERROR: /Users/shevious/tensorflow-gpu-macosx/tensorflow/tools/pip_package/BUILD:166:1: error loading package 'tensorflow': Encountered error while reading extension file 'protobuf.bzl': no such package '@protobuf_archive//': java.io.IOException: Error downloading [https://mirror.bazel.build/github.com/dtrebbien/protobuf/archive/50f552646ba1de79e07562b41f3999fe036b4fd0.tar.gz, https://github.com/dtrebbien/protobuf/archive/50f552646ba1de79e07562b41f3999fe036b4fd0.tar.gz] to /private/var/tmp/_bazel_shevious/70839c20b974647953bdf89774ca3e3d/external/protobuf_archive/50f552646ba1de79e07562b41f3999fe036b4fd0.tar.gz: All mirrors are down: [GET returned 403 Forbidden, GET returned 404 Not Found] and referenced by '//tensorflow/tools/pip_package:build_pip_package'
+ERROR: Analysis of target '//tensorflow/tools/pip_package:build_pip_package' failed; build aborted: error loading package 'tensorflow': Encountered error while reading extension file 'protobuf.bzl': no such package '@protobuf_archive//': java.io.IOException: Error downloading [https://mirror.bazel.build/github.com/dtrebbien/protobuf/archive/50f552646ba1de79e07562b41f3999fe036b4fd0.tar.gz, https://github.com/dtrebbien/protobuf/archive/50f552646ba1de79e07562b41f3999fe036b4fd0.tar.gz] to /private/var/tmp/_bazel_shevious/70839c20b974647953bdf89774ca3e3d/external/protobuf_archive/50f552646ba1de79e07562b41f3999fe036b4fd0.tar.gz: All mirrors are down: [GET returned 403 Forbidden, GET returned 404 Not Found]
+INFO: Elapsed time: 19.428s
+INFO: 0 processes.
+FAILED: Build did NOT complete successfully (0 packages loaded)
+    currently loading: tensorflow
+```
+build fail: no url: 
+`https://github.com/dtrebbien/protobuf/archive/50f552646ba1de79e07562b41f3999fe036b4fd0.tar.gz`
+=> fetch from official tensorflow v1.8.0 tag
+"https://mirror.bazel.build/github.com/google/protobuf/archive/396336eb961b75f03b25824fe86cf6490fb75e3a.tar.gz",
+
+"https://github.com/google/protobuf/archive/396336eb961b75f03b25824fe86cf6490fb75e3a.tar.gz",
+
+
+
 
 ```bash
 
@@ -419,11 +443,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTM4ODgwMCwtMTAyMTgxMDEyOSwtMT
-U4NzE2NTQzMiwxNDQxODQ1NjYsMTQ0MDg0Mjk5MSwxMjg3ODQ5
-ODI3LC0yODUyMjc0OTMsLTQ4Mjk0NTE0OSw4MzMyMjY0MjIsLT
-Y2NjkzMjcyMiwtNDQ3MDQ3ODE5LDExODkwNzA1NjUsLTE3NzAy
-Nzg1ODYsLTEyMTEzNzQwMzAsNzAwNDE3NTE5LDEyMDIxODA4OT
-IsMjM0ODAyODIwLC0zNDkzMDU4NjksLTkzMTkwOTcwMCwtOTU5
-MzEzNzAyXX0=
+eyJoaXN0b3J5IjpbLTEwNzg3Mjk0MjksMjA0OTM4ODgwMCwtMT
+AyMTgxMDEyOSwtMTU4NzE2NTQzMiwxNDQxODQ1NjYsMTQ0MDg0
+Mjk5MSwxMjg3ODQ5ODI3LC0yODUyMjc0OTMsLTQ4Mjk0NTE0OS
+w4MzMyMjY0MjIsLTY2NjkzMjcyMiwtNDQ3MDQ3ODE5LDExODkw
+NzA1NjUsLTE3NzAyNzg1ODYsLTEyMTEzNzQwMzAsNzAwNDE3NT
+E5LDEyMDIxODA4OTIsMjM0ODAyODIwLC0zNDkzMDU4NjksLTkz
+MTkwOTcwMF19
 -->
