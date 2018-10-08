@@ -54,9 +54,6 @@ http://reachlab-kr.github.io/linux/2015/09/13/Ubuntu-Nvidia-nomodeset.html
 
 ## High Sierra 10.13.6
 
-
-
-
 #### cuda toolkit 9.1
 
 [cuda-toolkit-archive](https://developer.nvidia.com/cuda-toolkit-archive)  
@@ -75,7 +72,6 @@ Choose which packages you wish to install. The packages are:
 #### cuda mac driver
 cuda control panel 에서 update 필요하다고 경고함.
 
-
 https://www.nvidia.com/object/mac-driver-archive.html  
 
 [NVIDIA CUDA 387.178 FOR MACOS RELEASE](https://www.nvidia.com/object/macosx-cuda-387.178-driver.html)  
@@ -93,6 +89,9 @@ Set up the required environment variables:
 export PATH=/Developer/NVIDIA/CUDA-9.1/bin${PATH:+:${PATH}}
 export DYLD_LIBRARY_PATH=/Developer/NVIDIA/CUDA-9.1/lib\
                          ${DYLD_LIBRARY_PATH:+:${DYLD_LIBRARY_PATH}}
+$ xcode-select -p
+/Library/Developer/CommandLineTools
+$ sudo xcode-select -s /Applications/Xcode_9.2.app
 $ xcode-select -p
 /Applications/Xcode_9.2.app/Contents/Developer
 $ make -C 0_Simple/vectorAdd
@@ -163,7 +162,6 @@ Result = PASS
 
 https://developer.nvidia.com/rdp/cudnn-archive  
 https://docs.nvidia.com/deeplearning/sdk/cudnn-archived/index.html  
-
 
 
 #### install homebrew
@@ -237,11 +235,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzAyNzg1ODYsLTEyMTEzNzQwMzAsNz
-AwNDE3NTE5LDEyMDIxODA4OTIsMjM0ODAyODIwLC0zNDkzMDU4
-NjksLTkzMTkwOTcwMCwtOTU5MzEzNzAyLDczNDkwMzQ4MiwtND
-k2NjY4OTMwLDk1NzczOTczNiwtMTM4OTAzMzYwMyw4NDI0MTM4
-NTcsLTE2MzMwMjkxOTksLTM4MTA5OTQ5NywtNTYxMDM0Mzk4LC
-00MDkwNDcyMjgsNzAxOTgwNDQxLDYxNjI5MzYzOSwtMjEwNzYw
-NzgxMF19
+eyJoaXN0b3J5IjpbMTE4OTA3MDU2NSwtMTc3MDI3ODU4NiwtMT
+IxMTM3NDAzMCw3MDA0MTc1MTksMTIwMjE4MDg5MiwyMzQ4MDI4
+MjAsLTM0OTMwNTg2OSwtOTMxOTA5NzAwLC05NTkzMTM3MDIsNz
+M0OTAzNDgyLC00OTY2Njg5MzAsOTU3NzM5NzM2LC0xMzg5MDMz
+NjAzLDg0MjQxMzg1NywtMTYzMzAyOTE5OSwtMzgxMDk5NDk3LC
+01NjEwMzQzOTgsLTQwOTA0NzIyOCw3MDE5ODA0NDEsNjE2Mjkz
+NjM5XX0=
 -->
