@@ -181,7 +181,8 @@ https://brew.sh/index_ko
 
 ```bash
 brew install coreutils
-
+brew install llvm
+brew install cliutils/apple/libomp
 ```
 
 
@@ -250,11 +251,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzMjI2NDIyLC02NjY5MzI3MjIsLTQ0Nz
-A0NzgxOSwxMTg5MDcwNTY1LC0xNzcwMjc4NTg2LC0xMjExMzc0
-MDMwLDcwMDQxNzUxOSwxMjAyMTgwODkyLDIzNDgwMjgyMCwtMz
-Q5MzA1ODY5LC05MzE5MDk3MDAsLTk1OTMxMzcwMiw3MzQ5MDM0
-ODIsLTQ5NjY2ODkzMCw5NTc3Mzk3MzYsLTEzODkwMzM2MDMsOD
-QyNDEzODU3LC0xNjMzMDI5MTk5LC0zODEwOTk0OTcsLTU2MTAz
-NDM5OF19
+eyJoaXN0b3J5IjpbLTQ4Mjk0NTE0OSw4MzMyMjY0MjIsLTY2Nj
+kzMjcyMiwtNDQ3MDQ3ODE5LDExODkwNzA1NjUsLTE3NzAyNzg1
+ODYsLTEyMTEzNzQwMzAsNzAwNDE3NTE5LDEyMDIxODA4OTIsMj
+M0ODAyODIwLC0zNDkzMDU4NjksLTkzMTkwOTcwMCwtOTU5MzEz
+NzAyLDczNDkwMzQ4MiwtNDk2NjY4OTMwLDk1NzczOTczNiwtMT
+M4OTAzMzYwMyw4NDI0MTM4NTcsLTE2MzMwMjkxOTksLTM4MTA5
+OTQ5N119
 -->
