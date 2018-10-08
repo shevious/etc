@@ -371,6 +371,8 @@ build fail: no url:
           "https://mirror.bazel.build/github.com/google/protobuf/archive/396336eb961b75f03b25824fe86cf6490fb75e3a.tar.gz",
           "https://github.com/google/protobuf/archive/396336eb961b75f03b25824fe86cf6490fb75e3a.tar.gz",
       ],
+      sha256 = "846d907acf472ae233ec0882ef3a2d24edbbe834b80c305e867ac65a1f2c59e3",
+      strip_prefix = "protobuf-396336eb961b75f03b25824fe86cf6490fb75e3a",
 ```
 build again    
 no Java VM    
@@ -448,11 +450,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTA0Mzg1MzgsMjA0OTM4ODgwMCwtMT
-AyMTgxMDEyOSwtMTU4NzE2NTQzMiwxNDQxODQ1NjYsMTQ0MDg0
-Mjk5MSwxMjg3ODQ5ODI3LC0yODUyMjc0OTMsLTQ4Mjk0NTE0OS
-w4MzMyMjY0MjIsLTY2NjkzMjcyMiwtNDQ3MDQ3ODE5LDExODkw
-NzA1NjUsLTE3NzAyNzg1ODYsLTEyMTEzNzQwMzAsNzAwNDE3NT
-E5LDEyMDIxODA4OTIsMjM0ODAyODIwLC0zNDkzMDU4NjksLTkz
-MTkwOTcwMF19
+eyJoaXN0b3J5IjpbLTExOTc4MDQ4MDMsLTEzOTA0Mzg1MzgsMj
+A0OTM4ODgwMCwtMTAyMTgxMDEyOSwtMTU4NzE2NTQzMiwxNDQx
+ODQ1NjYsMTQ0MDg0Mjk5MSwxMjg3ODQ5ODI3LC0yODUyMjc0OT
+MsLTQ4Mjk0NTE0OSw4MzMyMjY0MjIsLTY2NjkzMjcyMiwtNDQ3
+MDQ3ODE5LDExODkwNzA1NjUsLTE3NzAyNzg1ODYsLTEyMTEzNz
+QwMzAsNzAwNDE3NTE5LDEyMDIxODA4OTIsMjM0ODAyODIwLC0z
+NDkzMDU4NjldfQ==
 -->
