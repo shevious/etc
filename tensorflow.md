@@ -260,6 +260,7 @@ source venv/bin/activate
 ```
 
 #### ./configure
+```
 (venv) sheviousui-iMac:~ shevious$ cd tensorflow-gpu-macosx/
 (venv) sheviousui-iMac:tensorflow-gpu-macosx shevious$ ./configure 
 Unable to find any JVMs matching version "1.7+".
@@ -344,7 +345,7 @@ Preconfigured Bazel build configs. You can use any of the below by adding "--con
         --config=mkl            # Build with MKL support.
         --config=monolithic     # Config for mostly static monolithic build.
 Configuration finished
-`
+```
 
 
 ```bash
@@ -418,7 +419,7 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2Nzg4ODU0MCwtMTAyMTgxMDEyOSwtMT
+eyJoaXN0b3J5IjpbMjA0OTM4ODgwMCwtMTAyMTgxMDEyOSwtMT
 U4NzE2NTQzMiwxNDQxODQ1NjYsMTQ0MDg0Mjk5MSwxMjg3ODQ5
 ODI3LC0yODUyMjc0OTMsLTQ4Mjk0NTE0OSw4MzMyMjY0MjIsLT
 Y2NjkzMjcyMiwtNDQ3MDQ3ODE5LDExODkwNzA1NjUsLTE3NzAy
