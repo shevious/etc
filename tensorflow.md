@@ -94,11 +94,11 @@ export DYLD_LIBRARY_PATH=/Developer/NVIDIA/CUDA-9.1/lib\
                          ${DYLD_LIBRARY_PATH:+:${DYLD_LIBRARY_PATH}}
 $ xcode-select -p
 /Library/Developer/CommandLineTools
-```
-```bash
+
 #sudo xcode-select -s /Applications/Xcode_9.2.app
 #xcode-select -p /Applications/Xcode_9.2.app/Contents/Developer
-# install command line tools for
+# install command line tools for xcode9.2 & macos 10.13
+
 $ make -C 0_Simple/vectorAdd
 /Developer/NVIDIA/CUDA-9.1/bin/nvcc -ccbin clang++ -I../../common/inc  -m64  -Xcompiler -arch -Xcompiler x86_64  -gencode arch=compute_30,code=sm_30 -gencode arch=compute_35,code=sm_35 -gencode arch=compute_37,code=sm_37 -gencode arch=compute_50,code=sm_50 -gencode arch=compute_52,code=sm_52 -gencode arch=compute_60,code=sm_60 -gencode arch=compute_61,code=sm_61 -gencode arch=compute_70,code=sm_70 -gencode arch=compute_70,code=compute_70 -o vectorAdd.o -c vectorAdd.cu
 /Developer/NVIDIA/CUDA-9.1/bin/nvcc -ccbin clang++ -m64  -Xcompiler -arch -Xcompiler x86_64  -Xlinker -rpath -Xlinker /Developer/NVIDIA/CUDA-9.1/lib  -gencode arch=compute_30,code=sm_30 -gencode arch=compute_35,code=sm_35 -gencode arch=compute_37,code=sm_37 -gencode arch=compute_50,code=sm_50 -gencode arch=compute_52,code=sm_52 -gencode arch=compute_60,code=sm_60 -gencode arch=compute_61,code=sm_61 -gencode arch=compute_70,code=sm_70 -gencode arch=compute_70,code=compute_70 -o vectorAdd vectorAdd.o
@@ -175,6 +175,7 @@ tar -xvzf ~/Downloads/cudnn-9.1-osx-x64-v7-ga.tgz
 sudo cp cuda/include/cudnn.h /usr/local/cuda/include
 sudo cp cuda/lib/libcudnn* /usr/local/cuda/lib
 sudo chmod a+r /usr/local/cuda/include/cudnn.h /usr/local/cuda/lib/libcudnn*
+export  DYLD_LIBRARY_PATH=/usr/local/cuda/lib:$DYLD_LIBRARY_PATH
 ```
 
 #### install homebrew
@@ -265,7 +266,7 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTM5NDc3MSwtMjg1MjI3NDkzLC00OD
+eyJoaXN0b3J5IjpbMTI4Nzg0OTgyNywtMjg1MjI3NDkzLC00OD
 I5NDUxNDksODMzMjI2NDIyLC02NjY5MzI3MjIsLTQ0NzA0Nzgx
 OSwxMTg5MDcwNTY1LC0xNzcwMjc4NTg2LC0xMjExMzc0MDMwLD
 cwMDQxNzUxOSwxMjAyMTgwODkyLDIzNDgwMjgyMCwtMzQ5MzA1
