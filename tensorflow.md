@@ -200,6 +200,8 @@ completion by adding the following line to your ~/.bash_profile:
   source /Users/shevious/.bazel/bin/bazel-complete.bash
 
 See http://bazel.build/docs/getting-started.html to start a new project!
+
+export PATH=$PATH:$HOME/bin
 ```
 
 
@@ -266,11 +268,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Nzg0OTgyNywtMjg1MjI3NDkzLC00OD
-I5NDUxNDksODMzMjI2NDIyLC02NjY5MzI3MjIsLTQ0NzA0Nzgx
-OSwxMTg5MDcwNTY1LC0xNzcwMjc4NTg2LC0xMjExMzc0MDMwLD
-cwMDQxNzUxOSwxMjAyMTgwODkyLDIzNDgwMjgyMCwtMzQ5MzA1
-ODY5LC05MzE5MDk3MDAsLTk1OTMxMzcwMiw3MzQ5MDM0ODIsLT
-Q5NjY2ODkzMCw5NTc3Mzk3MzYsLTEzODkwMzM2MDMsODQyNDEz
-ODU3XX0=
+eyJoaXN0b3J5IjpbMTQ0MDg0Mjk5MSwxMjg3ODQ5ODI3LC0yOD
+UyMjc0OTMsLTQ4Mjk0NTE0OSw4MzMyMjY0MjIsLTY2NjkzMjcy
+MiwtNDQ3MDQ3ODE5LDExODkwNzA1NjUsLTE3NzAyNzg1ODYsLT
+EyMTEzNzQwMzAsNzAwNDE3NTE5LDEyMDIxODA4OTIsMjM0ODAy
+ODIwLC0zNDkzMDU4NjksLTkzMTkwOTcwMCwtOTU5MzEzNzAyLD
+czNDkwMzQ4MiwtNDk2NjY4OTMwLDk1NzczOTczNiwtMTM4OTAz
+MzYwM119
 -->
