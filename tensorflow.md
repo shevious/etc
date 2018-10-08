@@ -191,8 +191,57 @@ brew install cliutils/apple/libomp
 cd ~/Downloads
 chmod +x bazel-0.14.1-installer-darwin-x86_64.sh
 ./bazel-0.14.1-installer-darwin-x86_64.sh --user
-...
-...
+Bazel installer
+---------------
+
+Bazel is bundled with software licensed under the GPLv2 with Classpath exception.
+You can find the sources next to the installer on our release page:
+   https://github.com/bazelbuild/bazel/releases
+
+# Release 0.14.1 (2018-06-08)
+
+Baseline: 5c3f5c9be7fa40d4fb3c35756891fab8483ca406
+
+Cherry picks:
+   + f96f037f8f77335dc444844abcc31a372a3e1849:
+     Windows, Java launcher: Support jar files under different drives
+   + ff8162d01409db34893de98bd840a51c5f13e257:
+     sh_configure.bzl: FreeBSD is also a known platform
+   + 7092ed324137f03fcd34856bdb0595a1bdec3069:
+     Remove unneeded exec_compatible_with from local_sh_toolchain
+   + 57bc201346e61c62a921c1cbf32ad24f185c10c9:
+     Do not autodetect C++ toolchain when
+     BAZEL_DO_NOT_DETECT_CPP_TOOLCHAIN=1 is present
+   + 35a78c09cf2fbfc3de9c124d2142e3d72aac4348:
+     remote: recursively delete incomplete downloaded output
+     directory.
+   + 3c9cd82b847f3ece8ec04b2029bd5e8ad0eb7502:
+     distfile: pack the archives needed later in the build
+   + 27487c77387e457df18be3b6833697096d074eab:
+     Slightly refactor SpawnAction to improve env handling
+   + 1b333a2c37add9d04fe5bc5258ee4f73c93115e2:
+     Fix Cpp{Compile,Link}Action environment and cache key computation
+   + 3da8929963e9c70dff5d8859d6e988e6e7f4f9d7:
+     Make SymlinkTreeAction properly use the configuration's
+     environment
+   + eca7b81cf8cc51e1fe56e5ed7d4ad5cd1668a17a:
+     Add a missing dependency from checker framework dataflow to
+     javacutils
+   + 10a4de954c2061258d8222961fc3bd39516db49d:
+     Release 0.14.0 (2018-06-01)
+   + 4b80f2455e7e49a95f3a4c9102a67a57dad52207:
+     Add option to enable Docker sandboxing.
+   + 6b1635279e8b33dc1ac505ac81825e38f8797a14:
+     Allow disabling the simple blob caches via CLI flag overrides.
+
+Bug fix for [#5336](https://github.com/bazelbuild/bazel/issues/5336)
+Bug fix fot [#5308](https://github.com/bazelbuild/bazel/issues/5308)
+
+## Build informations
+   - [Commit](https://github.com/bazelbuild/bazel/commit/26abd1d0ce)
+Uncompressing......Extracting Bazel installation...
+.
+
 Bazel is now installed!
 
 Make sure you have "/Users/shevious/bin" in your path. You can also activate bash
@@ -274,11 +323,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTg0NTY2LDE0NDA4NDI5OTEsMTI4Nz
-g0OTgyNywtMjg1MjI3NDkzLC00ODI5NDUxNDksODMzMjI2NDIy
-LC02NjY5MzI3MjIsLTQ0NzA0NzgxOSwxMTg5MDcwNTY1LC0xNz
-cwMjc4NTg2LC0xMjExMzc0MDMwLDcwMDQxNzUxOSwxMjAyMTgw
-ODkyLDIzNDgwMjgyMCwtMzQ5MzA1ODY5LC05MzE5MDk3MDAsLT
-k1OTMxMzcwMiw3MzQ5MDM0ODIsLTQ5NjY2ODkzMCw5NTc3Mzk3
-MzZdfQ==
+eyJoaXN0b3J5IjpbLTE1ODcxNjU0MzIsMTQ0MTg0NTY2LDE0ND
+A4NDI5OTEsMTI4Nzg0OTgyNywtMjg1MjI3NDkzLC00ODI5NDUx
+NDksODMzMjI2NDIyLC02NjY5MzI3MjIsLTQ0NzA0NzgxOSwxMT
+g5MDcwNTY1LC0xNzcwMjc4NTg2LC0xMjExMzc0MDMwLDcwMDQx
+NzUxOSwxMjAyMTgwODkyLDIzNDgwMjgyMCwtMzQ5MzA1ODY5LC
+05MzE5MDk3MDAsLTk1OTMxMzcwMiw3MzQ5MDM0ODIsLTQ5NjY2
+ODkzMF19
 -->
