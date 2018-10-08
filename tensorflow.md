@@ -400,6 +400,10 @@ pip install numpy
 ./configure again (python library path changed)
 ``` 
 
+link error => https://github.com/tensorflow/tensorflow/issues/22527
+
+try to using bazel 16
+
 ```bash
 bazel clean --expunge
 bazel build --config=cuda --config=opt --cxxopt="-D_GLIBCXX_USE_CXX11_ABI=0" --action_env PATH --action_env LD_LIBRARY_PATH --action_env DYLD_LIBRARY_PATH //tensorflow/tools/pip_package:build_pip_package
@@ -471,11 +475,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDc5MzkzNywyMTA4OTg0NDQ1LDE4MT
-U5Njk1NTYsLTExOTc4MDQ4MDMsLTEzOTA0Mzg1MzgsMjA0OTM4
-ODgwMCwtMTAyMTgxMDEyOSwtMTU4NzE2NTQzMiwxNDQxODQ1Nj
-YsMTQ0MDg0Mjk5MSwxMjg3ODQ5ODI3LC0yODUyMjc0OTMsLTQ4
-Mjk0NTE0OSw4MzMyMjY0MjIsLTY2NjkzMjcyMiwtNDQ3MDQ3OD
-E5LDExODkwNzA1NjUsLTE3NzAyNzg1ODYsLTEyMTEzNzQwMzAs
-NzAwNDE3NTE5XX0=
+eyJoaXN0b3J5IjpbMzIwNzQyNCwtNDk0NzkzOTM3LDIxMDg5OD
+Q0NDUsMTgxNTk2OTU1NiwtMTE5NzgwNDgwMywtMTM5MDQzODUz
+OCwyMDQ5Mzg4ODAwLC0xMDIxODEwMTI5LC0xNTg3MTY1NDMyLD
+E0NDE4NDU2NiwxNDQwODQyOTkxLDEyODc4NDk4MjcsLTI4NTIy
+NzQ5MywtNDgyOTQ1MTQ5LDgzMzIyNjQyMiwtNjY2OTMyNzIyLC
+00NDcwNDc4MTksMTE4OTA3MDU2NSwtMTc3MDI3ODU4NiwtMTIx
+MTM3NDAzMF19
 -->
