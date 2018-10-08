@@ -390,6 +390,7 @@ rm -rf ~/venv
 virtualenv venv
 . venv/bin/activate
 pip install numpy
+./configure again (python library path changed)
 ``` 
 
 ```bash
@@ -463,11 +464,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODAyNjQxMzEsMTgxNTk2OTU1NiwtMT
-E5NzgwNDgwMywtMTM5MDQzODUzOCwyMDQ5Mzg4ODAwLC0xMDIx
-ODEwMTI5LC0xNTg3MTY1NDMyLDE0NDE4NDU2NiwxNDQwODQyOT
-kxLDEyODc4NDk4MjcsLTI4NTIyNzQ5MywtNDgyOTQ1MTQ5LDgz
-MzIyNjQyMiwtNjY2OTMyNzIyLC00NDcwNDc4MTksMTE4OTA3MD
-U2NSwtMTc3MDI3ODU4NiwtMTIxMTM3NDAzMCw3MDA0MTc1MTks
-MTIwMjE4MDg5Ml19
+eyJoaXN0b3J5IjpbMjEwODk4NDQ0NSwxODE1OTY5NTU2LC0xMT
+k3ODA0ODAzLC0xMzkwNDM4NTM4LDIwNDkzODg4MDAsLTEwMjE4
+MTAxMjksLTE1ODcxNjU0MzIsMTQ0MTg0NTY2LDE0NDA4NDI5OT
+EsMTI4Nzg0OTgyNywtMjg1MjI3NDkzLC00ODI5NDUxNDksODMz
+MjI2NDIyLC02NjY5MzI3MjIsLTQ0NzA0NzgxOSwxMTg5MDcwNT
+Y1LC0xNzcwMjc4NTg2LC0xMjExMzc0MDMwLDcwMDQxNzUxOSwx
+MjAyMTgwODkyXX0=
 -->
