@@ -253,6 +253,11 @@ See http://bazel.build/docs/getting-started.html to start a new project!
 export PATH=$PATH:$HOME/bin
 ```
 ```bash
+brew install python
+
+```
+
+```bash
 
 bazel build --config=cuda --config=opt --cxxopt="-D_GLIBCXX_USE_CXX11_ABI=0" --action_env PATH --action_env LD_LIBRARY_PATH --action_env DYLD_LIBRARY_PATH //tensorflow/tools/pip_package:build_pip_package
 
@@ -323,11 +328,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODcxNjU0MzIsMTQ0MTg0NTY2LDE0ND
-A4NDI5OTEsMTI4Nzg0OTgyNywtMjg1MjI3NDkzLC00ODI5NDUx
-NDksODMzMjI2NDIyLC02NjY5MzI3MjIsLTQ0NzA0NzgxOSwxMT
-g5MDcwNTY1LC0xNzcwMjc4NTg2LC0xMjExMzc0MDMwLDcwMDQx
-NzUxOSwxMjAyMTgwODkyLDIzNDgwMjgyMCwtMzQ5MzA1ODY5LC
-05MzE5MDk3MDAsLTk1OTMxMzcwMiw3MzQ5MDM0ODIsLTQ5NjY2
-ODkzMF19
+eyJoaXN0b3J5IjpbLTIyOTg3NjU1MywtMTU4NzE2NTQzMiwxND
+QxODQ1NjYsMTQ0MDg0Mjk5MSwxMjg3ODQ5ODI3LC0yODUyMjc0
+OTMsLTQ4Mjk0NTE0OSw4MzMyMjY0MjIsLTY2NjkzMjcyMiwtND
+Q3MDQ3ODE5LDExODkwNzA1NjUsLTE3NzAyNzg1ODYsLTEyMTEz
+NzQwMzAsNzAwNDE3NTE5LDEyMDIxODA4OTIsMjM0ODAyODIwLC
+0zNDkzMDU4NjksLTkzMTkwOTcwMCwtOTU5MzEzNzAyLDczNDkw
+MzQ4Ml19
 -->
