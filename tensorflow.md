@@ -183,6 +183,8 @@ https://brew.sh/index_ko
 brew install coreutils
 brew install llvm
 brew install cliutils/apple/libomp
+chmod +x bazel-<version>-installer-darwin-x86_64.sh
+./bazel-<version>-installer-darwin-x86_64.sh --user
 ```
 
 
@@ -251,11 +253,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Mjk0NTE0OSw4MzMyMjY0MjIsLTY2Nj
-kzMjcyMiwtNDQ3MDQ3ODE5LDExODkwNzA1NjUsLTE3NzAyNzg1
-ODYsLTEyMTEzNzQwMzAsNzAwNDE3NTE5LDEyMDIxODA4OTIsMj
-M0ODAyODIwLC0zNDkzMDU4NjksLTkzMTkwOTcwMCwtOTU5MzEz
-NzAyLDczNDkwMzQ4MiwtNDk2NjY4OTMwLDk1NzczOTczNiwtMT
-M4OTAzMzYwMyw4NDI0MTM4NTcsLTE2MzMwMjkxOTksLTM4MTA5
-OTQ5N119
+eyJoaXN0b3J5IjpbLTI4NTIyNzQ5MywtNDgyOTQ1MTQ5LDgzMz
+IyNjQyMiwtNjY2OTMyNzIyLC00NDcwNDc4MTksMTE4OTA3MDU2
+NSwtMTc3MDI3ODU4NiwtMTIxMTM3NDAzMCw3MDA0MTc1MTksMT
+IwMjE4MDg5MiwyMzQ4MDI4MjAsLTM0OTMwNTg2OSwtOTMxOTA5
+NzAwLC05NTkzMTM3MDIsNzM0OTAzNDgyLC00OTY2Njg5MzAsOT
+U3NzM5NzM2LC0xMzg5MDMzNjAzLDg0MjQxMzg1NywtMTYzMzAy
+OTE5OV19
 -->
