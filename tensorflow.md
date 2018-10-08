@@ -378,6 +378,10 @@ build again
 no Java VM    
 install [jdk-8u181-macosx-x64.dmg](http://download.oracle.com/otn-pub/java/jdk/8u181-b13/96a7b8442fe848ef90c96a2fad6ed6d1/jdk-8u181-macosx-x64.dmg)  
 
+```bash
+sudo xcode-select -s /Applications/Xcode_9.2.app
+```
+
 
 ```bash
 
@@ -450,11 +454,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTc4MDQ4MDMsLTEzOTA0Mzg1MzgsMj
-A0OTM4ODgwMCwtMTAyMTgxMDEyOSwtMTU4NzE2NTQzMiwxNDQx
-ODQ1NjYsMTQ0MDg0Mjk5MSwxMjg3ODQ5ODI3LC0yODUyMjc0OT
-MsLTQ4Mjk0NTE0OSw4MzMyMjY0MjIsLTY2NjkzMjcyMiwtNDQ3
-MDQ3ODE5LDExODkwNzA1NjUsLTE3NzAyNzg1ODYsLTEyMTEzNz
-QwMzAsNzAwNDE3NTE5LDEyMDIxODA4OTIsMjM0ODAyODIwLC0z
-NDkzMDU4NjldfQ==
+eyJoaXN0b3J5IjpbLTExNzQwMjE1NzUsLTExOTc4MDQ4MDMsLT
+EzOTA0Mzg1MzgsMjA0OTM4ODgwMCwtMTAyMTgxMDEyOSwtMTU4
+NzE2NTQzMiwxNDQxODQ1NjYsMTQ0MDg0Mjk5MSwxMjg3ODQ5OD
+I3LC0yODUyMjc0OTMsLTQ4Mjk0NTE0OSw4MzMyMjY0MjIsLTY2
+NjkzMjcyMiwtNDQ3MDQ3ODE5LDExODkwNzA1NjUsLTE3NzAyNz
+g1ODYsLTEyMTEzNzQwMzAsNzAwNDE3NTE5LDEyMDIxODA4OTIs
+MjM0ODAyODIwXX0=
 -->
