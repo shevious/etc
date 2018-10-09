@@ -9,7 +9,7 @@
 [Tensorflow GPU 1.8 with MacOS 10.13.6](https://egpu.io/forums/mac-setup/tensorflow-gpu-1-8-with-macos-10-13-6/)  
 (It is compiled to GPU cap 6.1)
 
-
+[MacでGPU(cuda)が使えるtensorflowをビルドする](https://qiita.com/74th/items/fc6ebb684c23f3655e7c)  
 
 ## High Sierra 10.13.6
 
@@ -446,7 +446,7 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjUzOTM5NzgsMTQ0MzM4Mjk0NiwtMj
+eyJoaXN0b3J5IjpbLTEwOTU1MDk5MzksMTQ0MzM4Mjk0NiwtMj
 Y1MTA2MTgyLDIxMjgzNjQzOSwtMjA0NjE2MDU2MCwxMTQ0Njgx
 OCwtNzU0MDU4NDA4LC0xOTE1MjQxMjU5LC0yMDI3MjgwODgwLD
 MyMDc0MjQsLTQ5NDc5MzkzNywyMTA4OTg0NDQ1LDE4MTU5Njk1
