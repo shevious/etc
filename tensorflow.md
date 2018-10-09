@@ -1,7 +1,3 @@
-
-
-
-
 # tensorflow mac
 
 [tensorflow-gpu-macosx](https://github.com/zylo117/tensorflow-gpu-macosx)  
@@ -443,11 +439,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODM0NDg2MywtMjA0NjE2MDU2MCwxMT
-Q0NjgxOCwtNzU0MDU4NDA4LC0xOTE1MjQxMjU5LC0yMDI3Mjgw
-ODgwLDMyMDc0MjQsLTQ5NDc5MzkzNywyMTA4OTg0NDQ1LDE4MT
-U5Njk1NTYsLTExOTc4MDQ4MDMsLTEzOTA0Mzg1MzgsMjA0OTM4
-ODgwMCwtMTAyMTgxMDEyOSwtMTU4NzE2NTQzMiwxNDQxODQ1Nj
-YsMTQ0MDg0Mjk5MSwxMjg3ODQ5ODI3LC0yODUyMjc0OTMsLTQ4
-Mjk0NTE0OV19
+eyJoaXN0b3J5IjpbMjEyODM2NDM5LC0yMDQ2MTYwNTYwLDExND
+Q2ODE4LC03NTQwNTg0MDgsLTE5MTUyNDEyNTksLTIwMjcyODA4
+ODAsMzIwNzQyNCwtNDk0NzkzOTM3LDIxMDg5ODQ0NDUsMTgxNT
+k2OTU1NiwtMTE5NzgwNDgwMywtMTM5MDQzODUzOCwyMDQ5Mzg4
+ODAwLC0xMDIxODEwMTI5LC0xNTg3MTY1NDMyLDE0NDE4NDU2Ni
+wxNDQwODQyOTkxLDEyODc4NDk4MjcsLTI4NTIyNzQ5MywtNDgy
+OTQ1MTQ5XX0=
 -->
