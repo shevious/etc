@@ -369,7 +369,8 @@ FAILED: Build did NOT complete successfully (0 packages loaded)
 build fail: no url: 
 `https://github.com/dtrebbien/protobuf/archive/50f552646ba1de79e07562b41f3999fe036b4fd0.tar.gz`
 => fetch from official tensorflow v1.8.0 tag to `tensorflow/workspace.bzl`
-=> compile error because it should be patched. => [Build Error Windows, No results found for more than one instance of overloaded function](https://github.com/tensorflow/tensorflow/issues/17067#issuecomment-366496974)  
+=> compile error because it should be patched. => 
+[Build Error Windows, No results found for more than one instance of overloaded function](https://github.com/tensorflow/tensorflow/issues/17067#issuecomment-366496974)  
 ```properties
    tf_http_archive(
        name = "protobuf_archive",
@@ -486,11 +487,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDY4MTgsLTc1NDA1ODQwOCwtMTkxNT
-I0MTI1OSwtMjAyNzI4MDg4MCwzMjA3NDI0LC00OTQ3OTM5Mzcs
-MjEwODk4NDQ0NSwxODE1OTY5NTU2LC0xMTk3ODA0ODAzLC0xMz
-kwNDM4NTM4LDIwNDkzODg4MDAsLTEwMjE4MTAxMjksLTE1ODcx
-NjU0MzIsMTQ0MTg0NTY2LDE0NDA4NDI5OTEsMTI4Nzg0OTgyNy
-wtMjg1MjI3NDkzLC00ODI5NDUxNDksODMzMjI2NDIyLC02NjY5
-MzI3MjJdfQ==
+eyJoaXN0b3J5IjpbLTIwNDYxNjA1NjAsMTE0NDY4MTgsLTc1ND
+A1ODQwOCwtMTkxNTI0MTI1OSwtMjAyNzI4MDg4MCwzMjA3NDI0
+LC00OTQ3OTM5MzcsMjEwODk4NDQ0NSwxODE1OTY5NTU2LC0xMT
+k3ODA0ODAzLC0xMzkwNDM4NTM4LDIwNDkzODg4MDAsLTEwMjE4
+MTAxMjksLTE1ODcxNjU0MzIsMTQ0MTg0NTY2LDE0NDA4NDI5OT
+EsMTI4Nzg0OTgyNywtMjg1MjI3NDkzLC00ODI5NDUxNDksODMz
+MjI2NDIyXX0=
 -->
