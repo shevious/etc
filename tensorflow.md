@@ -1,8 +1,11 @@
 # tensorflow mac
 
 [tensorflow-gpu-macosx](https://github.com/zylo117/tensorflow-gpu-macosx)  
+
+[Tensorflow 1.8 with CUDA on macOS High Sierra 10.13.4](https://gist.github.com/Willian-Zhang/a3bd10da2d8b343875f3862b2a62eb3b)
+
 [Tensorflow GPU 1.8 with MacOS 10.13.6](https://egpu.io/forums/mac-setup/tensorflow-gpu-1-8-with-macos-10-13-6/)  
-[Tensorflow 1.8 with CUDA on macOS High Sierra 10.13.4](https://gist.github.com/Willian-Zhang/a3bd10da2d8b343875f3862b2a62eb3b)  
+(It is compiled to GPU cap 6.1)
 
 ## High Sierra 10.13.6
 
@@ -439,11 +442,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODM2NDM5LC0yMDQ2MTYwNTYwLDExND
-Q2ODE4LC03NTQwNTg0MDgsLTE5MTUyNDEyNTksLTIwMjcyODA4
-ODAsMzIwNzQyNCwtNDk0NzkzOTM3LDIxMDg5ODQ0NDUsMTgxNT
-k2OTU1NiwtMTE5NzgwNDgwMywtMTM5MDQzODUzOCwyMDQ5Mzg4
-ODAwLC0xMDIxODEwMTI5LC0xNTg3MTY1NDMyLDE0NDE4NDU2Ni
-wxNDQwODQyOTkxLDEyODc4NDk4MjcsLTI4NTIyNzQ5MywtNDgy
-OTQ1MTQ5XX0=
+eyJoaXN0b3J5IjpbLTI2NTEwNjE4MiwyMTI4MzY0MzksLTIwND
+YxNjA1NjAsMTE0NDY4MTgsLTc1NDA1ODQwOCwtMTkxNTI0MTI1
+OSwtMjAyNzI4MDg4MCwzMjA3NDI0LC00OTQ3OTM5MzcsMjEwOD
+k4NDQ0NSwxODE1OTY5NTU2LC0xMTk3ODA0ODAzLC0xMzkwNDM4
+NTM4LDIwNDkzODg4MDAsLTEwMjE4MTAxMjksLTE1ODcxNjU0Mz
+IsMTQ0MTg0NTY2LDE0NDA4NDI5OTEsMTI4Nzg0OTgyNywtMjg1
+MjI3NDkzXX0=
 -->
