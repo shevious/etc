@@ -167,7 +167,15 @@ source /Users/shevious/.bazel/bin/bazel-complete.bash
 
 [Download NCCL v2.1.15, for CUDA 9.1, March 8, 2018](https://developer.nvidia.com/nccl/nccl-legacy-downloads#a-collapse21-91) . 
 
-
+```bash
+cd ~
+tar xvzf 
+sudo mkdir -p /usr/local/nccl
+cd nccl_2.1.15-1+cuda9.1_x86_64
+sudo mv * /usr/local/nccl
+sudo mkdir -p /usr/local/include/third_party/nccl
+sudo ln -s /usr/local/nccl/include/nccl.h /usr/local/include/third_party/nccl
+```
 
 
 #### install homebrew
@@ -481,11 +489,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTc2ODkyMzEsMzcwMjIyODMwLDU0Nz
-g2MjgwMiw5MTc3ODcwMzIsLTE2NTM0NDIzMDIsLTIxMTU1MzYz
-MDQsLTEwOTU1MDk5MzksMTQ0MzM4Mjk0NiwtMjY1MTA2MTgyLD
-IxMjgzNjQzOSwtMjA0NjE2MDU2MCwxMTQ0NjgxOCwtNzU0MDU4
-NDA4LC0xOTE1MjQxMjU5LC0yMDI3MjgwODgwLDMyMDc0MjQsLT
-Q5NDc5MzkzNywyMTA4OTg0NDQ1LDE4MTU5Njk1NTYsLTExOTc4
-MDQ4MDNdfQ==
+eyJoaXN0b3J5IjpbMTgyMDI0MTg3LDM3MDIyMjgzMCw1NDc4Nj
+I4MDIsOTE3Nzg3MDMyLC0xNjUzNDQyMzAyLC0yMTE1NTM2MzA0
+LC0xMDk1NTA5OTM5LDE0NDMzODI5NDYsLTI2NTEwNjE4MiwyMT
+I4MzY0MzksLTIwNDYxNjA1NjAsMTE0NDY4MTgsLTc1NDA1ODQw
+OCwtMTkxNTI0MTI1OSwtMjAyNzI4MDg4MCwzMjA3NDI0LC00OT
+Q3OTM5MzcsMjEwODk4NDQ0NSwxODE1OTY5NTU2LC0xMTk3ODA0
+ODAzXX0=
 -->
