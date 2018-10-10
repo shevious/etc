@@ -211,6 +211,13 @@ additional patch to `tensorflow/workspace.bz`
 +      strip_prefix = "protobuf-188578878eff18c2148baba0e116d87ce8f49410",
    )
 ```
+#### python virtualenv
+
+#### ./configure
+```
+Please note that each additional compute capability significantly increases your build time and binary size. [Default is: 3.5,5.2]5.0
+```
+
 
 
 #### install homebrew
@@ -524,7 +531,7 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzA4Mjc4NzAsLTEzMjI4NDI0NzMsLT
+eyJoaXN0b3J5IjpbLTE2NTUzMjAxMzIsLTEzMjI4NDI0NzMsLT
 E1MTU2MTUyMDQsMzcwMjIyODMwLDU0Nzg2MjgwMiw5MTc3ODcw
 MzIsLTE2NTM0NDIzMDIsLTIxMTU1MzYzMDQsLTEwOTU1MDk5Mz
 ksMTQ0MzM4Mjk0NiwtMjY1MTA2MTgyLDIxMjgzNjQzOSwtMjA0
