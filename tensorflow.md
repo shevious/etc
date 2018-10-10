@@ -212,6 +212,9 @@ additional patch to `tensorflow/workspace.bz`
    )
 ```
 #### python virtualenv
+```
+pip install numpy
+```
 
 #### ./configure
 ```
@@ -537,11 +540,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI1NDg3MjgsLTEzMjI4NDI0NzMsLT
-E1MTU2MTUyMDQsMzcwMjIyODMwLDU0Nzg2MjgwMiw5MTc3ODcw
-MzIsLTE2NTM0NDIzMDIsLTIxMTU1MzYzMDQsLTEwOTU1MDk5Mz
-ksMTQ0MzM4Mjk0NiwtMjY1MTA2MTgyLDIxMjgzNjQzOSwtMjA0
-NjE2MDU2MCwxMTQ0NjgxOCwtNzU0MDU4NDA4LC0xOTE1MjQxMj
-U5LC0yMDI3MjgwODgwLDMyMDc0MjQsLTQ5NDc5MzkzNywyMTA4
-OTg0NDQ1XX0=
+eyJoaXN0b3J5IjpbLTUwODA4MzgzNSwtMTMyMjg0MjQ3MywtMT
+UxNTYxNTIwNCwzNzAyMjI4MzAsNTQ3ODYyODAyLDkxNzc4NzAz
+MiwtMTY1MzQ0MjMwMiwtMjExNTUzNjMwNCwtMTA5NTUwOTkzOS
+wxNDQzMzgyOTQ2LC0yNjUxMDYxODIsMjEyODM2NDM5LC0yMDQ2
+MTYwNTYwLDExNDQ2ODE4LC03NTQwNTg0MDgsLTE5MTUyNDEyNT
+ksLTIwMjcyODA4ODAsMzIwNzQyNCwtNDk0NzkzOTM3LDIxMDg5
+ODQ0NDVdfQ==
 -->
