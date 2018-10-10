@@ -230,7 +230,7 @@ bazel build --config=cuda --config=opt --action_env PATH --action_env LD_LIBRARY
 
 # zylo117's method
 
-als
+also working
 
 #### install homebrew
 
@@ -543,11 +543,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTIyODg1MzAsLTUwODA4MzgzNSwtMT
-MyMjg0MjQ3MywtMTUxNTYxNTIwNCwzNzAyMjI4MzAsNTQ3ODYy
-ODAyLDkxNzc4NzAzMiwtMTY1MzQ0MjMwMiwtMjExNTUzNjMwNC
-wtMTA5NTUwOTkzOSwxNDQzMzgyOTQ2LC0yNjUxMDYxODIsMjEy
-ODM2NDM5LC0yMDQ2MTYwNTYwLDExNDQ2ODE4LC03NTQwNTg0MD
-gsLTE5MTUyNDEyNTksLTIwMjcyODA4ODAsMzIwNzQyNCwtNDk0
-NzkzOTM3XX0=
+eyJoaXN0b3J5IjpbLTQ4ODUwODc3NCwtNTA4MDgzODM1LC0xMz
+IyODQyNDczLC0xNTE1NjE1MjA0LDM3MDIyMjgzMCw1NDc4NjI4
+MDIsOTE3Nzg3MDMyLC0xNjUzNDQyMzAyLC0yMTE1NTM2MzA0LC
+0xMDk1NTA5OTM5LDE0NDMzODI5NDYsLTI2NTEwNjE4MiwyMTI4
+MzY0MzksLTIwNDYxNjA1NjAsMTE0NDY4MTgsLTc1NDA1ODQwOC
+wtMTkxNTI0MTI1OSwtMjAyNzI4MDg4MCwzMjA3NDI0LC00OTQ3
+OTM5MzddfQ==
 -->
