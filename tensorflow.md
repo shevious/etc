@@ -61,12 +61,6 @@ Set up the required environment variables:
 export PATH=/Developer/NVIDIA/CUDA-9.1/bin${PATH:+:${PATH}}
 export DYLD_LIBRARY_PATH=/Developer/NVIDIA/CUDA-9.1/lib\
                          ${DYLD_LIBRARY_PATH:+:${DYLD_LIBRARY_PATH}}
-$ xcode-select -p
-/Library/Developer/CommandLineTools
-
-#sudo xcode-select -s /Applications/Xcode_9.2.app
-#xcode-select -p /Applications/Xcode_9.2.app/Contents/Developer
-# install command line tools for xcode9.2 & macos 10.13
 
 $ make -C 0_Simple/vectorAdd
 /Developer/NVIDIA/CUDA-9.1/bin/nvcc -ccbin clang++ -I../../common/inc  -m64  -Xcompiler -arch -Xcompiler x86_64  -gencode arch=compute_30,code=sm_30 -gencode arch=compute_35,code=sm_35 -gencode arch=compute_37,code=sm_37 -gencode arch=compute_50,code=sm_50 -gencode arch=compute_52,code=sm_52 -gencode arch=compute_60,code=sm_60 -gencode arch=compute_61,code=sm_61 -gencode arch=compute_70,code=sm_70 -gencode arch=compute_70,code=compute_70 -o vectorAdd.o -c vectorAdd.cu
@@ -458,11 +452,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTI0MTU3OSw5MTc3ODcwMzIsLTE2NT
-M0NDIzMDIsLTIxMTU1MzYzMDQsLTEwOTU1MDk5MzksMTQ0MzM4
-Mjk0NiwtMjY1MTA2MTgyLDIxMjgzNjQzOSwtMjA0NjE2MDU2MC
-wxMTQ0NjgxOCwtNzU0MDU4NDA4LC0xOTE1MjQxMjU5LC0yMDI3
-MjgwODgwLDMyMDc0MjQsLTQ5NDc5MzkzNywyMTA4OTg0NDQ1LD
-E4MTU5Njk1NTYsLTExOTc4MDQ4MDMsLTEzOTA0Mzg1MzgsMjA0
-OTM4ODgwMF19
+eyJoaXN0b3J5IjpbLTE5NjY5ODAxOTcsOTE3Nzg3MDMyLC0xNj
+UzNDQyMzAyLC0yMTE1NTM2MzA0LC0xMDk1NTA5OTM5LDE0NDMz
+ODI5NDYsLTI2NTEwNjE4MiwyMTI4MzY0MzksLTIwNDYxNjA1Nj
+AsMTE0NDY4MTgsLTc1NDA1ODQwOCwtMTkxNTI0MTI1OSwtMjAy
+NzI4MDg4MCwzMjA3NDI0LC00OTQ3OTM5MzcsMjEwODk4NDQ0NS
+wxODE1OTY5NTU2LC0xMTk3ODA0ODAzLC0xMzkwNDM4NTM4LDIw
+NDkzODg4MDBdfQ==
 -->
