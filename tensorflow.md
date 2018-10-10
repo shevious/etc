@@ -188,8 +188,10 @@ sudo ln -s /usr/local/nccl/include/nccl.h /usr/local/include/third_party/nccl
 git clone https://github.com/tensorflow/tensorflow.git
 cd tensorflow
 git checkout v1.8.0
-```
 
+wget https://gist.githubusercontent.com/Willian-Zhang/a3bd10da2d8b343875f3862b2a62eb3b/raw/xtensorflow18macos.patch
+git apply xtensorflow18macos.patch
+```
 
 
 #### install homebrew
@@ -503,11 +505,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjI4MjgzOSwtMTUxNTYxNTIwNCwzNz
-AyMjI4MzAsNTQ3ODYyODAyLDkxNzc4NzAzMiwtMTY1MzQ0MjMw
-MiwtMjExNTUzNjMwNCwtMTA5NTUwOTkzOSwxNDQzMzgyOTQ2LC
-0yNjUxMDYxODIsMjEyODM2NDM5LC0yMDQ2MTYwNTYwLDExNDQ2
-ODE4LC03NTQwNTg0MDgsLTE5MTUyNDEyNTksLTIwMjcyODA4OD
-AsMzIwNzQyNCwtNDk0NzkzOTM3LDIxMDg5ODQ0NDUsMTgxNTk2
-OTU1Nl19
+eyJoaXN0b3J5IjpbLTEzMjI4NDI0NzMsLTE1MTU2MTUyMDQsMz
+cwMjIyODMwLDU0Nzg2MjgwMiw5MTc3ODcwMzIsLTE2NTM0NDIz
+MDIsLTIxMTU1MzYzMDQsLTEwOTU1MDk5MzksMTQ0MzM4Mjk0Ni
+wtMjY1MTA2MTgyLDIxMjgzNjQzOSwtMjA0NjE2MDU2MCwxMTQ0
+NjgxOCwtNzU0MDU4NDA4LC0xOTE1MjQxMjU5LC0yMDI3MjgwOD
+gwLDMyMDc0MjQsLTQ5NDc5MzkzNywyMTA4OTg0NDQ1LDE4MTU5
+Njk1NTZdfQ==
 -->
