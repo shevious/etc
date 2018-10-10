@@ -223,7 +223,13 @@ Please note that each additional compute capability significantly increases your
 ```bash
 bazel clean
 bazel build --config=cuda --config=opt --action_env PATH --action_env LD_LIBRARY_PATH --action_env DYLD_LIBRARY_PATH //tensorflow/tools/pip_package:build_pip_package
+...
+INFO: Elapsed time: 6910.469s, Critical Path: 151.24s
+INFO: 8634 processes: 8634 local.
+INFO: Build completed successfully, 9160 total actions
+
 ```
+
 
 
 
@@ -542,11 +548,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzE4NzAzMCwtNTA4MDgzODM1LC0xMz
-IyODQyNDczLC0xNTE1NjE1MjA0LDM3MDIyMjgzMCw1NDc4NjI4
-MDIsOTE3Nzg3MDMyLC0xNjUzNDQyMzAyLC0yMTE1NTM2MzA0LC
-0xMDk1NTA5OTM5LDE0NDMzODI5NDYsLTI2NTEwNjE4MiwyMTI4
-MzY0MzksLTIwNDYxNjA1NjAsMTE0NDY4MTgsLTc1NDA1ODQwOC
-wtMTkxNTI0MTI1OSwtMjAyNzI4MDg4MCwzMjA3NDI0LC00OTQ3
-OTM5MzddfQ==
+eyJoaXN0b3J5IjpbMTc4MzA2MDYyNCwtNjUzMTg3MDMwLC01MD
+gwODM4MzUsLTEzMjI4NDI0NzMsLTE1MTU2MTUyMDQsMzcwMjIy
+ODMwLDU0Nzg2MjgwMiw5MTc3ODcwMzIsLTE2NTM0NDIzMDIsLT
+IxMTU1MzYzMDQsLTEwOTU1MDk5MzksMTQ0MzM4Mjk0NiwtMjY1
+MTA2MTgyLDIxMjgzNjQzOSwtMjA0NjE2MDU2MCwxMTQ0NjgxOC
+wtNzU0MDU4NDA4LC0xOTE1MjQxMjU5LC0yMDI3MjgwODgwLDMy
+MDc0MjRdfQ==
 -->
