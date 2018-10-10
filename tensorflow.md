@@ -182,6 +182,15 @@ sudo mkdir -p /usr/local/include/third_party/nccl
 sudo ln -s /usr/local/nccl/include/nccl.h /usr/local/include/third_party/nccl
 ```
 
+#### tensorflow git
+
+```bash
+git clone https://github.com/tensorflow/tensorflow.git
+cd tensorflow
+git checkout v1.8.0
+```
+
+
 
 #### install homebrew
 
@@ -494,7 +503,7 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNTcxOTcxMywtMTUxNTYxNTIwNCwzNz
+eyJoaXN0b3J5IjpbMTU1NjI4MjgzOSwtMTUxNTYxNTIwNCwzNz
 AyMjI4MzAsNTQ3ODYyODAyLDkxNzc4NzAzMiwtMTY1MzQ0MjMw
 MiwtMjExNTUzNjMwNCwtMTA5NTUwOTkzOSwxNDQzMzgyOTQ2LC
 0yNjUxMDYxODIsMjEyODM2NDM5LC0yMDQ2MTYwNTYwLDExNDQ2
