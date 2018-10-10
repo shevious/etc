@@ -194,7 +194,7 @@ wget https://gist.githubusercontent.com/Willian-Zhang/a3bd10da2d8b343875f3862b2a
 vi xtensorflow18macos.patch
 git apply xtensorflow18macos.patch
 ```
-additional patch to `ten
+additional patch to `tensorflow/workspace.bz`
 ```diff
 @@ -330,11 +330,11 @@ def tf_workspace(path_prefix="", tf_repo_name=""):
    tf_http_archive(
@@ -524,11 +524,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMDQ3NTUxMCwtMTMyMjg0MjQ3MywtMT
-UxNTYxNTIwNCwzNzAyMjI4MzAsNTQ3ODYyODAyLDkxNzc4NzAz
-MiwtMTY1MzQ0MjMwMiwtMjExNTUzNjMwNCwtMTA5NTUwOTkzOS
-wxNDQzMzgyOTQ2LC0yNjUxMDYxODIsMjEyODM2NDM5LC0yMDQ2
-MTYwNTYwLDExNDQ2ODE4LC03NTQwNTg0MDgsLTE5MTUyNDEyNT
-ksLTIwMjcyODA4ODAsMzIwNzQyNCwtNDk0NzkzOTM3LDIxMDg5
-ODQ0NDVdfQ==
+eyJoaXN0b3J5IjpbLTEwMzA4Mjc4NzAsLTEzMjI4NDI0NzMsLT
+E1MTU2MTUyMDQsMzcwMjIyODMwLDU0Nzg2MjgwMiw5MTc3ODcw
+MzIsLTE2NTM0NDIzMDIsLTIxMTU1MzYzMDQsLTEwOTU1MDk5Mz
+ksMTQ0MzM4Mjk0NiwtMjY1MTA2MTgyLDIxMjgzNjQzOSwtMjA0
+NjE2MDU2MCwxMTQ0NjgxOCwtNzU0MDU4NDA4LC0xOTE1MjQxMj
+U5LC0yMDI3MjgwODgwLDMyMDc0MjQsLTQ5NDc5MzkzNywyMTA4
+OTg0NDQ1XX0=
 -->
