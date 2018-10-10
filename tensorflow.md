@@ -229,10 +229,14 @@ INFO: 8634 processes: 8634 local.
 INFO: Build completed successfully, 9160 total actions
 
 bazel-bin/tensorflow/tools/pip_package/build_pip_package /tmp/tensorflow_pkg
-
+pip install /tmp/tensorflow_pkg/tensorflow-1.8.0-cp36-cp36m-macosx_10_13_x86_64.whl
 ```
 
 ### test run
+`cuda_env`
+```bash
+
+```
 
 ```bash
 pip install keras
@@ -557,7 +561,7 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTk5NjA2NSwxNzgzMDYwNjI0LC02NT
+eyJoaXN0b3J5IjpbMTEzNjYyMTI0NCwxNzgzMDYwNjI0LC02NT
 MxODcwMzAsLTUwODA4MzgzNSwtMTMyMjg0MjQ3MywtMTUxNTYx
 NTIwNCwzNzAyMjI4MzAsNTQ3ODYyODAyLDkxNzc4NzAzMiwtMT
 Y1MzQ0MjMwMiwtMjExNTUzNjMwNCwtMTA5NTUwOTkzOSwxNDQz
