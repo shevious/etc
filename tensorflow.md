@@ -228,6 +228,9 @@ bazel clean
 bazel build --config=cuda --config=opt --action_env PATH --action_env LD_LIBRARY_PATH --action_env DYLD_LIBRARY_PATH //tensorflow/tools/pip_package:build_pip_package
 ```
 
+# zylo117's method
+
+als
 
 #### install homebrew
 
@@ -540,11 +543,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODA4MzgzNSwtMTMyMjg0MjQ3MywtMT
-UxNTYxNTIwNCwzNzAyMjI4MzAsNTQ3ODYyODAyLDkxNzc4NzAz
-MiwtMTY1MzQ0MjMwMiwtMjExNTUzNjMwNCwtMTA5NTUwOTkzOS
-wxNDQzMzgyOTQ2LC0yNjUxMDYxODIsMjEyODM2NDM5LC0yMDQ2
-MTYwNTYwLDExNDQ2ODE4LC03NTQwNTg0MDgsLTE5MTUyNDEyNT
-ksLTIwMjcyODA4ODAsMzIwNzQyNCwtNDk0NzkzOTM3LDIxMDg5
-ODQ0NDVdfQ==
+eyJoaXN0b3J5IjpbLTExMTIyODg1MzAsLTUwODA4MzgzNSwtMT
+MyMjg0MjQ3MywtMTUxNTYxNTIwNCwzNzAyMjI4MzAsNTQ3ODYy
+ODAyLDkxNzc4NzAzMiwtMTY1MzQ0MjMwMiwtMjExNTUzNjMwNC
+wtMTA5NTUwOTkzOSwxNDQzMzgyOTQ2LC0yNjUxMDYxODIsMjEy
+ODM2NDM5LC0yMDQ2MTYwNTYwLDExNDQ2ODE4LC03NTQwNTg0MD
+gsLTE5MTUyNDEyNTksLTIwMjcyODA4ODAsMzIwNzQyNCwtNDk0
+NzkzOTM3XX0=
 -->
