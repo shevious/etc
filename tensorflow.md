@@ -148,6 +148,8 @@ https://brew.sh/index_ko
 brew install coreutils
 brew install llvm
 brew install cliutils/apple/libomp
+# python 3.6.5_1
+brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/f2a764ef944b1080be64bd88dca9a1d80130c558/Formula/python.rb
 ```
 ```bash
 cd ~/Downloads
@@ -449,11 +451,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM0NDIzMDIsLTIxMTU1MzYzMDQsLT
-EwOTU1MDk5MzksMTQ0MzM4Mjk0NiwtMjY1MTA2MTgyLDIxMjgz
-NjQzOSwtMjA0NjE2MDU2MCwxMTQ0NjgxOCwtNzU0MDU4NDA4LC
-0xOTE1MjQxMjU5LC0yMDI3MjgwODgwLDMyMDc0MjQsLTQ5NDc5
-MzkzNywyMTA4OTg0NDQ1LDE4MTU5Njk1NTYsLTExOTc4MDQ4MD
-MsLTEzOTA0Mzg1MzgsMjA0OTM4ODgwMCwtMTAyMTgxMDEyOSwt
-MTU4NzE2NTQzMl19
+eyJoaXN0b3J5IjpbOTE3Nzg3MDMyLC0xNjUzNDQyMzAyLC0yMT
+E1NTM2MzA0LC0xMDk1NTA5OTM5LDE0NDMzODI5NDYsLTI2NTEw
+NjE4MiwyMTI4MzY0MzksLTIwNDYxNjA1NjAsMTE0NDY4MTgsLT
+c1NDA1ODQwOCwtMTkxNTI0MTI1OSwtMjAyNzI4MDg4MCwzMjA3
+NDI0LC00OTQ3OTM5MzcsMjEwODk4NDQ0NSwxODE1OTY5NTU2LC
+0xMTk3ODA0ODAzLC0xMzkwNDM4NTM4LDIwNDkzODg4MDAsLTEw
+MjE4MTAxMjldfQ==
 -->
