@@ -20,6 +20,8 @@ xcode produces SEGFAULT error finally.
 let's try xcode 8.3.3 . 
 ```bash
 xcode-select -p
+sudo xcode-select -s /Applications/Xcode_8.3.3.app
+xcode-select -p
 ```
 
 #### cuda toolkit 9.1
@@ -454,7 +456,7 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjA1OTEyODcsOTE3Nzg3MDMyLC0xNj
+eyJoaXN0b3J5IjpbLTEyMDI1MTAwNjEsOTE3Nzg3MDMyLC0xNj
 UzNDQyMzAyLC0yMTE1NTM2MzA0LC0xMDk1NTA5OTM5LDE0NDMz
 ODI5NDYsLTI2NTEwNjE4MiwyMTI4MzY0MzksLTIwNDYxNjA1Nj
 AsMTE0NDY4MTgsLTc1NDA1ODQwOCwtMTkxNTI0MTI1OSwtMjAy
