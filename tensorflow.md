@@ -16,8 +16,11 @@ https://twitter.com/tksl5
 
 #### xcode
 ~~xcode 9.2 and command line tools for 10.13 xcode 9.2~~ . 
-xcode produces SEGFAULT error finally.
-let's try xcode 8.3.3
+xcode produces SEGFAULT error finally.  
+let's try xcode 8.3.3 . 
+```bash
+xcode-select -p
+```
 
 #### cuda toolkit 9.1
 
@@ -451,11 +454,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE3Nzg3MDMyLC0xNjUzNDQyMzAyLC0yMT
-E1NTM2MzA0LC0xMDk1NTA5OTM5LDE0NDMzODI5NDYsLTI2NTEw
-NjE4MiwyMTI4MzY0MzksLTIwNDYxNjA1NjAsMTE0NDY4MTgsLT
-c1NDA1ODQwOCwtMTkxNTI0MTI1OSwtMjAyNzI4MDg4MCwzMjA3
-NDI0LC00OTQ3OTM5MzcsMjEwODk4NDQ0NSwxODE1OTY5NTU2LC
-0xMTk3ODA0ODAzLC0xMzkwNDM4NTM4LDIwNDkzODg4MDAsLTEw
-MjE4MTAxMjldfQ==
+eyJoaXN0b3J5IjpbLTExNjA1OTEyODcsOTE3Nzg3MDMyLC0xNj
+UzNDQyMzAyLC0yMTE1NTM2MzA0LC0xMDk1NTA5OTM5LDE0NDMz
+ODI5NDYsLTI2NTEwNjE4MiwyMTI4MzY0MzksLTIwNDYxNjA1Nj
+AsMTE0NDY4MTgsLTc1NDA1ODQwOCwtMTkxNTI0MTI1OSwtMjAy
+NzI4MDg4MCwzMjA3NDI0LC00OTQ3OTM5MzcsMjEwODk4NDQ0NS
+wxODE1OTY5NTU2LC0xMTk3ODA0ODAzLC0xMzkwNDM4NTM4LDIw
+NDkzODg4MDBdfQ==
 -->
