@@ -229,7 +229,7 @@ INFO: 8634 processes: 8634 local.
 INFO: Build completed successfully, 9160 total actions
 
 bazel-bin/tensorflow/tools/pip_package/build_pip_package /tmp/tensorflow_pkg
-pip install /tmp/tensorflow_pkg/tensorflow-1.8.0-cp36-cp36m-macosx_10_13_x86_64.whl
+
 ```
 
 ### test run
@@ -255,6 +255,10 @@ export PATH=$DYLD_LIBRARY_PATH:$PATH
 ```
 
 ```bash
+source cuda_env
+virtualenv vgpu
+source vgpu/bin/activate
+pip install /tmp/tensorflow_pkg/tensorflow-1.8.0-cp36-cp36m-macosx_10_13_x86_64.whl
 pip install keras
 wget https://gist.githubusercontent.com/Willian-Zhang/290dceb96679c8f413e42491c92722b0/raw/mnist-cnn.py
 python mnist_cnn.py
@@ -577,11 +581,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM0OTY4NjYsMTc4MzA2MDYyNCwtNj
-UzMTg3MDMwLC01MDgwODM4MzUsLTEzMjI4NDI0NzMsLTE1MTU2
-MTUyMDQsMzcwMjIyODMwLDU0Nzg2MjgwMiw5MTc3ODcwMzIsLT
-E2NTM0NDIzMDIsLTIxMTU1MzYzMDQsLTEwOTU1MDk5MzksMTQ0
-MzM4Mjk0NiwtMjY1MTA2MTgyLDIxMjgzNjQzOSwtMjA0NjE2MD
-U2MCwxMTQ0NjgxOCwtNzU0MDU4NDA4LC0xOTE1MjQxMjU5LC0y
-MDI3MjgwODgwXX0=
+eyJoaXN0b3J5IjpbLTY0Nzc2MzgzMSwxNzgzMDYwNjI0LC02NT
+MxODcwMzAsLTUwODA4MzgzNSwtMTMyMjg0MjQ3MywtMTUxNTYx
+NTIwNCwzNzAyMjI4MzAsNTQ3ODYyODAyLDkxNzc4NzAzMiwtMT
+Y1MzQ0MjMwMiwtMjExNTUzNjMwNCwtMTA5NTUwOTkzOSwxNDQz
+MzgyOTQ2LC0yNjUxMDYxODIsMjEyODM2NDM5LC0yMDQ2MTYwNT
+YwLDExNDQ2ODE4LC03NTQwNTg0MDgsLTE5MTUyNDEyNTksLTIw
+MjcyODA4ODBdfQ==
 -->
