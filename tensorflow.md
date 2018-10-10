@@ -163,6 +163,11 @@ See http://bazel.build/docs/getting-started.html to start a new project!
 export PATH=/Users/shevious/bin:$PATH
 source /Users/shevious/.bazel/bin/bazel-complete.bash
 ```
+#### nccl
+
+[Download NCCL v2.1.15, for CUDA 9.1, March 8, 2018](https://developer.nvidia.com/nccl/nccl-legacy-downloads#a-collapse21-91) . 
+
+
 
 
 #### install homebrew
@@ -476,7 +481,7 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzM1MjAwOTYsMzcwMjIyODMwLDU0Nz
+eyJoaXN0b3J5IjpbLTE3MTc2ODkyMzEsMzcwMjIyODMwLDU0Nz
 g2MjgwMiw5MTc3ODcwMzIsLTE2NTM0NDIzMDIsLTIxMTU1MzYz
 MDQsLTEwOTU1MDk5MzksMTQ0MzM4Mjk0NiwtMjY1MTA2MTgyLD
 IxMjgzNjQzOSwtMjA0NjE2MDU2MCwxMTQ0NjgxOCwtNzU0MDU4
