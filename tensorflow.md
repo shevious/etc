@@ -142,7 +142,11 @@ sudo chmod a+r /usr/local/cuda/include/cudnn.h /usr/local/cuda/lib/libcudnn*
 export  DYLD_LIBRARY_PATH=/usr/local/cuda/lib:$DYLD_LIBRARY_PATH
 ```
 
+#### bazel 16.1
+```bash
+cd ~/Downloads
 
+```
 
 #### install homebrew
 
@@ -455,11 +459,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwMjIyODMwLDU0Nzg2MjgwMiw5MTc3OD
-cwMzIsLTE2NTM0NDIzMDIsLTIxMTU1MzYzMDQsLTEwOTU1MDk5
-MzksMTQ0MzM4Mjk0NiwtMjY1MTA2MTgyLDIxMjgzNjQzOSwtMj
-A0NjE2MDU2MCwxMTQ0NjgxOCwtNzU0MDU4NDA4LC0xOTE1MjQx
-MjU5LC0yMDI3MjgwODgwLDMyMDc0MjQsLTQ5NDc5MzkzNywyMT
-A4OTg0NDQ1LDE4MTU5Njk1NTYsLTExOTc4MDQ4MDMsLTEzOTA0
-Mzg1MzhdfQ==
+eyJoaXN0b3J5IjpbLTMyOTg0MjY0OSwzNzAyMjI4MzAsNTQ3OD
+YyODAyLDkxNzc4NzAzMiwtMTY1MzQ0MjMwMiwtMjExNTUzNjMw
+NCwtMTA5NTUwOTkzOSwxNDQzMzgyOTQ2LC0yNjUxMDYxODIsMj
+EyODM2NDM5LC0yMDQ2MTYwNTYwLDExNDQ2ODE4LC03NTQwNTg0
+MDgsLTE5MTUyNDEyNTksLTIwMjcyODA4ODAsMzIwNzQyNCwtND
+k0NzkzOTM3LDIxMDg5ODQ0NDUsMTgxNTk2OTU1NiwtMTE5Nzgw
+NDgwM119
 -->
