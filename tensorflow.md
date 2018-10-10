@@ -142,6 +142,8 @@ sudo chmod a+r /usr/local/cuda/include/cudnn.h /usr/local/cuda/lib/libcudnn*
 export  DYLD_LIBRARY_PATH=/usr/local/cuda/lib:$DYLD_LIBRARY_PATH
 ```
 
+
+
 #### install homebrew
 
 https://brew.sh/index_ko
@@ -453,11 +455,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3ODYyODAyLDkxNzc4NzAzMiwtMTY1Mz
-Q0MjMwMiwtMjExNTUzNjMwNCwtMTA5NTUwOTkzOSwxNDQzMzgy
-OTQ2LC0yNjUxMDYxODIsMjEyODM2NDM5LC0yMDQ2MTYwNTYwLD
-ExNDQ2ODE4LC03NTQwNTg0MDgsLTE5MTUyNDEyNTksLTIwMjcy
-ODA4ODAsMzIwNzQyNCwtNDk0NzkzOTM3LDIxMDg5ODQ0NDUsMT
-gxNTk2OTU1NiwtMTE5NzgwNDgwMywtMTM5MDQzODUzOCwyMDQ5
-Mzg4ODAwXX0=
+eyJoaXN0b3J5IjpbMzcwMjIyODMwLDU0Nzg2MjgwMiw5MTc3OD
+cwMzIsLTE2NTM0NDIzMDIsLTIxMTU1MzYzMDQsLTEwOTU1MDk5
+MzksMTQ0MzM4Mjk0NiwtMjY1MTA2MTgyLDIxMjgzNjQzOSwtMj
+A0NjE2MDU2MCwxMTQ0NjgxOCwtNzU0MDU4NDA4LC0xOTE1MjQx
+MjU5LC0yMDI3MjgwODgwLDMyMDc0MjQsLTQ5NDc5MzkzNywyMT
+A4OTg0NDQ1LDE4MTU5Njk1NTYsLTExOTc4MDQ4MDMsLTEzOTA0
+Mzg1MzhdfQ==
 -->
