@@ -130,6 +130,7 @@ Result = PASS
 
 https://developer.nvidia.com/rdp/cudnn-archive  
 https://docs.nvidia.com/deeplearning/sdk/cudnn-archived/index.html  
+[Download cuDNN v7.0.5 (Dec 11, 2017), for CUDA 9.1](https://developer.nvidia.com/rdp/cudnn-archive#a-collapse705-91)
 
 ```bash
 mkdir ~/cudnn
@@ -452,11 +453,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjY5ODAxOTcsOTE3Nzg3MDMyLC0xNj
-UzNDQyMzAyLC0yMTE1NTM2MzA0LC0xMDk1NTA5OTM5LDE0NDMz
-ODI5NDYsLTI2NTEwNjE4MiwyMTI4MzY0MzksLTIwNDYxNjA1Nj
-AsMTE0NDY4MTgsLTc1NDA1ODQwOCwtMTkxNTI0MTI1OSwtMjAy
-NzI4MDg4MCwzMjA3NDI0LC00OTQ3OTM5MzcsMjEwODk4NDQ0NS
-wxODE1OTY5NTU2LC0xMTk3ODA0ODAzLC0xMzkwNDM4NTM4LDIw
-NDkzODg4MDBdfQ==
+eyJoaXN0b3J5IjpbNTQ3ODYyODAyLDkxNzc4NzAzMiwtMTY1Mz
+Q0MjMwMiwtMjExNTUzNjMwNCwtMTA5NTUwOTkzOSwxNDQzMzgy
+OTQ2LC0yNjUxMDYxODIsMjEyODM2NDM5LC0yMDQ2MTYwNTYwLD
+ExNDQ2ODE4LC03NTQwNTg0MDgsLTE5MTUyNDEyNTksLTIwMjcy
+ODA4ODAsMzIwNzQyNCwtNDk0NzkzOTM3LDIxMDg5ODQ0NDUsMT
+gxNTk2OTU1NiwtMTE5NzgwNDgwMywtMTM5MDQzODUzOCwyMDQ5
+Mzg4ODAwXX0=
 -->
