@@ -1,8 +1,8 @@
 # tensorflow mac
 
-[tensorflow-gpu-macosx](https://github.com/zylo117/tensorflow-gpu-macosx)  
-
 [Tensorflow 1.8 with CUDA on macOS High Sierra 10.13.4](https://gist.github.com/Willian-Zhang/a3bd10da2d8b343875f3862b2a62eb3b)  
+
+[tensorflow-gpu-macosx](https://github.com/zylo117/tensorflow-gpu-macosx)  
 
 [Tensorflow GPU 1.8 with MacOS 10.13.6](https://egpu.io/forums/mac-setup/tensorflow-gpu-1-8-with-macos-10-13-6/)  
 (It is compiled to GPU cap 6.1)
@@ -53,10 +53,7 @@ https://www.nvidia.com/object/mac-driver-archive.html
 $ kextstat | grep -i cuda
 154  0 0xffffff7f83306000 0x2000 0x2000 com.nvidia.CUDA (1.1.0) 4329B052-6C8A-3900-8E83-744487AEDEF1 <4 1>
 ```
-
-
 Set up the required environment variables:
-
 ```bash
 export PATH=/Developer/NVIDIA/CUDA-9.1/bin${PATH:+:${PATH}}
 export DYLD_LIBRARY_PATH=/Developer/NVIDIA/CUDA-9.1/lib\
@@ -227,6 +224,8 @@ Please note that each additional compute capability significantly increases your
 bazel clean
 bazel build --config=cuda --config=opt --action_env PATH --action_env LD_LIBRARY_PATH --action_env DYLD_LIBRARY_PATH //tensorflow/tools/pip_package:build_pip_package
 ```
+
+
 
 # zylo117's method
 
@@ -543,7 +542,7 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4ODUwODc3NCwtNTA4MDgzODM1LC0xMz
+eyJoaXN0b3J5IjpbLTY1MzE4NzAzMCwtNTA4MDgzODM1LC0xMz
 IyODQyNDczLC0xNTE1NjE1MjA0LDM3MDIyMjgzMCw1NDc4NjI4
 MDIsOTE3Nzg3MDMyLC0xNjUzNDQyMzAyLC0yMTE1NTM2MzA0LC
 0xMDk1NTA5OTM5LDE0NDMzODI5NDYsLTI2NTEwNjE4MiwyMTI4
