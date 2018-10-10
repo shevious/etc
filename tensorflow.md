@@ -233,9 +233,25 @@ pip install /tmp/tensorflow_pkg/tensorflow-1.8.0-cp36-cp36m-macosx_10_13_x86_64.
 ```
 
 ### test run
-`cuda_env`
+`cuda_env :`
 ```bash
+# cuda tookit
+export PATH=/Developer/NVIDIA/CUDA-9.1/bin${PATH:+:${PATH}}
+export DYLD_LIBRARY_PATH=/Developer/NVIDIA/CUDA-9.1/lib\
+                         ${DYLD_LIBRARY_PATH:+:${DYLD_LIBRARY_PATH}}
 
+# cudnn
+export DYLD_LIBRARY_PATH=/usr/local/cuda/lib:$DYLD_LIBRARY_PATH
+
+# add path for bazel
+export PATH=/Users/shevious/bin:$PATH
+source /Users/shevious/.bazel/bin/bazel-complete.bash
+
+# tensorflow compile
+export CUDA_HOME=/usr/local/cuda
+export DYLD_LIBRARY_PATH=/usr/local/cuda/lib:/usr/local/cuda/extras/CUPTI/lib:$DYLD_LIBRARY_PATH
+export LD_LIBRARY_PATH=$DYLD_LIBRARY_PATH
+export PATH=$DYLD_LIBRARY_PATH:$PATH
 ```
 
 ```bash
@@ -561,11 +577,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjYyMTI0NCwxNzgzMDYwNjI0LC02NT
-MxODcwMzAsLTUwODA4MzgzNSwtMTMyMjg0MjQ3MywtMTUxNTYx
-NTIwNCwzNzAyMjI4MzAsNTQ3ODYyODAyLDkxNzc4NzAzMiwtMT
-Y1MzQ0MjMwMiwtMjExNTUzNjMwNCwtMTA5NTUwOTkzOSwxNDQz
-MzgyOTQ2LC0yNjUxMDYxODIsMjEyODM2NDM5LC0yMDQ2MTYwNT
-YwLDExNDQ2ODE4LC03NTQwNTg0MDgsLTE5MTUyNDEyNTksLTIw
-MjcyODA4ODBdfQ==
+eyJoaXN0b3J5IjpbLTE2NTM0OTY4NjYsMTc4MzA2MDYyNCwtNj
+UzMTg3MDMwLC01MDgwODM4MzUsLTEzMjI4NDI0NzMsLTE1MTU2
+MTUyMDQsMzcwMjIyODMwLDU0Nzg2MjgwMiw5MTc3ODcwMzIsLT
+E2NTM0NDIzMDIsLTIxMTU1MzYzMDQsLTEwOTU1MDk5MzksMTQ0
+MzM4Mjk0NiwtMjY1MTA2MTgyLDIxMjgzNjQzOSwtMjA0NjE2MD
+U2MCwxMTQ0NjgxOCwtNzU0MDU4NDA4LC0xOTE1MjQxMjU5LC0y
+MDI3MjgwODgwXX0=
 -->
