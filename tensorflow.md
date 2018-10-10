@@ -163,6 +163,11 @@ See http://bazel.build/docs/getting-started.html to start a new project!
 export PATH=/Users/shevious/bin:$PATH
 source /Users/shevious/.bazel/bin/bazel-complete.bash
 ```
+
+#### java 8 (for bazel)
+
+intall java jdk8
+
 #### nccl
 
 [Download NCCL v2.1.15, for CUDA 9.1, March 8, 2018](https://developer.nvidia.com/nccl/nccl-legacy-downloads#a-collapse21-91) . 
@@ -489,11 +494,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTU2MTUyMDQsMzcwMjIyODMwLDU0Nz
-g2MjgwMiw5MTc3ODcwMzIsLTE2NTM0NDIzMDIsLTIxMTU1MzYz
-MDQsLTEwOTU1MDk5MzksMTQ0MzM4Mjk0NiwtMjY1MTA2MTgyLD
-IxMjgzNjQzOSwtMjA0NjE2MDU2MCwxMTQ0NjgxOCwtNzU0MDU4
-NDA4LC0xOTE1MjQxMjU5LC0yMDI3MjgwODgwLDMyMDc0MjQsLT
-Q5NDc5MzkzNywyMTA4OTg0NDQ1LDE4MTU5Njk1NTYsLTExOTc4
-MDQ4MDNdfQ==
+eyJoaXN0b3J5IjpbMTgwNTcxOTcxMywtMTUxNTYxNTIwNCwzNz
+AyMjI4MzAsNTQ3ODYyODAyLDkxNzc4NzAzMiwtMTY1MzQ0MjMw
+MiwtMjExNTUzNjMwNCwtMTA5NTUwOTkzOSwxNDQzMzgyOTQ2LC
+0yNjUxMDYxODIsMjEyODM2NDM5LC0yMDQ2MTYwNTYwLDExNDQ2
+ODE4LC03NTQwNTg0MDgsLTE5MTUyNDEyNTksLTIwMjcyODA4OD
+AsMzIwNzQyNCwtNDk0NzkzOTM3LDIxMDg5ODQ0NDUsMTgxNTk2
+OTU1Nl19
 -->
