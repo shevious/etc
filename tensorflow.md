@@ -20,8 +20,10 @@ xcode produces SEGFAULT error finally.
 let's try xcode 8.3.3 . 
 ```bash
 xcode-select -p
+/Library/Developer/CommandLineTools
 sudo xcode-select -s /Applications/Xcode_8.3.3.app
 xcode-select -p
+/Applications/Xcode_8.3.3.app/Contents/Developer
 ```
 
 #### cuda toolkit 9.1
@@ -456,11 +458,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI1MTAwNjEsOTE3Nzg3MDMyLC0xNj
-UzNDQyMzAyLC0yMTE1NTM2MzA0LC0xMDk1NTA5OTM5LDE0NDMz
-ODI5NDYsLTI2NTEwNjE4MiwyMTI4MzY0MzksLTIwNDYxNjA1Nj
-AsMTE0NDY4MTgsLTc1NDA1ODQwOCwtMTkxNTI0MTI1OSwtMjAy
-NzI4MDg4MCwzMjA3NDI0LC00OTQ3OTM5MzcsMjEwODk4NDQ0NS
-wxODE1OTY5NTU2LC0xMTk3ODA0ODAzLC0xMzkwNDM4NTM4LDIw
-NDkzODg4MDBdfQ==
+eyJoaXN0b3J5IjpbLTEwMTI0MTU3OSw5MTc3ODcwMzIsLTE2NT
+M0NDIzMDIsLTIxMTU1MzYzMDQsLTEwOTU1MDk5MzksMTQ0MzM4
+Mjk0NiwtMjY1MTA2MTgyLDIxMjgzNjQzOSwtMjA0NjE2MDU2MC
+wxMTQ0NjgxOCwtNzU0MDU4NDA4LC0xOTE1MjQxMjU5LC0yMDI3
+MjgwODgwLDMyMDc0MjQsLTQ5NDc5MzkzNywyMTA4OTg0NDQ1LD
+E4MTU5Njk1NTYsLTExOTc4MDQ4MDMsLTEzOTA0Mzg1MzgsMjA0
+OTM4ODgwMF19
 -->
