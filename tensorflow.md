@@ -145,7 +145,9 @@ export  DYLD_LIBRARY_PATH=/usr/local/cuda/lib:$DYLD_LIBRARY_PATH
 #### bazel 16.1
 ```bash
 cd ~/Downloads
-
+chmod +x bazel-0.16.1-installer-darwin-x86_64.sh 
+./bazel-0.16.1-installer-darwin-x86_64.sh --user
+# ... installmessage
 ```
 
 #### install homebrew
@@ -459,11 +461,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTg0MjY0OSwzNzAyMjI4MzAsNTQ3OD
-YyODAyLDkxNzc4NzAzMiwtMTY1MzQ0MjMwMiwtMjExNTUzNjMw
-NCwtMTA5NTUwOTkzOSwxNDQzMzgyOTQ2LC0yNjUxMDYxODIsMj
-EyODM2NDM5LC0yMDQ2MTYwNTYwLDExNDQ2ODE4LC03NTQwNTg0
-MDgsLTE5MTUyNDEyNTksLTIwMjcyODA4ODAsMzIwNzQyNCwtND
-k0NzkzOTM3LDIxMDg5ODQ0NDUsMTgxNTk2OTU1NiwtMTE5Nzgw
-NDgwM119
+eyJoaXN0b3J5IjpbNjMxMjQyMzIyLDM3MDIyMjgzMCw1NDc4Nj
+I4MDIsOTE3Nzg3MDMyLC0xNjUzNDQyMzAyLC0yMTE1NTM2MzA0
+LC0xMDk1NTA5OTM5LDE0NDMzODI5NDYsLTI2NTEwNjE4MiwyMT
+I4MzY0MzksLTIwNDYxNjA1NjAsMTE0NDY4MTgsLTc1NDA1ODQw
+OCwtMTkxNTI0MTI1OSwtMjAyNzI4MDg4MCwzMjA3NDI0LC00OT
+Q3OTM5MzcsMjEwODk4NDQ0NSwxODE1OTY5NTU2LC0xMTk3ODA0
+ODAzXX0=
 -->
