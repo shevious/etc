@@ -228,8 +228,17 @@ INFO: Elapsed time: 6910.469s, Critical Path: 151.24s
 INFO: 8634 processes: 8634 local.
 INFO: Build completed successfully, 9160 total actions
 
+bazel-bin/tensorflow/tools/pip_package/build_pip_package /tmp/tensorflow_pkg
+
 ```
 
+### test run
+
+```bash
+pip install keras
+wget https://gist.githubusercontent.com/Willian-Zhang/290dceb96679c8f413e42491c92722b0/raw/mnist-cnn.py
+python mnist_cnn.py
+```
 
 
 
@@ -548,11 +557,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzA2MDYyNCwtNjUzMTg3MDMwLC01MD
-gwODM4MzUsLTEzMjI4NDI0NzMsLTE1MTU2MTUyMDQsMzcwMjIy
-ODMwLDU0Nzg2MjgwMiw5MTc3ODcwMzIsLTE2NTM0NDIzMDIsLT
-IxMTU1MzYzMDQsLTEwOTU1MDk5MzksMTQ0MzM4Mjk0NiwtMjY1
-MTA2MTgyLDIxMjgzNjQzOSwtMjA0NjE2MDU2MCwxMTQ0NjgxOC
-wtNzU0MDU4NDA4LC0xOTE1MjQxMjU5LC0yMDI3MjgwODgwLDMy
-MDc0MjRdfQ==
+eyJoaXN0b3J5IjpbMTg4MTk5NjA2NSwxNzgzMDYwNjI0LC02NT
+MxODcwMzAsLTUwODA4MzgzNSwtMTMyMjg0MjQ3MywtMTUxNTYx
+NTIwNCwzNzAyMjI4MzAsNTQ3ODYyODAyLDkxNzc4NzAzMiwtMT
+Y1MzQ0MjMwMiwtMjExNTUzNjMwNCwtMTA5NTUwOTkzOSwxNDQz
+MzgyOTQ2LC0yNjUxMDYxODIsMjEyODM2NDM5LC0yMDQ2MTYwNT
+YwLDExNDQ2ODE4LC03NTQwNTg0MDgsLTE5MTUyNDEyNTksLTIw
+MjcyODA4ODBdfQ==
 -->
