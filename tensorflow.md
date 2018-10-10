@@ -190,7 +190,26 @@ cd tensorflow
 git checkout v1.8.0
 
 wget https://gist.githubusercontent.com/Willian-Zhang/a3bd10da2d8b343875f3862b2a62eb3b/raw/xtensorflow18macos.patch
+# edit path file to add '\n'
+vi xtensorflow18macos.patch
 git apply xtensorflow18macos.patch
+```
+additional patch to `ten
+```diff
+@@ -330,11 +330,11 @@ def tf_workspace(path_prefix="", tf_repo_name=""):
+   tf_http_archive(
+       name = "protobuf_archive",
+       urls = [
+-          "https://mirror.bazel.build/github.com/google/protobuf/archive/396336eb961b75f03b25824fe86cf6490fb75e3a.tar.gz",
+-          "https://github.com/google/protobuf/archive/396336eb961b75f03b25824fe86cf6490fb75e3a.tar.gz",
++          "https://mirror.bazel.build/github.com/dinever/protobuf/archive/188578878eff18c2148baba0e116d87ce8f49410.tar.gz",
++          "https://github.com/dinever/protobuf/archive/188578878eff18c2148baba0e116d87ce8f49410.tar.gz",
+       ],
+-      sha256 = "846d907acf472ae233ec0882ef3a2d24edbbe834b80c305e867ac65a1f2c59e3",
+-      strip_prefix = "protobuf-396336eb961b75f03b25824fe86cf6490fb75e3a",
++      sha256 = "7a1d96ccdf7131535828cad737a76fd65ed766e9511e468d0daa3cc4f3db5175",
++      strip_prefix = "protobuf-188578878eff18c2148baba0e116d87ce8f49410",
+   )
 ```
 
 
@@ -505,11 +524,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjI4NDI0NzMsLTE1MTU2MTUyMDQsMz
-cwMjIyODMwLDU0Nzg2MjgwMiw5MTc3ODcwMzIsLTE2NTM0NDIz
-MDIsLTIxMTU1MzYzMDQsLTEwOTU1MDk5MzksMTQ0MzM4Mjk0Ni
-wtMjY1MTA2MTgyLDIxMjgzNjQzOSwtMjA0NjE2MDU2MCwxMTQ0
-NjgxOCwtNzU0MDU4NDA4LC0xOTE1MjQxMjU5LC0yMDI3MjgwOD
-gwLDMyMDc0MjQsLTQ5NDc5MzkzNywyMTA4OTg0NDQ1LDE4MTU5
-Njk1NTZdfQ==
+eyJoaXN0b3J5IjpbMTczMDQ3NTUxMCwtMTMyMjg0MjQ3MywtMT
+UxNTYxNTIwNCwzNzAyMjI4MzAsNTQ3ODYyODAyLDkxNzc4NzAz
+MiwtMTY1MzQ0MjMwMiwtMjExNTUzNjMwNCwtMTA5NTUwOTkzOS
+wxNDQzMzgyOTQ2LC0yNjUxMDYxODIsMjEyODM2NDM5LC0yMDQ2
+MTYwNTYwLDExNDQ2ODE4LC03NTQwNTg0MDgsLTE5MTUyNDEyNT
+ksLTIwMjcyODA4ODAsMzIwNzQyNCwtNDk0NzkzOTM3LDIxMDg5
+ODQ0NDVdfQ==
 -->
