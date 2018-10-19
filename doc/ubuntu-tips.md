@@ -1,5 +1,7 @@
 
-#### [Preserve colors while piping to tee](https://superuser.com/questions/352697/preserve-colors-while-piping-to-tee)
+#### bash colors output 
+
+[Preserve colors while piping to tee](https://superuser.com/questions/352697/preserve-colors-while-piping-to-tee)
 ```bash
 sudo apt-get install expect-dev
 unbuffer ls -l --color=auto | tee
@@ -18,5 +20,5 @@ $ faketty python -c "import sys; print sys.stdout.isatty()" | cat
 True
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjQzODMyOCw5MDk1Nzg0ODVdfQ==
+eyJoaXN0b3J5IjpbLTExNDc0MDU1NDUsOTA5NTc4NDg1XX0=
 -->
