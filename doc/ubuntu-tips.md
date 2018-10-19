@@ -4,7 +4,7 @@
 [Preserve colors while piping to tee](https://superuser.com/questions/352697/preserve-colors-while-piping-to-tee)
 [Trick an application into thinking its stdout is a terminal, not a pipe](https://stackoverflow.com/questions/1401002/trick-an-application-into-thinking-its-stdout-is-a-terminal-not-a-pipe)  
 ```bash
-sudo apt-get install expect-dev
+sudo apt install expect tcl
 unbuffer ls -l --color=auto | tee
 
 # or just
@@ -21,5 +21,6 @@ $ faketty python -c "import sys; print sys.stdout.isatty()" | cat
 True
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjczOTQ4NjYsOTA5NTc4NDg1XX0=
+eyJoaXN0b3J5IjpbLTEwMzY0NjIyNCwtMTg2NzM5NDg2Niw5MD
+k1Nzg0ODVdfQ==
 -->
