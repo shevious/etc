@@ -17,7 +17,13 @@ http://osxdaily.com/2006/12/11/how-to-customize-your-terminal-prompt/
 # default prompt
 export PS1="\h:\W \u$ "
 ```
+
+# parallels
+
+windows 10 shutdown issue:
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzcxNzMwMCwyMDE5NjUwODM0LC05ND
-I3MzAyNDZdfQ==
+eyJoaXN0b3J5IjpbMTA5MjIxNzM4MiwxMDU3NzE3MzAwLDIwMT
+k2NTA4MzQsLTk0MjczMDI0Nl19
 -->
