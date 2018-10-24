@@ -20,10 +20,9 @@ export PS1="\h:\W \u$ "
 
 # parallels
 
-windows 10 shutdown issue:
-
-
+windows 10 shutdown issue:  
+["The virtual machine processor was reset by the operating system" notification appears upon attempt to shut down Windows 10 virtual machine](https://kb.parallels.com/124449)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjIxNzM4MiwxMDU3NzE3MzAwLDIwMT
+eyJoaXN0b3J5IjpbMTcyMTc2Mjk1MSwxMDU3NzE3MzAwLDIwMT
 k2NTA4MzQsLTk0MjczMDI0Nl19
 -->
