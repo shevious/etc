@@ -222,11 +222,12 @@ Please note that each additional compute capability significantly increases your
 
 #### build
 ```bash
-
 pip install -U pip six numpy wheel mock
-
+pip install -U keras_applications==1.0.5 --no-deps
+pip install -U  keras_preprocessing==1.0.3 --no-deps
 
 bazel clean
+
 bazel build --config=cuda --config=opt --action_env PATH --action_env LD_LIBRARY_PATH --action_env DYLD_LIBRARY_PATH //tensorflow/tools/pip_package:build_pip_package
 ...
 INFO: Elapsed time: 6910.469s, Critical Path: 151.24s
@@ -670,7 +671,7 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwMTY1NDkzLC0xODEwNjM0OTc4LDE5Nz
+eyJoaXN0b3J5IjpbLTI2NzAyMjYwLC0xODEwNjM0OTc4LDE5Nz
 Y1Njg4Miw0NzM1ODc2ODAsMTMyMjY2MzAyLDEyNjUwMzM1ODAs
 MjAwODc3OTU3NiwtNjQ3NzYzODMxLDE3ODMwNjA2MjQsLTY1Mz
 E4NzAzMCwtNTA4MDgzODM1LC0xMzIyODQyNDczLC0xNTE1NjE1
