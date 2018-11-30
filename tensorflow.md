@@ -222,6 +222,10 @@ Please note that each additional compute capability significantly increases your
 
 #### build
 ```bash
+
+pip install -U pip six numpy wheel mock
+
+
 bazel clean
 bazel build --config=cuda --config=opt --action_env PATH --action_env LD_LIBRARY_PATH --action_env DYLD_LIBRARY_PATH //tensorflow/tools/pip_package:build_pip_package
 ...
@@ -666,11 +670,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA2MzQ5NzgsMTk3NjU2ODgyLDQ3Mz
-U4NzY4MCwxMzIyNjYzMDIsMTI2NTAzMzU4MCwyMDA4Nzc5NTc2
-LC02NDc3NjM4MzEsMTc4MzA2MDYyNCwtNjUzMTg3MDMwLC01MD
-gwODM4MzUsLTEzMjI4NDI0NzMsLTE1MTU2MTUyMDQsMzcwMjIy
-ODMwLDU0Nzg2MjgwMiw5MTc3ODcwMzIsLTE2NTM0NDIzMDIsLT
-IxMTU1MzYzMDQsLTEwOTU1MDk5MzksMTQ0MzM4Mjk0NiwtMjY1
-MTA2MTgyXX0=
+eyJoaXN0b3J5IjpbNjcwMTY1NDkzLC0xODEwNjM0OTc4LDE5Nz
+Y1Njg4Miw0NzM1ODc2ODAsMTMyMjY2MzAyLDEyNjUwMzM1ODAs
+MjAwODc3OTU3NiwtNjQ3NzYzODMxLDE3ODMwNjA2MjQsLTY1Mz
+E4NzAzMCwtNTA4MDgzODM1LC0xMzIyODQyNDczLC0xNTE1NjE1
+MjA0LDM3MDIyMjgzMCw1NDc4NjI4MDIsOTE3Nzg3MDMyLC0xNj
+UzNDQyMzAyLC0yMTE1NTM2MzA0LC0xMDk1NTA5OTM5LDE0NDMz
+ODI5NDZdfQ==
 -->
