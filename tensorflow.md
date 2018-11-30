@@ -232,6 +232,7 @@ bazel-bin/tensorflow/tools/pip_package/build_pip_package /tmp/tensorflow_pkg
 ```
 
 ### test run
+
 `cuda_env :`
 ```bash
 # cuda tookit
@@ -663,11 +664,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2OTg3OTUyMCw0NzM1ODc2ODAsMTMyMj
-Y2MzAyLDEyNjUwMzM1ODAsMjAwODc3OTU3NiwtNjQ3NzYzODMx
-LDE3ODMwNjA2MjQsLTY1MzE4NzAzMCwtNTA4MDgzODM1LC0xMz
-IyODQyNDczLC0xNTE1NjE1MjA0LDM3MDIyMjgzMCw1NDc4NjI4
-MDIsOTE3Nzg3MDMyLC0xNjUzNDQyMzAyLC0yMTE1NTM2MzA0LC
-0xMDk1NTA5OTM5LDE0NDMzODI5NDYsLTI2NTEwNjE4MiwyMTI4
-MzY0MzldfQ==
+eyJoaXN0b3J5IjpbMTk3NjU2ODgyLDQ3MzU4NzY4MCwxMzIyNj
+YzMDIsMTI2NTAzMzU4MCwyMDA4Nzc5NTc2LC02NDc3NjM4MzEs
+MTc4MzA2MDYyNCwtNjUzMTg3MDMwLC01MDgwODM4MzUsLTEzMj
+I4NDI0NzMsLTE1MTU2MTUyMDQsMzcwMjIyODMwLDU0Nzg2Mjgw
+Miw5MTc3ODcwMzIsLTE2NTM0NDIzMDIsLTIxMTU1MzYzMDQsLT
+EwOTU1MDk5MzksMTQ0MzM4Mjk0NiwtMjY1MTA2MTgyLDIxMjgz
+NjQzOV19
 -->
