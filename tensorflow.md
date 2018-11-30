@@ -12,6 +12,8 @@ https://twitter.com/tksl5
 
 [MacでGPU(cuda)が使えるtensorflowをビルドする](https://qiita.com/74th/items/fc6ebb684c23f3655e7c)  
 
+[MacBook Pro にて、tensorflow r1.10(r1.11) を CUDA 10.0 仕様でbuild](https://qiita.com/anianinya/items/12b4b2c4f86155ca8403)  
+
 ## High Sierra 10.13.6
 
 #### xcode
@@ -664,11 +666,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjU2ODgyLDQ3MzU4NzY4MCwxMzIyNj
-YzMDIsMTI2NTAzMzU4MCwyMDA4Nzc5NTc2LC02NDc3NjM4MzEs
-MTc4MzA2MDYyNCwtNjUzMTg3MDMwLC01MDgwODM4MzUsLTEzMj
-I4NDI0NzMsLTE1MTU2MTUyMDQsMzcwMjIyODMwLDU0Nzg2Mjgw
-Miw5MTc3ODcwMzIsLTE2NTM0NDIzMDIsLTIxMTU1MzYzMDQsLT
-EwOTU1MDk5MzksMTQ0MzM4Mjk0NiwtMjY1MTA2MTgyLDIxMjgz
-NjQzOV19
+eyJoaXN0b3J5IjpbLTE4MTA2MzQ5NzgsMTk3NjU2ODgyLDQ3Mz
+U4NzY4MCwxMzIyNjYzMDIsMTI2NTAzMzU4MCwyMDA4Nzc5NTc2
+LC02NDc3NjM4MzEsMTc4MzA2MDYyNCwtNjUzMTg3MDMwLC01MD
+gwODM4MzUsLTEzMjI4NDI0NzMsLTE1MTU2MTUyMDQsMzcwMjIy
+ODMwLDU0Nzg2MjgwMiw5MTc3ODcwMzIsLTE2NTM0NDIzMDIsLT
+IxMTU1MzYzMDQsLTEwOTU1MDk5MzksMTQ0MzM4Mjk0NiwtMjY1
+MTA2MTgyXX0=
 -->
