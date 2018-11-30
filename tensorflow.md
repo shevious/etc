@@ -56,8 +56,7 @@ $ kextstat | grep -i cuda
 Set up the required environment variables:
 ```bash
 export PATH=/Developer/NVIDIA/CUDA-9.1/bin${PATH:+:${PATH}}
-export DYLD_LIBRARY_PATH=/Developer/NVIDIA/CUDA-9.1/lib\
-                         ${DYLD_LIBRARY_PATH:+:${DYLD_LIBRARY_PATH}}
+export DYLD_LIBRARY_PATH=/Developer/NVIDIA/CUDA-9.1/lib\                        ${DYLD_LIBRARY_PATH:+:${DYLD_LIBRARY_PATH}}
 
 $ make -C 0_Simple/vectorAdd
 /Developer/NVIDIA/CUDA-9.1/bin/nvcc -ccbin clang++ -I../../common/inc  -m64  -Xcompiler -arch -Xcompiler x86_64  -gencode arch=compute_30,code=sm_30 -gencode arch=compute_35,code=sm_35 -gencode arch=compute_37,code=sm_37 -gencode arch=compute_50,code=sm_50 -gencode arch=compute_52,code=sm_52 -gencode arch=compute_60,code=sm_60 -gencode arch=compute_61,code=sm_61 -gencode arch=compute_70,code=sm_70 -gencode arch=compute_70,code=compute_70 -o vectorAdd.o -c vectorAdd.cu
@@ -665,11 +664,11 @@ compile ok -> execution hang.
 https://www.travelertechie.com/2018/10/how-to-uninstall-cuda-drivers-from-macos.html  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODc3OTU3NiwtNjQ3NzYzODMxLDE3OD
-MwNjA2MjQsLTY1MzE4NzAzMCwtNTA4MDgzODM1LC0xMzIyODQy
-NDczLC0xNTE1NjE1MjA0LDM3MDIyMjgzMCw1NDc4NjI4MDIsOT
-E3Nzg3MDMyLC0xNjUzNDQyMzAyLC0yMTE1NTM2MzA0LC0xMDk1
-NTA5OTM5LDE0NDMzODI5NDYsLTI2NTEwNjE4MiwyMTI4MzY0Mz
-ksLTIwNDYxNjA1NjAsMTE0NDY4MTgsLTc1NDA1ODQwOCwtMTkx
-NTI0MTI1OV19
+eyJoaXN0b3J5IjpbMTI2NTAzMzU4MCwyMDA4Nzc5NTc2LC02ND
+c3NjM4MzEsMTc4MzA2MDYyNCwtNjUzMTg3MDMwLC01MDgwODM4
+MzUsLTEzMjI4NDI0NzMsLTE1MTU2MTUyMDQsMzcwMjIyODMwLD
+U0Nzg2MjgwMiw5MTc3ODcwMzIsLTE2NTM0NDIzMDIsLTIxMTU1
+MzYzMDQsLTEwOTU1MDk5MzksMTQ0MzM4Mjk0NiwtMjY1MTA2MT
+gyLDIxMjgzNjQzOSwtMjA0NjE2MDU2MCwxMTQ0NjgxOCwtNzU0
+MDU4NDA4XX0=
 -->
