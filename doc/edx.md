@@ -48,8 +48,8 @@ make stop
 
 ## pycharm
 
-
 #### remote debugger  
+Menu->Preferences->Project->Project Interpreter  
 environments:
 `DEVSTACK_WORKSPACE=/Users/<username>/workspace`  
 `OPENEDX_RELEASE=hawthorn.master`  
@@ -142,10 +142,10 @@ memcached                 1.4.24              66438aa20444        2 years ago   
 https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=edxops&starCount=0
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTcxNjgsMTEzNTk3NDk0Miw0NDc3OD
-Q3ODAsOTI2NTk1ODIsLTg3MTk3OTk4Nyw3MTM1ODk2MzcsLTY3
-NjY3NzkyLDE1NjA2OTQyMDUsLTUwMTA1NjI3OCwtMTMzMzM5OT
-YwMywyMDc3MDA3NTc5LC03NTM5Njc1MDIsOTc1ODkyNjI5LDg1
-ODI4OTYxOSwtMTE5MDI2ODE5NSwxMTEyOTIxMzUxLC0xMDcxMz
-E4MDg3LDQ4NTgwMjAsLTYxOTg2MjZdfQ==
+eyJoaXN0b3J5IjpbODYzNzY5NTY4LDExMzU5NzQ5NDIsNDQ3Nz
+g0NzgwLDkyNjU5NTgyLC04NzE5Nzk5ODcsNzEzNTg5NjM3LC02
+NzY2Nzc5MiwxNTYwNjk0MjA1LC01MDEwNTYyNzgsLTEzMzMzOT
+k2MDMsMjA3NzAwNzU3OSwtNzUzOTY3NTAyLDk3NTg5MjYyOSw4
+NTgyODk2MTksLTExOTAyNjgxOTUsMTExMjkyMTM1MSwtMTA3MT
+MxODA4Nyw0ODU4MDIwLC02MTk4NjI2XX0=
 -->
