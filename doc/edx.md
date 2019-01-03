@@ -49,8 +49,14 @@ make stop
 ## pycharm
 
 #### remote debugger  
-Menu->Preferences->Project->Project Interpreter  
-environments:
+Menu->Preferences->Project->Project Interpreter   
+
+Add Python interpreter  
+`Docker` (default)  
+Configuration files:  
+`./devstack/docker-compose.yml; ./devstack/docker-compose-sync.yml`  
+Service:`lms`  
+environments:  
 `DEVSTACK_WORKSPACE=/Users/<username>/workspace`  
 `OPENEDX_RELEASE=hawthorn.master`  
 interpreter path:  
@@ -142,10 +148,11 @@ memcached                 1.4.24              66438aa20444        2 years ago   
 https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=edxops&starCount=0
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzNzY5NTY4LDExMzU5NzQ5NDIsNDQ3Nz
-g0NzgwLDkyNjU5NTgyLC04NzE5Nzk5ODcsNzEzNTg5NjM3LC02
-NzY2Nzc5MiwxNTYwNjk0MjA1LC01MDEwNTYyNzgsLTEzMzMzOT
-k2MDMsMjA3NzAwNzU3OSwtNzUzOTY3NTAyLDk3NTg5MjYyOSw4
-NTgyODk2MTksLTExOTAyNjgxOTUsMTExMjkyMTM1MSwtMTA3MT
-MxODA4Nyw0ODU4MDIwLC02MTk4NjI2XX0=
+eyJoaXN0b3J5IjpbLTE4MDU4MTY5NzQsODYzNzY5NTY4LDExMz
+U5NzQ5NDIsNDQ3Nzg0NzgwLDkyNjU5NTgyLC04NzE5Nzk5ODcs
+NzEzNTg5NjM3LC02NzY2Nzc5MiwxNTYwNjk0MjA1LC01MDEwNT
+YyNzgsLTEzMzMzOTk2MDMsMjA3NzAwNzU3OSwtNzUzOTY3NTAy
+LDk3NTg5MjYyOSw4NTgyODk2MTksLTExOTAyNjgxOTUsMTExMj
+kyMTM1MSwtMTA3MTMxODA4Nyw0ODU4MDIwLC02MTk4NjI2XX0=
+
 -->
