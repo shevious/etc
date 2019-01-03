@@ -61,6 +61,7 @@ environments:
 `OPENEDX_RELEASE=hawthorn.master`  
 interpreter path:  
 `/edx/app/edxapp/venvs/edxapp/bin/python`  
+OK -> python libs listed -> OK
 
 #### Preferences -> Languages & Frameworks -> Django
 
@@ -148,11 +149,10 @@ memcached                 1.4.24              66438aa20444        2 years ago   
 https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=edxops&starCount=0
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDU4MTY5NzQsODYzNzY5NTY4LDExMz
-U5NzQ5NDIsNDQ3Nzg0NzgwLDkyNjU5NTgyLC04NzE5Nzk5ODcs
-NzEzNTg5NjM3LC02NzY2Nzc5MiwxNTYwNjk0MjA1LC01MDEwNT
-YyNzgsLTEzMzMzOTk2MDMsMjA3NzAwNzU3OSwtNzUzOTY3NTAy
-LDk3NTg5MjYyOSw4NTgyODk2MTksLTExOTAyNjgxOTUsMTExMj
-kyMTM1MSwtMTA3MTMxODA4Nyw0ODU4MDIwLC02MTk4NjI2XX0=
-
+eyJoaXN0b3J5IjpbOTg0OTEyMjkzLDg2Mzc2OTU2OCwxMTM1OT
+c0OTQyLDQ0Nzc4NDc4MCw5MjY1OTU4MiwtODcxOTc5OTg3LDcx
+MzU4OTYzNywtNjc2Njc3OTIsMTU2MDY5NDIwNSwtNTAxMDU2Mj
+c4LC0xMzMzMzk5NjAzLDIwNzcwMDc1NzksLTc1Mzk2NzUwMiw5
+NzU4OTI2MjksODU4Mjg5NjE5LC0xMTkwMjY4MTk1LDExMTI5Mj
+EzNTEsLTEwNzEzMTgwODcsNDg1ODAyMCwtNjE5ODYyNl19
 -->
