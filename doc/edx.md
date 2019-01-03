@@ -48,6 +48,7 @@ make stop
 
 ## pycharm
 
+
 #### remote debugger  
 environments:
 `DEVSTACK_WORKSPACE=/Users/<username>/workspace`  
@@ -141,10 +142,10 @@ memcached                 1.4.24              66438aa20444        2 years ago   
 https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=edxops&starCount=0
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTk3NDk0Miw0NDc3ODQ3ODAsOTI2NT
-k1ODIsLTg3MTk3OTk4Nyw3MTM1ODk2MzcsLTY3NjY3NzkyLDE1
-NjA2OTQyMDUsLTUwMTA1NjI3OCwtMTMzMzM5OTYwMywyMDc3MD
-A3NTc5LC03NTM5Njc1MDIsOTc1ODkyNjI5LDg1ODI4OTYxOSwt
-MTE5MDI2ODE5NSwxMTEyOTIxMzUxLC0xMDcxMzE4MDg3LDQ4NT
-gwMjAsLTYxOTg2MjZdfQ==
+eyJoaXN0b3J5IjpbMTQ1OTcxNjgsMTEzNTk3NDk0Miw0NDc3OD
+Q3ODAsOTI2NTk1ODIsLTg3MTk3OTk4Nyw3MTM1ODk2MzcsLTY3
+NjY3NzkyLDE1NjA2OTQyMDUsLTUwMTA1NjI3OCwtMTMzMzM5OT
+YwMywyMDc3MDA3NTc5LC03NTM5Njc1MDIsOTc1ODkyNjI5LDg1
+ODI4OTYxOSwtMTE5MDI2ODE5NSwxMTEyOTIxMzUxLC0xMDcxMz
+E4MDg3LDQ4NTgwMjAsLTYxOTg2MjZdfQ==
 -->
