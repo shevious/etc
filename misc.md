@@ -81,7 +81,8 @@ http://askubuntu.com/questions/339169/how-to-install-tomcat-7-0-42-on-ubuntu-12-
 simple and working:
 http://tecadmin.net/install-tomcat-7-on-ubuntu  
 
-#gpg key error
+# gpg key error
+
 For example,
 
     $ sudo add-apt-repository ppa:webupd8team/java
@@ -114,3 +115,6 @@ The workaround is install gnupg-curl
 The error gone. WHY?
 https://packages.debian.org/sid/gnupg-curl  
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg1ODU4ODU0XX0=
+-->
