@@ -114,8 +114,13 @@ http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_12_x0002_0740
 
 7. 조선중앙일보 - 1935년 9월 19일
 http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_19_x0002_0870  
+
+8. 관련 인물 - 한명식 (독립운동가 동지)  
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNDI4NTY1OSwtMTEzNTMyMDA0MiwxNz
-MzNDk1Mzk1LDEwNjk4ODQxMTAsLTE3OTE1MjcxOTAsMTU2NzU2
-MjYyMywtMTk2MzAxMjY5Miw1NTMwMTM4MTddfQ==
+eyJoaXN0b3J5IjpbLTI3OTE5NTgyNSwxMzE0Mjg1NjU5LC0xMT
+M1MzIwMDQyLDE3MzM0OTUzOTUsMTA2OTg4NDExMCwtMTc5MTUy
+NzE5MCwxNTY3NTYyNjIzLC0xOTYzMDEyNjkyLDU1MzAxMzgxN1
+19
 -->
