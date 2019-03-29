@@ -70,8 +70,11 @@ http://db.history.go.kr/item/level.do?setId=1&itemId=su&synonym=off&chinessChar=
 http://lawqa.jinbo.net/xe/?document_srl=887302  
 http://lawqa.jinbo.net/xe/?mid=board403&document_srl=1192774  
 
+# 보훈 신청
 
+[https://www.mpva.go.kr/mpva/minwon/bohunconsult.do](https://www.mpva.go.kr/mpva/minwon/bohunconsult.do)  
+1577-0606
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI0ODEwNjY0XX0=
+eyJoaXN0b3J5IjpbNTE2MDU4NDJdfQ==
 -->
