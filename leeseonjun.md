@@ -89,7 +89,12 @@ http://lawqa.jinbo.net/xe/?mid=board403&document_srl=1192774
 02-2125-0833 김선화  
 
 
+# 공적입증자료
+
+1. 판결문  
+http://theme.archives.go.kr/  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE1MjcxOTAsMTU2NzU2MjYyMywtMT
-k2MzAxMjY5Miw1NTMwMTM4MTddfQ==
+eyJoaXN0b3J5IjpbLTQ3OTQ2NDY1MCwtMTc5MTUyNzE5MCwxNT
+Y3NTYyNjIzLC0xOTYzMDEyNjkyLDU1MzAxMzgxN119
 -->
