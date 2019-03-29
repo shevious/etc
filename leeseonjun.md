@@ -114,7 +114,7 @@ http://theme.archives.go.kr/next/indy/listkeywordSearch.do
 
 https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edtNo=2&printCount=1&publishDate=1935-09-19&officeId=00020&pageNo=2&printNo=5317&publishType=00020  
 아산적농사건  
-친지들에게 
+친지들에게 공산주의를 선전하는 한편으로 불경의 내용을 포함한 그림을 그렸다는 사실로 작년 11월 초순경에 공주지방법원에서 지역 2
 
 
 6. 조선중앙일보 - 1935년 9월 12일
@@ -198,10 +198,10 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDQwMTMwMywtNDA3MTI0NTQzLC05MT
-U1ODg4ODUsMTU2MDEyNTY0LC0xMTkyNDIzMDAyLC04Mzg5ODYy
-OSwtMjI3NDA1MjAsLTI3OTE5NTgyNSwxMzE0Mjg1NjU5LC0xMT
-M1MzIwMDQyLDE3MzM0OTUzOTUsMTA2OTg4NDExMCwtMTc5MTUy
-NzE5MCwxNTY3NTYyNjIzLC0xOTYzMDEyNjkyLDU1MzAxMzgxN1
-19
+eyJoaXN0b3J5IjpbNDc0MDYyODk0LC00MDcxMjQ1NDMsLTkxNT
+U4ODg4NSwxNTYwMTI1NjQsLTExOTI0MjMwMDIsLTgzODk4NjI5
+LC0yMjc0MDUyMCwtMjc5MTk1ODI1LDEzMTQyODU2NTksLTExMz
+UzMjAwNDIsMTczMzQ5NTM5NSwxMDY5ODg0MTEwLC0xNzkxNTI3
+MTkwLDE1Njc1NjI2MjMsLTE5NjMwMTI2OTIsNTUzMDEzODE3XX
+0=
 -->
