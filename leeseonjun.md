@@ -78,7 +78,7 @@ http://lawqa.jinbo.net/xe/?mid=board403&document_srl=1192774
 - [x] 가족관계 등록부 
 - [ ] 신청인의 주민등록 등본 
 - [ ] 족보  
-- [ ] 보훈신청서
+- [ ] 포상신청서
 
 
 공적입증자료 
@@ -89,7 +89,7 @@ http://lawqa.jinbo.net/xe/?mid=board403&document_srl=1192774
 
 서울지방보훈청  
 02-2125-0833 김선화  
-보훈 신청서: 국가보훈처 => 민원참여 => 민원사무서식 => 
+독립유공자 포상 신청서: 국가보훈처 => 민원참여 => 민원사무서식 => 포상신청서
 
 
 
@@ -149,8 +149,8 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTgyNDg4NSwtODM4OTg2MjksLTIyNz
-QwNTIwLC0yNzkxOTU4MjUsMTMxNDI4NTY1OSwtMTEzNTMyMDA0
-MiwxNzMzNDk1Mzk1LDEwNjk4ODQxMTAsLTE3OTE1MjcxOTAsMT
-U2NzU2MjYyMywtMTk2MzAxMjY5Miw1NTMwMTM4MTddfQ==
+eyJoaXN0b3J5IjpbLTExOTI0MjMwMDIsLTgzODk4NjI5LC0yMj
+c0MDUyMCwtMjc5MTk1ODI1LDEzMTQyODU2NTksLTExMzUzMjAw
+NDIsMTczMzQ5NTM5NSwxMDY5ODg0MTEwLC0xNzkxNTI3MTkwLD
+E1Njc1NjI2MjMsLTE5NjMwMTI2OTIsNTUzMDEzODE3XX0=
 -->
