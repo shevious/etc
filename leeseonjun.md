@@ -97,23 +97,25 @@ http://theme.archives.go.kr/next/indy/viewIndyDetail.do?archiveId=0001165142&evn
 1935년 징역 2년  
 http://theme.archives.go.kr/next/indy/listkeywordSearch.do  
  
-3. 수형인명부 - 1건
+2. 수형인명부 - 1건
 http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=2&actionFlag=det&keyword=%ec%9d%b4%ec%84%a0%ec%a4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=   
 
-4. 집행원부 - 1건  
+3. 집행원부 - 1건  
 http://theme.archives.go.kr/next/indy/listkeywordSearch.do  
 
-5. 형사사건부 - 1건
+4. 형사사건부 - 1건
 http://theme.archives.go.kr/next/indy/listkeywordSearch.do   
 
-6. 동아일보 기사 - 1935년 9월 19일
+5. 동아일보 기사 - 1935년 9월 19일
 아산적농사건
 
-7. 조선중앙일보 - 1935년 9월 12일
+6. 조선중앙일보 - 1935년 9월 12일
+http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_12_x0002_0740  
 
-8. 조선중앙일보 - 
+7. 조선중앙일보 - 
+8. [http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_19_x0002_0870](http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_19_x0002_0870)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzNDc2NzA5LC0xMTM1MzIwMDQyLDE3Mz
-M0OTUzOTUsMTA2OTg4NDExMCwtMTc5MTUyNzE5MCwxNTY3NTYy
-NjIzLC0xOTYzMDEyNjkyLDU1MzAxMzgxN119
+eyJoaXN0b3J5IjpbMTM3MDYzMDY4NCwtMTEzNTMyMDA0MiwxNz
+MzNDk1Mzk1LDEwNjk4ODQxMTAsLTE3OTE1MjcxOTAsMTU2NzU2
+MjYyMywtMTk2MzAxMjY5Miw1NTMwMTM4MTddfQ==
 -->
