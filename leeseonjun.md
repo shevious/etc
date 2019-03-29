@@ -124,8 +124,7 @@ http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001
 1934 년 1월 21일 및 3월 25일경 2회에 걸쳐 만주국 봉천성에 거주하는 배기동(裵奇童)에게 ‘조선을 독립시킬 용사가 되어 달라’는 취지의 편지를 발송했고, 여름에는 충남 예산농업학교 학생 김한태(金漢台)에게, ‘조선을 재건함은 우리들 청년의 책임이니 조선과 동포를 위해 노력하라’는 취지의 편지를 보냈다. 10월중, 예산농업학교 학생 신상철(申相澈)에게 ‘내선융화라든가 자력갱생 농촌진흥 등을 고창하는 반면 탄압정치는 매일 매일 신성한 조선을 일본 놈들에게 빼앗기고 가만히 있을 것인가. 크게 분기하여 조선독립의 용사가 되자’라는 내용의 편지를 보냈으며, 같은 달에 서울 휘문고등보통학교 학생 정헌갑(鄭憲甲)에게, ‘나날이 피폐해 가는 조선과 기아에 우는 동포를 위하여 우리들의 손으로 조선의 독립을 기도하자’라는 취지의 편지를 발송하였다. 또한 11월중에는 충남 아산 거주 조재선(趙載善)에게, ‘자력갱생 농촌진흥운동은 전부 가면정책에 불과하다. 이 감언에 속지 말고 조선독립을 위하여 크게 분기 하자’라는 내용의 편지를 보냈다.   
 1934년 12월에는 일왕의 권위를 부정하는 엽서 연하장 2매를 제작하여 일왕을 폄하하는 등 일제를 부정하는 활동을 하다가 1935년 2월경 홍성경찰서에 체포되었다.   
 이로 인해 한명식은 1935년 9월 17일, 경성복심법원에서 소위 보안법 위반 및 불경죄로 징역 1년을 받고 옥고를 치른 후 1936년 9월 1일 가출옥하였다.  
-정부는 고인의 공훈을 기려 2008년에 건국훈장 애족장을 추서하였다.  
-  
+정부는 고인의 공훈을 기려 2008년에 건국훈장 애족장을 추서하였다.     
 註  
 ·判決文(京城覆審法院：1935. 9. 17)  
 ·身分帳指紋原紙(警察廳)  
@@ -137,10 +136,14 @@ http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001
 ·독립운동사자료집(독립운동사편찬위원회) 제14집 264, 896~899면  
 ·한민족독립운동사자료집(국사편찬위원회) 제14권 264면  
 
+10. 일제경찰 심문 조서: 1934년도 이후의 주요사건 검거(치안정황 [경기도, 1935년])  
+
+11. 심문조서
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzY1OTUxMywtMjI3NDA1MjAsLTI3OT
-E5NTgyNSwxMzE0Mjg1NjU5LC0xMTM1MzIwMDQyLDE3MzM0OTUz
-OTUsMTA2OTg4NDExMCwtMTc5MTUyNzE5MCwxNTY3NTYyNjIzLC
-0xOTYzMDEyNjkyLDU1MzAxMzgxN119
+eyJoaXN0b3J5IjpbMTQwMDQwMTg0LC0yMjc0MDUyMCwtMjc5MT
+k1ODI1LDEzMTQyODU2NTksLTExMzUzMjAwNDIsMTczMzQ5NTM5
+NSwxMDY5ODg0MTEwLC0xNzkxNTI3MTkwLDE1Njc1NjI2MjMsLT
+E5NjMwMTI2OTIsNTUzMDEzODE3XX0=
 -->
