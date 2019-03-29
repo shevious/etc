@@ -117,10 +117,10 @@ http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_19_x0002_0870
 
 8. 관련 인물 - 한명식 (독립운동가 동지)  
 
-
+http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3OTE5NTgyNSwxMzE0Mjg1NjU5LC0xMT
-M1MzIwMDQyLDE3MzM0OTUzOTUsMTA2OTg4NDExMCwtMTc5MTUy
-NzE5MCwxNTY3NTYyNjIzLC0xOTYzMDEyNjkyLDU1MzAxMzgxN1
-19
+eyJoaXN0b3J5IjpbLTI5NDA1MzY4MiwtMjc5MTk1ODI1LDEzMT
+QyODU2NTksLTExMzUzMjAwNDIsMTczMzQ5NTM5NSwxMDY5ODg0
+MTEwLC0xNzkxNTI3MTkwLDE1Njc1NjI2MjMsLTE5NjMwMTI2OT
+IsNTUzMDEzODE3XX0=
 -->
