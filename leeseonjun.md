@@ -74,16 +74,19 @@ http://lawqa.jinbo.net/xe/?mid=board403&document_srl=1192774
 
 [https://www.mpva.go.kr/mpva/minwon/bohunconsult.do](https://www.mpva.go.kr/mpva/minwon/bohunconsult.do)  
 1577-0606
-인정\
-가족관계 등록부
-신청인의 주민등록 등본
-족보
-공적입증자료
+인정 
+가족관계 등록부 
+신청인의 주민등록 등본 
+족보 
+공적입증자료 
 공적 
 명부 
 사진
-보훈지청
+보훈지청 
+서울지방보훈청
+02-2125-0833 김선화
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjgwMTUxNzVdfQ==
+eyJoaXN0b3J5IjpbNTUzMDEzODE3XX0=
 -->
