@@ -81,12 +81,11 @@ http://lawqa.jinbo.net/xe/?mid=board403&document_srl=1192774
 공적입증자료 
 공적 
 명부 
-사진
-보훈지청 
-서울지방보훈청
-02-2125-0833 김선화
+사진   
+서울지방보훈청  
+02-2125-0833 김선화  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzMDEzODE3XX0=
+eyJoaXN0b3J5IjpbLTE5NjMwMTI2OTIsNTUzMDEzODE3XX0=
 -->
