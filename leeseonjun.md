@@ -94,17 +94,17 @@ http://lawqa.jinbo.net/xe/?mid=board403&document_srl=1192774
 1. 판결문  - 2건
 1933년 징역1년
 http://theme.archives.go.kr/next/indy/viewIndyDetail.do?archiveId=0001165142&evntId=&actionType=name&indpnId=0000135654&actionType=det&flag=4  
-1935년
-http://theme.archives.go.kr/  
-
+1935년 징역 2년  
+http://theme.archives.go.kr/next/indy/listkeywordSearch.do  
+ 
 3. 수형인명부 - 1건
-http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=2&actionFlag=det&keyword=%ec%9d%b4%ec%84%a0%ec%a4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=  
+http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=2&actionFlag=det&keyword=%ec%9d%b4%ec%84%a0%ec%a4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=   
 
 4. 집행원부 - 1건  
-http://theme.archives.go.kr/  
+http://theme.archives.go.kr/next/indy/listkeywordSearch.do  
 
 5. 형사사건부 - 1건
-http://theme.archives.go.kr/   
+http://theme.archives.go.kr/next/indy/listkeywordSearch.do   
 
 6. 동아일보 기사 - 1935년 9월 19일
 아산적농사건
@@ -113,7 +113,7 @@ http://theme.archives.go.kr/
 
 8. 조선중앙일보 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzUzMjAwNDIsMTczMzQ5NTM5NSwxMD
-Y5ODg0MTEwLC0xNzkxNTI3MTkwLDE1Njc1NjI2MjMsLTE5NjMw
-MTI2OTIsNTUzMDEzODE3XX0=
+eyJoaXN0b3J5IjpbNjQzNDc2NzA5LC0xMTM1MzIwMDQyLDE3Mz
+M0OTUzOTUsMTA2OTg4NDExMCwtMTc5MTUyNzE5MCwxNTY3NTYy
+NjIzLC0xOTYzMDEyNjkyLDU1MzAxMzgxN119
 -->
