@@ -138,15 +138,16 @@ http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001
 
 10. 일제경찰 심문 조서: 1934년도 이후의 주요사건 검거(치안정황 [경기도, 1935년])  
 http://search.i815.or.kr/subService.do  
-이선준 검색 => 마이크로필름자료 => 
+이선준 검색 => 마이크로필름자료 => 일제경찰심문조서  
 
-12. 심문조서
+11. 심문조서
 http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060  
 
+12. 사상휘보
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDYwOTU5MywtMjI3NDA1MjAsLTI3OT
+eyJoaXN0b3J5IjpbMjA5MDAzNTM4NSwtMjI3NDA1MjAsLTI3OT
 E5NTgyNSwxMzE0Mjg1NjU5LC0xMTM1MzIwMDQyLDE3MzM0OTUz
 OTUsMTA2OTg4NDExMCwtMTc5MTUyNzE5MCwxNTY3NTYyNjIzLC
 0xOTYzMDEyNjkyLDU1MzAxMzgxN119
