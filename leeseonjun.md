@@ -144,10 +144,11 @@ http://search.i815.or.kr/subService.do
 http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060  
 
 12. 사상휘보
+http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDAzNTM4NSwtMjI3NDA1MjAsLTI3OT
+eyJoaXN0b3J5IjpbLTY1OTkxMDM0MCwtMjI3NDA1MjAsLTI3OT
 E5NTgyNSwxMzE0Mjg1NjU5LC0xMTM1MzIwMDQyLDE3MzM0OTUz
 OTUsMTA2OTg4NDExMCwtMTc5MTUyNzE5MCwxNTY3NTYyNjIzLC
 0xOTYzMDEyNjkyLDU1MzAxMzgxN119
