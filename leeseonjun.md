@@ -74,7 +74,16 @@ http://lawqa.jinbo.net/xe/?mid=board403&document_srl=1192774
 
 [https://www.mpva.go.kr/mpva/minwon/bohunconsult.do](https://www.mpva.go.kr/mpva/minwon/bohunconsult.do)  
 1577-0606
+인정\
+가족관계 등록부
+신청인의 주민등록 등본
+족보
+공적입증자료
+공적 
+명부 
+사진
+보훈지청
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2MDU4NDJdfQ==
+eyJoaXN0b3J5IjpbLTIwMjgwMTUxNzVdfQ==
 -->
