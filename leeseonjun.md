@@ -117,8 +117,6 @@ http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_19_x0002_0870
 
 8. 관련 인물 - 한명식 (독립운동가 동지)  
 http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001  
-
-9. 독립운동사자료집 - 14. 대중투쟁사자료집
 한명식(韓明植) 1917. 2. 13~1963. 7. 10    
 1932년 12월경부터 충남 아산에서 [이선준](http://search.i815.or.kr/Indeman/IndemanView.jsp?sT=3&tid=ma&set_id=66138&total_df=1&pos=0&query=S.ALL:%EC%9D%B4%EC%84%A0%EC%A4%80#)(李銑濬)과 일제의 압제에서 벗어나 독립하기 위해 청년들이 중심이 되어야 한다고 생각했다.   
 1934 년 1월 21일 및 3월 25일경 2회에 걸쳐 만주국 봉천성에 거주하는 배기동(裵奇童)에게 ‘조선을 독립시킬 용사가 되어 달라’는 취지의 편지를 발송했고, 여름에는 충남 예산농업학교 학생 김한태(金漢台)에게, ‘조선을 재건함은 우리들 청년의 책임이니 조선과 동포를 위해 노력하라’는 취지의 편지를 보냈다. 10월중, 예산농업학교 학생 신상철(申相澈)에게 ‘내선융화라든가 자력갱생 농촌진흥 등을 고창하는 반면 탄압정치는 매일 매일 신성한 조선을 일본 놈들에게 빼앗기고 가만히 있을 것인가. 크게 분기하여 조선독립의 용사가 되자’라는 내용의 편지를 보냈으며, 같은 달에 서울 휘문고등보통학교 학생 정헌갑(鄭憲甲)에게, ‘나날이 피폐해 가는 조선과 기아에 우는 동포를 위하여 우리들의 손으로 조선의 독립을 기도하자’라는 취지의 편지를 발송하였다. 또한 11월중에는 충남 아산 거주 조재선(趙載善)에게, ‘자력갱생 농촌진흥운동은 전부 가면정책에 불과하다. 이 감언에 속지 말고 조선독립을 위하여 크게 분기 하자’라는 내용의 편지를 보냈다.   
@@ -136,20 +134,19 @@ http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001
 ·독립운동사자료집(독립운동사편찬위원회) 제14집 264, 896~899면  
 ·한민족독립운동사자료집(국사편찬위원회) 제14권 264면  
 
+9. 독립운동사자료집 - 14. 대중투쟁사자료집
+
 10. 일제경찰 심문 조서: 1934년도 이후의 주요사건 검거(치안정황 [경기도, 1935년])  
 http://search.i815.or.kr/subService.do  
 이선준 검색 => 마이크로필름자료 => 일제경찰심문조서  
-
-11. 심문조서
-http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060  
 
 12. 사상휘보
 http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTkxMDM0MCwtMjI3NDA1MjAsLTI3OT
-E5NTgyNSwxMzE0Mjg1NjU5LC0xMTM1MzIwMDQyLDE3MzM0OTUz
-OTUsMTA2OTg4NDExMCwtMTc5MTUyNzE5MCwxNTY3NTYyNjIzLC
-0xOTYzMDEyNjkyLDU1MzAxMzgxN119
+eyJoaXN0b3J5IjpbLTgzODk4NjI5LC0yMjc0MDUyMCwtMjc5MT
+k1ODI1LDEzMTQyODU2NTksLTExMzUzMjAwNDIsMTczMzQ5NTM5
+NSwxMDY5ODg0MTEwLC0xNzkxNTI3MTkwLDE1Njc1NjI2MjMsLT
+E5NjMwMTI2OTIsNTUzMDEzODE3XX0=
 -->
