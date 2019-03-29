@@ -106,9 +106,9 @@ http://theme.archives.go.kr/
 5. 동아일보 기사 - 1935년 9월 19일
 아산적농사건
 
-6. 
+6. 조선중앙일보 - 1935년 9ㅇ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzQ5NTM5NSwxMDY5ODg0MTEwLC0xNz
-kxNTI3MTkwLDE1Njc1NjI2MjMsLTE5NjMwMTI2OTIsNTUzMDEz
-ODE3XX0=
+eyJoaXN0b3J5IjpbLTIxMTAyMjEzMTgsMTczMzQ5NTM5NSwxMD
+Y5ODg0MTEwLC0xNzkxNTI3MTkwLDE1Njc1NjI2MjMsLTE5NjMw
+MTI2OTIsNTUzMDEzODE3XX0=
 -->
