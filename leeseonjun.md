@@ -114,7 +114,8 @@ http://theme.archives.go.kr/next/indy/listkeywordSearch.do
 
 https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edtNo=2&printCount=1&publishDate=1935-09-19&officeId=00020&pageNo=2&printNo=5317&publishType=00020  
 아산적농사건  
-친지들에게 공산주의를 선전하는 한편으로 불경의 내용을 포함한 그림을 그렸다는 사실로 작년 11월 초순경에 공주지방법원에서 지역 2
+친지들에게 공산주의를 선전하는 한편으로 불경의 내용을 포함한 그림을 그렸다는 사실로 작년 11월 초순경에 공주지방법원에서 징역8개월의 언도를 받고 즉시 불복 공소한 충남 아산군 도고면 향산리에 사는 이선준 등 3명에 관한 치안유지법 위반과 불경죄 등에 관한 언도 공판은 17일 오후에 경성 복심법원 형사부 법정에서 개정되었는데 이케다 재판장으로부터 1심판결과 같이 각 피고인들에게 언도하였다.  
+피고들의 범행사실은 
 
 
 6. 조선중앙일보 - 1935년 9월 12일
@@ -198,7 +199,7 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0MDYyODk0LC00MDcxMjQ1NDMsLTkxNT
+eyJoaXN0b3J5IjpbNzgzOTkyNjE3LC00MDcxMjQ1NDMsLTkxNT
 U4ODg4NSwxNTYwMTI1NjQsLTExOTI0MjMwMDIsLTgzODk4NjI5
 LC0yMjc0MDUyMCwtMjc5MTk1ODI1LDEzMTQyODU2NTksLTExMz
 UzMjAwNDIsMTczMzQ5NTM5NSwxMDY5ODg0MTEwLC0xNzkxNTI3
