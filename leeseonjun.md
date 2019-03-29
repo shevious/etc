@@ -103,8 +103,12 @@ http://theme.archives.go.kr/
 4. 형사사건부 - 1건
 http://theme.archives.go.kr/   
 
-5. 
+5. 동아일보 기사 - 1935년 9월 19일
+아산적농사건
+
+6. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTg4NDExMCwtMTc5MTUyNzE5MCwxNT
-Y3NTYyNjIzLC0xOTYzMDEyNjkyLDU1MzAxMzgxN119
+eyJoaXN0b3J5IjpbMTczMzQ5NTM5NSwxMDY5ODg0MTEwLC0xNz
+kxNTI3MTkwLDE1Njc1NjI2MjMsLTE5NjMwMTI2OTIsNTUzMDEz
+ODE3XX0=
 -->
