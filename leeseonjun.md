@@ -137,13 +137,17 @@ http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001
 ·한민족독립운동사자료집(국사편찬위원회) 제14권 264면  
 
 10. 일제경찰 심문 조서: 1934년도 이후의 주요사건 검거(치안정황 [경기도, 1935년])  
+http://search.i815.or.kr/subService.do  
+이선준 검색 => 마이크로필름자료 => 
 
-11. 심문조서
+12. 심문조서
+http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060  
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMDQwMTg0LC0yMjc0MDUyMCwtMjc5MT
-k1ODI1LDEzMTQyODU2NTksLTExMzUzMjAwNDIsMTczMzQ5NTM5
-NSwxMDY5ODg0MTEwLC0xNzkxNTI3MTkwLDE1Njc1NjI2MjMsLT
-E5NjMwMTI2OTIsNTUzMDEzODE3XX0=
+eyJoaXN0b3J5IjpbMTQxMDYwOTU5MywtMjI3NDA1MjAsLTI3OT
+E5NTgyNSwxMzE0Mjg1NjU5LC0xMTM1MzIwMDQyLDE3MzM0OTUz
+OTUsMTA2OTg4NDExMCwtMTc5MTUyNzE5MCwxNTY3NTYyNjIzLC
+0xOTYzMDEyNjkyLDU1MzAxMzgxN119
 -->
