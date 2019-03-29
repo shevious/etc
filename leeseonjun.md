@@ -114,6 +114,7 @@ http://theme.archives.go.kr/next/indy/listkeywordSearch.do
 아산적농사건
 
 
+
 6. 조선중앙일보 - 1935년 9월 12일
 http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_12_x0002_0740  
 
@@ -189,14 +190,15 @@ http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001
 http://search.i815.or.kr/subService.do  
 이선준 검색 => 마이크로필름자료 => 일제경찰심문조서  
 
-12. 사상휘보
+12. 사상휘보 - 제13호
 http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060  
+在京鮮人轉向者の情況(昭和十二年十一月現在)  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTU4ODg4NSwxNTYwMTI1NjQsLTExOT
-I0MjMwMDIsLTgzODk4NjI5LC0yMjc0MDUyMCwtMjc5MTk1ODI1
-LDEzMTQyODU2NTksLTExMzUzMjAwNDIsMTczMzQ5NTM5NSwxMD
-Y5ODg0MTEwLC0xNzkxNTI3MTkwLDE1Njc1NjI2MjMsLTE5NjMw
-MTI2OTIsNTUzMDEzODE3XX0=
+eyJoaXN0b3J5IjpbLTQwNzEyNDU0MywtOTE1NTg4ODg1LDE1Nj
+AxMjU2NCwtMTE5MjQyMzAwMiwtODM4OTg2MjksLTIyNzQwNTIw
+LC0yNzkxOTU4MjUsMTMxNDI4NTY1OSwtMTEzNTMyMDA0MiwxNz
+MzNDk1Mzk1LDEwNjk4ODQxMTAsLTE3OTE1MjcxOTAsMTU2NzU2
+MjYyMywtMTk2MzAxMjY5Miw1NTMwMTM4MTddfQ==
 -->
