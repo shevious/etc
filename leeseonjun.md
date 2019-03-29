@@ -89,6 +89,8 @@ http://lawqa.jinbo.net/xe/?mid=board403&document_srl=1192774
 02-2125-0833 김선화  
 
 
+
+
 # 공적입증자료
 
 1. 판결문  - 2건
@@ -145,8 +147,8 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODk4NjI5LC0yMjc0MDUyMCwtMjc5MT
-k1ODI1LDEzMTQyODU2NTksLTExMzUzMjAwNDIsMTczMzQ5NTM5
-NSwxMDY5ODg0MTEwLC0xNzkxNTI3MTkwLDE1Njc1NjI2MjMsLT
-E5NjMwMTI2OTIsNTUzMDEzODE3XX0=
+eyJoaXN0b3J5IjpbMjc3NDMzMzAzLC04Mzg5ODYyOSwtMjI3ND
+A1MjAsLTI3OTE5NTgyNSwxMzE0Mjg1NjU5LC0xMTM1MzIwMDQy
+LDE3MzM0OTUzOTUsMTA2OTg4NDExMCwtMTc5MTUyNzE5MCwxNT
+Y3NTYyNjIzLC0xOTYzMDEyNjkyLDU1MzAxMzgxN119
 -->
