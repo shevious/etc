@@ -111,8 +111,10 @@ http://theme.archives.go.kr/next/indy/listkeywordSearch.do
 http://theme.archives.go.kr/next/indy/listkeywordSearch.do   
 
 5. 동아일보 기사 - 1935년 9월 19일
-아산적농사건
 
+https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edtNo=2&printCount=1&publishDate=1935-09-19&officeId=00020&pageNo=2&printNo=5317&publishType=00020  
+아산적농사건  
+친지들에게 
 
 
 6. 조선중앙일보 - 1935년 9월 12일
@@ -196,9 +198,10 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNzEyNDU0MywtOTE1NTg4ODg1LDE1Nj
-AxMjU2NCwtMTE5MjQyMzAwMiwtODM4OTg2MjksLTIyNzQwNTIw
-LC0yNzkxOTU4MjUsMTMxNDI4NTY1OSwtMTEzNTMyMDA0MiwxNz
-MzNDk1Mzk1LDEwNjk4ODQxMTAsLTE3OTE1MjcxOTAsMTU2NzU2
-MjYyMywtMTk2MzAxMjY5Miw1NTMwMTM4MTddfQ==
+eyJoaXN0b3J5IjpbMTkxNDQwMTMwMywtNDA3MTI0NTQzLC05MT
+U1ODg4ODUsMTU2MDEyNTY0LC0xMTkyNDIzMDAyLC04Mzg5ODYy
+OSwtMjI3NDA1MjAsLTI3OTE5NTgyNSwxMzE0Mjg1NjU5LC0xMT
+M1MzIwMDQyLDE3MzM0OTUzOTUsMTA2OTg4NDExMCwtMTc5MTUy
+NzE5MCwxNTY3NTYyNjIzLC0xOTYzMDEyNjkyLDU1MzAxMzgxN1
+19
 -->
