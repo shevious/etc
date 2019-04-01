@@ -95,23 +95,23 @@ http://lawqa.jinbo.net/xe/?mid=board403&document_srl=1192774
 
 # 공적입증자료
 
-1. 판결문  - 2건
-1933년 징역1년 선고
-http://theme.archives.go.kr/next/indy/viewIndyDetail.do?archiveId=0001165142&evntId=&actionType=name&indpnId=0000135654&actionType=det&flag=4  
+1. 판결문  - 2건  
+1933년 징역1년 선고  
+http://theme.archives.go.kr/next/indy/viewIndyDetail.do?archiveId=0001165142&evntId=&actionType=name&indpnId=0000135654&actionType=det&flag=4   
 ![](https://github.com/shevious/etc/blob/master/screenshots/screen-1933.png?raw=true)  
 1935년 징역2년  선고
 [http://theme.archives.go.kr/next/indy/viewIndyDetail.do?archiveId=0001351796&evntId=0034982771&evntdowngbn=Y&indpnId=0000014393&actionType=nam&flag=1&search_region=](http://theme.archives.go.kr/next/indy/viewIndyDetail.do?archiveId=0001351796&evntId=0034982771&evntdowngbn=Y&indpnId=0000014393&actionType=nam&flag=1&search_region=)  
 상세자료: 별첨1  
  
-2. 수형인명부 - 1건
+2. 수형인명부 - 1건  
 http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=2&actionFlag=det&keyword=%ec%9d%b4%ec%84%a0%ec%a4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=   
 ![](https://github.com/shevious/etc/blob/master/screenshots/screen-1933-2.png?raw=true)
 
-3. 집행원부 - 3건  
+3. 집행원부 - 3건    
 [http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=3&actionFlag=det&keyword=%EC%9D%B4%EC%84%A0%EC%A4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=](http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=3&actionFlag=det&keyword=%EC%9D%B4%EC%84%A0%EC%A4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=)   
 ![](https://github.com/shevious/etc/blob/master/screenshots/screen-1933-1935.png?raw=true)
 
-4. 형사사건부 - 4건
+4. 형사사건부 - 4건  
 [http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=4&actionFlag=det&keyword=%EC%9D%B4%EC%84%A0%EC%A4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=](http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=4&actionFlag=det&keyword=%EC%9D%B4%EC%84%A0%EC%A4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=)  
 ![](https://github.com/shevious/etc/blob/master/screenshots/screen-1933-1935-2.png?raw=true)
 
@@ -187,11 +187,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDYxMDMwNywtMTE4NTk0MDcyLC0xOD
-A2NDEzMzQzLC0xMzgxOTkyNjI0LDE1MDYyODI3OTUsMTQxNjk5
-ODIxNywxMzk0MDUwMDUwLDgwNzQwMjM2NiwtNDA3MTI0NTQzLC
-05MTU1ODg4ODUsMTU2MDEyNTY0LC0xMTkyNDIzMDAyLC04Mzg5
-ODYyOSwtMjI3NDA1MjAsLTI3OTE5NTgyNSwxMzE0Mjg1NjU5LC
-0xMTM1MzIwMDQyLDE3MzM0OTUzOTUsMTA2OTg4NDExMCwtMTc5
-MTUyNzE5MF19
+eyJoaXN0b3J5IjpbMjc2MTU4ODEsLTExODU5NDA3MiwtMTgwNj
+QxMzM0MywtMTM4MTk5MjYyNCwxNTA2MjgyNzk1LDE0MTY5OTgy
+MTcsMTM5NDA1MDA1MCw4MDc0MDIzNjYsLTQwNzEyNDU0MywtOT
+E1NTg4ODg1LDE1NjAxMjU2NCwtMTE5MjQyMzAwMiwtODM4OTg2
+MjksLTIyNzQwNTIwLC0yNzkxOTU4MjUsMTMxNDI4NTY1OSwtMT
+EzNTMyMDA0MiwxNzMzNDk1Mzk1LDEwNjk4ODQxMTAsLTE3OTE1
+MjcxOTBdfQ==
 -->
