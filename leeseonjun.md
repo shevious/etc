@@ -98,7 +98,7 @@ http://lawqa.jinbo.net/xe/?mid=board403&document_srl=1192774
 1. 판결문  - 2건
 1933년 징역1년 선고
 http://theme.archives.go.kr/next/indy/viewIndyDetail.do?archiveId=0001165142&evntId=&actionType=name&indpnId=0000135654&actionType=det&flag=4  
-
+![]([https://github.com/shevious/etc/blob/master/screenshots/screen-1933.png](https://github.com/shevious/etc/blob/master/screenshots/screen-1933.png?raw=true)
 상세자료: 별첨1  
 1935년 징역2년  선고
 http://theme.archives.go.kr/next/indy/listkeywordSearch.do  
@@ -205,10 +205,10 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTcyMzIwNDQsMTM5NDA1MDA1MCw4MD
-c0MDIzNjYsLTQwNzEyNDU0MywtOTE1NTg4ODg1LDE1NjAxMjU2
-NCwtMTE5MjQyMzAwMiwtODM4OTg2MjksLTIyNzQwNTIwLC0yNz
-kxOTU4MjUsMTMxNDI4NTY1OSwtMTEzNTMyMDA0MiwxNzMzNDk1
-Mzk1LDEwNjk4ODQxMTAsLTE3OTE1MjcxOTAsMTU2NzU2MjYyMy
-wtMTk2MzAxMjY5Miw1NTMwMTM4MTddfQ==
+eyJoaXN0b3J5IjpbLTU4MTgyOTg0OCwxMzk0MDUwMDUwLDgwNz
+QwMjM2NiwtNDA3MTI0NTQzLC05MTU1ODg4ODUsMTU2MDEyNTY0
+LC0xMTkyNDIzMDAyLC04Mzg5ODYyOSwtMjI3NDA1MjAsLTI3OT
+E5NTgyNSwxMzE0Mjg1NjU5LC0xMTM1MzIwMDQyLDE3MzM0OTUz
+OTUsMTA2OTg4NDExMCwtMTc5MTUyNzE5MCwxNTY3NTYyNjIzLC
+0xOTYzMDEyNjkyLDU1MzAxMzgxN119
 -->
