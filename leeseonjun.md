@@ -133,7 +133,7 @@ http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_19_x0002_0870
 
 8. 관련 인물 - 한명식 (독립운동가 동지)    
 http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001  
-한명식(韓明植) 1917. 2. 13~1963. 7. 10    
+한명식(韓明植) 1917. 2. 13`~`1963. 7. 10    
 1932년 12월경부터 충남 아산에서 [이선준](http://search.i815.or.kr/Indeman/IndemanView.jsp?sT=3&tid=ma&set_id=66138&total_df=1&pos=0&query=S.ALL:%EC%9D%B4%EC%84%A0%EC%A4%80#)(李銑濬)과 일제의 압제에서 벗어나 독립하기 위해 청년들이 중심이 되어야 한다고 생각했다.   
 1934 년 1월 21일 및 3월 25일경 2회에 걸쳐 만주국 봉천성에 거주하는 배기동(裵奇童)에게 ‘조선을 독립시킬 용사가 되어 달라’는 취지의 편지를 발송했고, 여름에는 충남 예산농업학교 학생 김한태(金漢台)에게, ‘조선을 재건함은 우리들 청년의 책임이니 조선과 동포를 위해 노력하라’는 취지의 편지를 보냈다. 10월중, 예산농업학교 학생 신상철(申相澈)에게 ‘내선융화라든가 자력갱생 농촌진흥 등을 고창하는 반면 탄압정치는 매일 매일 신성한 조선을 일본 놈들에게 빼앗기고 가만히 있을 것인가. 크게 분기하여 조선독립의 용사가 되자’라는 내용의 편지를 보냈으며, 같은 달에 서울 휘문고등보통학교 학생 정헌갑(鄭憲甲)에게, ‘나날이 피폐해 가는 조선과 기아에 우는 동포를 위하여 우리들의 손으로 조선의 독립을 기도하자’라는 취지의 편지를 발송하였다. 또한 11월중에는 충남 아산 거주 조재선(趙載善)에게, ‘자력갱생 농촌진흥운동은 전부 가면정책에 불과하다. 이 감언에 속지 말고 조선독립을 위하여 크게 분기 하자’라는 내용의 편지를 보냈다.   
 1934년 12월에는 일왕의 권위를 부정하는 엽서 연하장 2매를 제작하여 일왕을 폄하하는 등 일제를 부정하는 활동을 하다가 1935년 2월경 홍성경찰서에 체포되었다.   
@@ -188,7 +188,7 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NzM3NjM0OCwyNzYxNTg4MSwtMTE4NT
+eyJoaXN0b3J5IjpbLTEwOTU4MzI1NiwyNzYxNTg4MSwtMTE4NT
 k0MDcyLC0xODA2NDEzMzQzLC0xMzgxOTkyNjI0LDE1MDYyODI3
 OTUsMTQxNjk5ODIxNywxMzk0MDUwMDUwLDgwNzQwMjM2NiwtND
 A3MTI0NTQzLC05MTU1ODg4ODUsMTU2MDEyNTY0LC0xMTkyNDIz
