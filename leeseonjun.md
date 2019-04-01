@@ -108,11 +108,12 @@ http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&fl
 ![](https://github.com/shevious/etc/blob/master/screenshots/screen-1933-2.png?raw=true)
 
 3. 집행원부 - 3건  
-http://theme.archives.go.kr/next/indy/listkeywordSearch.do  
+[http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=3&actionFlag=det&keyword=%EC%9D%B4%EC%84%A0%EC%A4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=](http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=3&actionFlag=det&keyword=%EC%9D%B4%EC%84%A0%EC%A4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=)   
 ![](https://github.com/shevious/etc/blob/master/screenshots/screen-1933-1935.png?raw=true)
 
 4. 형사사건부 - 4건
-http://theme.archives.go.kr/next/indy/listkeywordSearch.do   
+[http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=4&actionFlag=det&keyword=%EC%9D%B4%EC%84%A0%EC%A4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=](http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=4&actionFlag=det&keyword=%EC%9D%B4%EC%84%A0%EC%A4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=)  
+
 
 5. 동아일보 기사 - 1935년 9월 19일
 https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edtNo=2&printCount=1&publishDate=1935-09-19&officeId=00020&pageNo=2&printNo=5317&publishType=00020  
@@ -206,11 +207,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzU4MDE2OCwxNTA2MjgyNzk1LDE0MT
-Y5OTgyMTcsMTM5NDA1MDA1MCw4MDc0MDIzNjYsLTQwNzEyNDU0
-MywtOTE1NTg4ODg1LDE1NjAxMjU2NCwtMTE5MjQyMzAwMiwtOD
-M4OTg2MjksLTIyNzQwNTIwLC0yNzkxOTU4MjUsMTMxNDI4NTY1
-OSwtMTEzNTMyMDA0MiwxNzMzNDk1Mzk1LDEwNjk4ODQxMTAsLT
-E3OTE1MjcxOTAsMTU2NzU2MjYyMywtMTk2MzAxMjY5Miw1NTMw
-MTM4MTddfQ==
+eyJoaXN0b3J5IjpbODQ4ODAxOTU4LDE1MDYyODI3OTUsMTQxNj
+k5ODIxNywxMzk0MDUwMDUwLDgwNzQwMjM2NiwtNDA3MTI0NTQz
+LC05MTU1ODg4ODUsMTU2MDEyNTY0LC0xMTkyNDIzMDAyLC04Mz
+g5ODYyOSwtMjI3NDA1MjAsLTI3OTE5NTgyNSwxMzE0Mjg1NjU5
+LC0xMTM1MzIwMDQyLDE3MzM0OTUzOTUsMTA2OTg4NDExMCwtMT
+c5MTUyNzE5MCwxNTY3NTYyNjIzLC0xOTYzMDEyNjkyLDU1MzAx
+MzgxN119
 -->
