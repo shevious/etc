@@ -171,12 +171,13 @@ http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001
 **[출처]** [도고 청년 한명식 일본천황을 조롱하고 징역 1년](https://blog.naver.com/ekrhr/150111922001)|**작성자** [찬짱빠](https://blog.naver.com/ekrhr) 
 
 9. 독립운동사자료집 - 14. 대중투쟁사자료집
+[http://e-gonghun.mpva.go.kr](http://e-gonghun.mpva.go.kr/)   
 대중투쟁운동 재판기록: 894쪽~899쪽   
 ○ 1935년 판결문 개제
 농민운동일지:  263쪽  
 ○ 1935.9.17. 충남 아산(牙山)에서 농민조합을 조직하여 사상운동을 하였다는 혐의로 체포되었던 **이선준**(**李銑濬**) 등 3명에 대한 공소공판이 경성복심법원에서 개정되었는데 1심과 같이 **이선준**은 징역 2년, 한명식(韓明植)은 징역 1년, 송창섭(宋昌燮)은 징역 8월이 언도되다.  
 
-10. 일제경찰 심문 조서: 1934년도 이후의 주요사건 검거(치안정황 [경기도, 1935년])  
+11. 일제경찰 심문 조서: 1934년도 이후의 주요사건 검거(치안정황 [경기도, 1935년])  
 http://search.i815.or.kr/subService.do  
 이선준 검색 => 마이크로필름자료 => 일제경찰심문조서  
 
@@ -186,11 +187,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY0MTMzNDMsLTEzODE5OTI2MjQsMT
-UwNjI4Mjc5NSwxNDE2OTk4MjE3LDEzOTQwNTAwNTAsODA3NDAy
-MzY2LC00MDcxMjQ1NDMsLTkxNTU4ODg4NSwxNTYwMTI1NjQsLT
-ExOTI0MjMwMDIsLTgzODk4NjI5LC0yMjc0MDUyMCwtMjc5MTk1
-ODI1LDEzMTQyODU2NTksLTExMzUzMjAwNDIsMTczMzQ5NTM5NS
-wxMDY5ODg0MTEwLC0xNzkxNTI3MTkwLDE1Njc1NjI2MjMsLTE5
-NjMwMTI2OTJdfQ==
+eyJoaXN0b3J5IjpbLTExODU5NDA3MiwtMTgwNjQxMzM0MywtMT
+M4MTk5MjYyNCwxNTA2MjgyNzk1LDE0MTY5OTgyMTcsMTM5NDA1
+MDA1MCw4MDc0MDIzNjYsLTQwNzEyNDU0MywtOTE1NTg4ODg1LD
+E1NjAxMjU2NCwtMTE5MjQyMzAwMiwtODM4OTg2MjksLTIyNzQw
+NTIwLC0yNzkxOTU4MjUsMTMxNDI4NTY1OSwtMTEzNTMyMDA0Mi
+wxNzMzNDk1Mzk1LDEwNjk4ODQxMTAsLTE3OTE1MjcxOTAsMTU2
+NzU2MjYyM119
 -->
