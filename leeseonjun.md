@@ -115,7 +115,7 @@ http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&fl
 [http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=4&actionFlag=det&keyword=%EC%9D%B4%EC%84%A0%EC%A4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=](http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=4&actionFlag=det&keyword=%EC%9D%B4%EC%84%A0%EC%A4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=)  
 ![](https://github.com/shevious/etc/blob/master/screenshots/screen-1933-1935-2.png?raw=true)
 
-5. 동아일보 기사 - 1935년 9월 19일
+5. 동아일보 기사 - 1935년 9월 19일  
 https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edtNo=2&printCount=1&publishDate=1935-09-19&officeId=00020&pageNo=2&printNo=5317&publishType=00020  
 아산적농사건  
 친지들에게 공산주의를 선전하는 한편으로 불경의 내용을 포함한 그림을 그렸다는 사실로 작년 11월 초순경에 공주지방법원에서 징역8개월의 언도를 받고 즉시 불복 공소한 충남 아산군 도고면 향산리에 사는 이선준 등 3명에 관한 치안유지법 위반과 불경죄 등에 관한 언도 공판은 17일 오후에 경성 복심법원 형사부 법정에서 개정되었는데 이케다 재판장으로부터 1심판결과 같이 각 피고인들에게 언도하였다.  
@@ -124,13 +124,13 @@ https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edt
 한명식(19세) 징역1년  
 송창섭(21세) 징역8월
 
-6. 조선중앙일보 - 1935년 9월 12일
+6. 조선중앙일보 - 1935년 9월 12일  
 http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_12_x0002_0740  
 
-7. 조선중앙일보 - 1935년 9월 19일
+7. 조선중앙일보 - 1935년 9월 19일  
 http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_19_x0002_0870  
 
-8. 관련 인물 - 한명식 (독립운동가 동지)  
+8. 관련 인물 - 한명식 (독립운동가 동지)    
 http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001  
 한명식(韓明植) 1917. 2. 13~1963. 7. 10    
 1932년 12월경부터 충남 아산에서 [이선준](http://search.i815.or.kr/Indeman/IndemanView.jsp?sT=3&tid=ma&set_id=66138&total_df=1&pos=0&query=S.ALL:%EC%9D%B4%EC%84%A0%EC%A4%80#)(李銑濬)과 일제의 압제에서 벗어나 독립하기 위해 청년들이 중심이 되어야 한다고 생각했다.   
@@ -168,7 +168,7 @@ http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001
 이러한 행위는 일제 관헌에게는 ‘천황의 존엄을 모독하는 불경죄(不敬罪)를 저지른 행위’로 판단되었다. 군국주의 국가 일본에서 ‘천황’은 국가를 초월한 존재였다. 모든 침략전쟁은 ‘천황’의 명으로 자행되었다.  
 한국에 대한 일제의 비인간적인 만행과 침략전쟁 등 온갖 불의를 저지른 모든 책임자는 ‘천황’이었다. 19세의 도고 청년 한명식은 ‘천황’이 식민지 침략과 약탈의 원흉임을 너무나 잘 알고 있었다. 그러기에 자신 앞에 ‘일왕’을 굴복시키는 젊은이다운 기발한 상상력을 발휘하여 민족적 자존심과 독립에 대한 희망을 확인했던 것이다.    
 이로 인해 한명식은 ‘보안법 위반 및 불경죄’로 징역 1년을 선고받고 일제의 감옥에서 옥고를 치른 후 1936년 9월 출옥하였다. 정부에서는 그의 공훈을 기려 2008년 건국훈장 애족장을 추서하였다.  
-**[출처]** [도고 청년 한명식 일본천황을 조롱하고 징역 1년](https://blog.naver.com/ekrhr/150111922001)|**작성자** [찬짱빠](https://blog.naver.com/ekrhr) 
+**[출처]** [도고 청년 한명식 일본천황을 조롱하고 징역 1년](https://blog.naver.com/ekrhr/150111922001)|**작성자** [ekrhr](https://blog.naver.com/ekrhr) 
 
 9. 독립운동사자료집 - 14. 대중투쟁사자료집
 [http://e-gonghun.mpva.go.kr](http://e-gonghun.mpva.go.kr/)   
@@ -187,11 +187,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODU5NDA3MiwtMTgwNjQxMzM0MywtMT
-M4MTk5MjYyNCwxNTA2MjgyNzk1LDE0MTY5OTgyMTcsMTM5NDA1
-MDA1MCw4MDc0MDIzNjYsLTQwNzEyNDU0MywtOTE1NTg4ODg1LD
-E1NjAxMjU2NCwtMTE5MjQyMzAwMiwtODM4OTg2MjksLTIyNzQw
-NTIwLC0yNzkxOTU4MjUsMTMxNDI4NTY1OSwtMTEzNTMyMDA0Mi
-wxNzMzNDk1Mzk1LDEwNjk4ODQxMTAsLTE3OTE1MjcxOTAsMTU2
-NzU2MjYyM119
+eyJoaXN0b3J5IjpbMTIxNDYxMDMwNywtMTE4NTk0MDcyLC0xOD
+A2NDEzMzQzLC0xMzgxOTkyNjI0LDE1MDYyODI3OTUsMTQxNjk5
+ODIxNywxMzk0MDUwMDUwLDgwNzQwMjM2NiwtNDA3MTI0NTQzLC
+05MTU1ODg4ODUsMTU2MDEyNTY0LC0xMTkyNDIzMDAyLC04Mzg5
+ODYyOSwtMjI3NDA1MjAsLTI3OTE5NTgyNSwxMzE0Mjg1NjU5LC
+0xMTM1MzIwMDQyLDE3MzM0OTUzOTUsMTA2OTg4NDExMCwtMTc5
+MTUyNzE5MF19
 -->
