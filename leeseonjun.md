@@ -96,9 +96,10 @@ http://lawqa.jinbo.net/xe/?mid=board403&document_srl=1192774
 # 공적입증자료
 
 1. 판결문  - 2건
-1933년 징역1년
+1933년 징역1년 선고
 http://theme.archives.go.kr/next/indy/viewIndyDetail.do?archiveId=0001165142&evntId=&actionType=name&indpnId=0000135654&actionType=det&flag=4  
-1935년 징역 2년  
+상세자료: 별첨1  
+1935년 징역2년  선고
 http://theme.archives.go.kr/next/indy/listkeywordSearch.do  
  
 2. 수형인명부 - 1건
@@ -203,10 +204,10 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3NDAyMzY2LC00MDcxMjQ1NDMsLTkxNT
-U4ODg4NSwxNTYwMTI1NjQsLTExOTI0MjMwMDIsLTgzODk4NjI5
-LC0yMjc0MDUyMCwtMjc5MTk1ODI1LDEzMTQyODU2NTksLTExMz
-UzMjAwNDIsMTczMzQ5NTM5NSwxMDY5ODg0MTEwLC0xNzkxNTI3
-MTkwLDE1Njc1NjI2MjMsLTE5NjMwMTI2OTIsNTUzMDEzODE3XX
-0=
+eyJoaXN0b3J5IjpbMTM5NDA1MDA1MCw4MDc0MDIzNjYsLTQwNz
+EyNDU0MywtOTE1NTg4ODg1LDE1NjAxMjU2NCwtMTE5MjQyMzAw
+MiwtODM4OTg2MjksLTIyNzQwNTIwLC0yNzkxOTU4MjUsMTMxND
+I4NTY1OSwtMTEzNTMyMDA0MiwxNzMzNDk1Mzk1LDEwNjk4ODQx
+MTAsLTE3OTE1MjcxOTAsMTU2NzU2MjYyMywtMTk2MzAxMjY5Mi
+w1NTMwMTM4MTddfQ==
 -->
