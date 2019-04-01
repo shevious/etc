@@ -107,14 +107,14 @@ http://theme.archives.go.kr/next/indy/viewIndyDetail.do?archiveId=0001165142&evn
 http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=2&actionFlag=det&keyword=%ec%9d%b4%ec%84%a0%ec%a4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=   
 ![](https://github.com/shevious/etc/blob/master/screenshots/screen-1933-2.png?raw=true)
 
-3. 집행원부 - 1건  
+3. 집행원부 - 3건  
 http://theme.archives.go.kr/next/indy/listkeywordSearch.do  
+![](https://github.com/shevious/etc/blob/master/screenshots/screen-1933-1935.png?raw=true)
 
-4. 형사사건부 - 1건
+4. 형사사건부 - 4건
 http://theme.archives.go.kr/next/indy/listkeywordSearch.do   
 
 5. 동아일보 기사 - 1935년 9월 19일
-
 https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edtNo=2&printCount=1&publishDate=1935-09-19&officeId=00020&pageNo=2&printNo=5317&publishType=00020  
 아산적농사건  
 친지들에게 공산주의를 선전하는 한편으로 불경의 내용을 포함한 그림을 그렸다는 사실로 작년 11월 초순경에 공주지방법원에서 징역8개월의 언도를 받고 즉시 불복 공소한 충남 아산군 도고면 향산리에 사는 이선준 등 3명에 관한 치안유지법 위반과 불경죄 등에 관한 언도 공판은 17일 오후에 경성 복심법원 형사부 법정에서 개정되었는데 이케다 재판장으로부터 1심판결과 같이 각 피고인들에게 언도하였다.  
@@ -206,10 +206,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjI4Mjc5NSwxNDE2OTk4MjE3LDEzOT
-QwNTAwNTAsODA3NDAyMzY2LC00MDcxMjQ1NDMsLTkxNTU4ODg4
-NSwxNTYwMTI1NjQsLTExOTI0MjMwMDIsLTgzODk4NjI5LC0yMj
-c0MDUyMCwtMjc5MTk1ODI1LDEzMTQyODU2NTksLTExMzUzMjAw
-NDIsMTczMzQ5NTM5NSwxMDY5ODg0MTEwLC0xNzkxNTI3MTkwLD
-E1Njc1NjI2MjMsLTE5NjMwMTI2OTIsNTUzMDEzODE3XX0=
+eyJoaXN0b3J5IjpbLTYwMzU4MDE2OCwxNTA2MjgyNzk1LDE0MT
+Y5OTgyMTcsMTM5NDA1MDA1MCw4MDc0MDIzNjYsLTQwNzEyNDU0
+MywtOTE1NTg4ODg1LDE1NjAxMjU2NCwtMTE5MjQyMzAwMiwtOD
+M4OTg2MjksLTIyNzQwNTIwLC0yNzkxOTU4MjUsMTMxNDI4NTY1
+OSwtMTEzNTMyMDA0MiwxNzMzNDk1Mzk1LDEwNjk4ODQxMTAsLT
+E3OTE1MjcxOTAsMTU2NzU2MjYyMywtMTk2MzAxMjY5Miw1NTMw
+MTM4MTddfQ==
 -->
