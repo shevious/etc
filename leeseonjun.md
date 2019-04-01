@@ -99,9 +99,11 @@ http://lawqa.jinbo.net/xe/?mid=board403&document_srl=1192774
 1933년 징역1년 선고
 http://theme.archives.go.kr/next/indy/viewIndyDetail.do?archiveId=0001165142&evntId=&actionType=name&indpnId=0000135654&actionType=det&flag=4  
 ![](https://github.com/shevious/etc/blob/master/screenshots/screen-1933.png?raw=true)  
-상세자료: 별첨1  
+
 1935년 징역2년  선고
-http://theme.archives.go.kr/next/indy/listkeywordSearch.do  
+[http://theme.archives.go.kr/next/indy/viewIndyDetail.do?archiveId=0001351796&evntId=0034982771&evntdowngbn=Y&indpnId=0000014393&actionType=nam&flag=1&search_region=](http://theme.archives.go.kr/next/indy/viewIndyDetail.do?archiveId=0001351796&evntId=0034982771&evntdowngbn=Y&indpnId=0000014393&actionType=nam&flag=1&search_region=)  
+상세자료: 별첨1  
+
  
 2. 수형인명부 - 1건
 http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=2&actionFlag=det&keyword=%ec%9d%b4%ec%84%a0%ec%a4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=   
@@ -205,10 +207,10 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjk5ODIxNywxMzk0MDUwMDUwLDgwNz
-QwMjM2NiwtNDA3MTI0NTQzLC05MTU1ODg4ODUsMTU2MDEyNTY0
-LC0xMTkyNDIzMDAyLC04Mzg5ODYyOSwtMjI3NDA1MjAsLTI3OT
-E5NTgyNSwxMzE0Mjg1NjU5LC0xMTM1MzIwMDQyLDE3MzM0OTUz
-OTUsMTA2OTg4NDExMCwtMTc5MTUyNzE5MCwxNTY3NTYyNjIzLC
-0xOTYzMDEyNjkyLDU1MzAxMzgxN119
+eyJoaXN0b3J5IjpbMTE2OTQyMzI4OSwxNDE2OTk4MjE3LDEzOT
+QwNTAwNTAsODA3NDAyMzY2LC00MDcxMjQ1NDMsLTkxNTU4ODg4
+NSwxNTYwMTI1NjQsLTExOTI0MjMwMDIsLTgzODk4NjI5LC0yMj
+c0MDUyMCwtMjc5MTk1ODI1LDEzMTQyODU2NTksLTExMzUzMjAw
+NDIsMTczMzQ5NTM5NSwxMDY5ODg0MTEwLC0xNzkxNTI3MTkwLD
+E1Njc1NjI2MjMsLTE5NjMwMTI2OTIsNTUzMDEzODE3XX0=
 -->
