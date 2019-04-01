@@ -124,8 +124,6 @@ https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edt
 한명식(19세) 징역1년  
 송창섭(21세) 징역8월
 
-
-
 6. 조선중앙일보 - 1935년 9월 12일
 http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_12_x0002_0740  
 
@@ -173,6 +171,7 @@ http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001
 **[출처]** [도고 청년 한명식 일본천황을 조롱하고 징역 1년](https://blog.naver.com/ekrhr/150111922001)|**작성자** [찬짱빠](https://blog.naver.com/ekrhr) 
 
 9. 독립운동사자료집 - 14. 대중투쟁사자료집
+894쪽~899쪽  
 
 10. 일제경찰 심문 조서: 1934년도 이후의 주요사건 검거(치안정황 [경기도, 1935년])  
 http://search.i815.or.kr/subService.do  
@@ -184,11 +183,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODE5OTI2MjQsMTUwNjI4Mjc5NSwxND
-E2OTk4MjE3LDEzOTQwNTAwNTAsODA3NDAyMzY2LC00MDcxMjQ1
-NDMsLTkxNTU4ODg4NSwxNTYwMTI1NjQsLTExOTI0MjMwMDIsLT
-gzODk4NjI5LC0yMjc0MDUyMCwtMjc5MTk1ODI1LDEzMTQyODU2
-NTksLTExMzUzMjAwNDIsMTczMzQ5NTM5NSwxMDY5ODg0MTEwLC
-0xNzkxNTI3MTkwLDE1Njc1NjI2MjMsLTE5NjMwMTI2OTIsNTUz
-MDEzODE3XX0=
+eyJoaXN0b3J5IjpbLTE4NzkxNjYyNTksLTEzODE5OTI2MjQsMT
+UwNjI4Mjc5NSwxNDE2OTk4MjE3LDEzOTQwNTAwNTAsODA3NDAy
+MzY2LC00MDcxMjQ1NDMsLTkxNTU4ODg4NSwxNTYwMTI1NjQsLT
+ExOTI0MjMwMDIsLTgzODk4NjI5LC0yMjc0MDUyMCwtMjc5MTk1
+ODI1LDEzMTQyODU2NTksLTExMzUzMjAwNDIsMTczMzQ5NTM5NS
+wxMDY5ODg0MTEwLC0xNzkxNTI3MTkwLDE1Njc1NjI2MjMsLTE5
+NjMwMTI2OTJdfQ==
 -->
