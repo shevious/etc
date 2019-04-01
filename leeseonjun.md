@@ -113,7 +113,7 @@ http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&fl
 
 4. 형사사건부 - 4건
 [http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=4&actionFlag=det&keyword=%EC%9D%B4%EC%84%A0%EC%A4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=](http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=4&actionFlag=det&keyword=%EC%9D%B4%EC%84%A0%EC%A4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=)  
-
+![](https://github.com/shevious/etc/blob/master/screenshots/screen-1933-1935-2.png?raw=true)
 
 5. 동아일보 기사 - 1935년 9월 19일
 https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edtNo=2&printCount=1&publishDate=1935-09-19&officeId=00020&pageNo=2&printNo=5317&publishType=00020  
@@ -152,10 +152,6 @@ http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001
 ·한민족독립운동사자료집(국사편찬위원회) 제14권 264면
 
 도고 청년 한명식 일본 ‘천황’을 조롱하다  
-  
-
-[![](http://www.ionyang.com/data/newsThumb/1308719454&&ADD.thumb430)](https://blog.naver.com/javascript<x/>:img_view('5520'))
-
 ![](https://dthumb-phinf.pstatic.net/?src=%22http%3A%2F%2Fwww.ionyang.com%2Fdefault%2Fimg%2Fmain%2Fbg.gif%22&type=m10000_10000)
 
 ↑↑ 김도형/한국독립운동사연구소 선임연구위원
@@ -183,16 +179,11 @@ http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001
 이와 같이 한명식은 일제 식민정책에 반대하고 민족독립을 일깨우는 서한을 친우들에게 보내다가 일제에 피체되어 재판을 받게 되었다. 한명식의 ‘판결문’ 속에는 19세의 청소년답게 조금 치기가 넘치기는 하지만, 그가 일제의 식민통치를 얼마나 미워했는가를 알 수 있는 재미있는 행위도 하였다는 것을 알 수 있다.  
   
 그는 “일본 천황폐하는 조선민족의 원수이므로 존경할 것 없다”라고 하고, 연하장 용지 두 장을 가지고 한 장에는 위쪽에 ‘충남 아산군 경산리’라고 쓰고, 중앙에는 ‘한명식군’, 좌측 하단에는 ‘동경궁성(東京宮城) 히로히토(裕仁) 배(拜)’라고 썼다. 그리고 나머지 한 장에는 좌측에 ‘충남 아산군 도고면 경산리’ 중앙 상단에는 ‘한명식 각하’ 좌측 하단에는 ‘동경궁성 히로히토 천황 배’라고 하였다.  
-  
-일본 궁궐에 사는 히로히토라는 평범한 사람이 한명식이라는 왕에게 절하면서 새해를 축원하는 연하장이었다. 그는 ‘일왕’ 히로히토를 자신 앞에 무릎을 꿇리고 배례하게 하는 상상을 통해 ‘일왕’을 조롱하였던 것이다.  
-  
+일본 궁궐에 사는 히로히토라는 평범한 사람이 한명식이라는 왕에게 절하면서 새해를 축원하는 연하장이었다. 그는 ‘일왕’ 히로히토를 자신 앞에 무릎을 꿇리고 배례하게 하는 상상을 통해 ‘일왕’을 조롱하였던 것이다.    
 온갖 불의의 책임과 ‘천황’에 항거  
 이러한 행위는 일제 관헌에게는 ‘천황의 존엄을 모독하는 불경죄(不敬罪)를 저지른 행위’로 판단되었다. 군국주의 국가 일본에서 ‘천황’은 국가를 초월한 존재였다. 모든 침략전쟁은 ‘천황’의 명으로 자행되었다.  
-  
-한국에 대한 일제의 비인간적인 만행과 침략전쟁 등 온갖 불의를 저지른 모든 책임자는 ‘천황’이었다. 19세의 도고 청년 한명식은 ‘천황’이 식민지 침략과 약탈의 원흉임을 너무나 잘 알고 있었다. 그러기에 자신 앞에 ‘일왕’을 굴복시키는 젊은이다운 기발한 상상력을 발휘하여 민족적 자존심과 독립에 대한 희망을 확인했던 것이다.  
-  
-이로 인해 한명식은 ‘보안법 위반 및 불경죄’로 징역 1년을 선고받고 일제의 감옥에서 옥고를 치른 후 1936년 9월 출옥하였다. 정부에서는 그의 공훈을 기려 2008년 건국훈장 애족장을 추서하였다.
-
+한국에 대한 일제의 비인간적인 만행과 침략전쟁 등 온갖 불의를 저지른 모든 책임자는 ‘천황’이었다. 19세의 도고 청년 한명식은 ‘천황’이 식민지 침략과 약탈의 원흉임을 너무나 잘 알고 있었다. 그러기에 자신 앞에 ‘일왕’을 굴복시키는 젊은이다운 기발한 상상력을 발휘하여 민족적 자존심과 독립에 대한 희망을 확인했던 것이다.    
+이로 인해 한명식은 ‘보안법 위반 및 불경죄’로 징역 1년을 선고받고 일제의 감옥에서 옥고를 치른 후 1936년 9월 출옥하였다. 정부에서는 그의 공훈을 기려 2008년 건국훈장 애족장을 추서하였다.  
 **[출처]** [도고 청년 한명식 일본천황을 조롱하고 징역 1년](https://blog.naver.com/ekrhr/150111922001)|**작성자** [찬짱빠](https://blog.naver.com/ekrhr) 
 
 9. 독립운동사자료집 - 14. 대중투쟁사자료집
@@ -207,7 +198,7 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4ODAxOTU4LDE1MDYyODI3OTUsMTQxNj
+eyJoaXN0b3J5IjpbOTI0MDE3MTk4LDE1MDYyODI3OTUsMTQxNj
 k5ODIxNywxMzk0MDUwMDUwLDgwNzQwMjM2NiwtNDA3MTI0NTQz
 LC05MTU1ODg4ODUsMTU2MDEyNTY0LC0xMTkyNDIzMDAyLC04Mz
 g5ODYyOSwtMjI3NDA1MjAsLTI3OTE5NTgyNSwxMzE0Mjg1NjU5
