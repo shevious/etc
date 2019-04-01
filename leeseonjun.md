@@ -171,7 +171,7 @@ http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001
 이로 인해 한명식은 ‘보안법 위반 및 불경죄’로 징역 1년을 선고받고 일제의 감옥에서 옥고를 치른 후 1936년 9월 출옥하였다. 정부에서는 그의 공훈을 기려 2008년 건국훈장 애족장을 추서하였다.  
 **[출처]** [도고 청년 한명식 일본천황을 조롱하고 징역 1년](https://blog.naver.com/ekrhr/150111922001)|**작성자** [ekrhr](https://blog.naver.com/ekrhr) 
 
-9. 독립운동사자료집 - 14. 대중투쟁사자료집
+9. 독립운동사자료집 - 14. 대중투쟁사자료집  
 [http://e-gonghun.mpva.go.kr](http://e-gonghun.mpva.go.kr/)   
 대중투쟁운동 재판기록: 894쪽~899쪽   
 ○ 1935년 판결문 개제
@@ -182,17 +182,17 @@ http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001
 http://search.i815.or.kr/subService.do  
 이선준 검색 => 마이크로필름자료 => 일제경찰심문조서  
 
-12. 사상휘보 - 제13호
-http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060  
+12. 사상휘보 - 제13호  
+http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060   
 在京鮮人轉向者の情況(昭和十二年十一月現在)  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyMzA1NDkxLDI3NjE1ODgxLC0xMTg1OT
-QwNzIsLTE4MDY0MTMzNDMsLTEzODE5OTI2MjQsMTUwNjI4Mjc5
-NSwxNDE2OTk4MjE3LDEzOTQwNTAwNTAsODA3NDAyMzY2LC00MD
-cxMjQ1NDMsLTkxNTU4ODg4NSwxNTYwMTI1NjQsLTExOTI0MjMw
-MDIsLTgzODk4NjI5LC0yMjc0MDUyMCwtMjc5MTk1ODI1LDEzMT
-QyODU2NTksLTExMzUzMjAwNDIsMTczMzQ5NTM5NSwxMDY5ODg0
-MTEwXX0=
+eyJoaXN0b3J5IjpbMTUzMDMzODI1MSwyNzYxNTg4MSwtMTE4NT
+k0MDcyLC0xODA2NDEzMzQzLC0xMzgxOTkyNjI0LDE1MDYyODI3
+OTUsMTQxNjk5ODIxNywxMzk0MDUwMDUwLDgwNzQwMjM2NiwtND
+A3MTI0NTQzLC05MTU1ODg4ODUsMTU2MDEyNTY0LC0xMTkyNDIz
+MDAyLC04Mzg5ODYyOSwtMjI3NDA1MjAsLTI3OTE5NTgyNSwxMz
+E0Mjg1NjU5LC0xMTM1MzIwMDQyLDE3MzM0OTUzOTUsMTA2OTg4
+NDExMF19
 -->
