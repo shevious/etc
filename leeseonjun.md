@@ -186,7 +186,7 @@ http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&fl
 https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edtNo=2&printCount=1&publishDate=1935-09-19&officeId=00020&pageNo=2&printNo=5317&publishType=00020  
 아산적농사건  
 친지들에게 공산주의를 선전하는 한편으로 불경의 내용을 포함한 그림을 그렸다는 사실로 작년 11월 초순경에 공주지방법원에서 징역8개월의 언도를 받고 즉시 불복 공소한 충남 아산군 도고면 향산리에 사는 이선준 등 3명에 관한 치안유지법 위반과 불경죄 등에 관한 언도 공판은 17일 오후에 경성 복심법원 형사부 법정에서 개정되었는데 이케다 재판장으로부터 1심판결과 같이 각 피고인들에게 언도하였다.  
-피고들의 범행사실은 재작년 12월 경에 그들은 향리인 아산에다 아산적색농민조합을 조짖ㄱ하고 작년1월경까지 수차에 긍한 비밀회합이 있게 되었다. 그 때마다 동무들에게 공산주의를 선전하며 차후 운동방침에 대하야 토의하게 되었으며 불경의 내용이 포함한 그림을 그려가지고 피고 이선준의 집 방벽에다 붙여놓는 등 이외에 민족주의 사상을 고취하야 여러 방면으로 동지를 획득하려고 노력하던 사건이라는데 피고인들에 대한 언도는 다음과 같다
+피고들의 범행사실은 재작년 12월 경에 그들은 향리인 아산에다 아산적색농민조합을 조직하고 작년1월경까지 수차에 긍한 비밀회합이 있게 되었다. 그 때마다 동무들에게 공산주의를 선전하며 차후 운동방침에 대하야 토의하게 되었으며 불경의 내용이 포함한 그림을 그려가지고 피고 이선준의 집 방벽에다 붙여놓는 등 이외에 민족주의 사상을 고취하야 여러 방면으로 동지를 획득하려고 노력하던 사건이라는데 피고인들에 대한 언도는 다음과 같다
 이선준(25세) 징역2년  
 한명식(19세) 징역1년  
 송창섭(21세) 징역8월
@@ -255,11 +255,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTI1NzQ1MzEsMTM1Njg5NzQwOCwyMT
-QzNjA2Mjc3LDE1MzAzMzgyNTEsMjc2MTU4ODEsLTExODU5NDA3
-MiwtMTgwNjQxMzM0MywtMTM4MTk5MjYyNCwxNTA2MjgyNzk1LD
-E0MTY5OTgyMTcsMTM5NDA1MDA1MCw4MDc0MDIzNjYsLTQwNzEy
-NDU0MywtOTE1NTg4ODg1LDE1NjAxMjU2NCwtMTE5MjQyMzAwMi
-wtODM4OTg2MjksLTIyNzQwNTIwLC0yNzkxOTU4MjUsMTMxNDI4
-NTY1OV19
+eyJoaXN0b3J5IjpbLTEyNTc4NzkxOTcsLTEzNTI1NzQ1MzEsMT
+M1Njg5NzQwOCwyMTQzNjA2Mjc3LDE1MzAzMzgyNTEsMjc2MTU4
+ODEsLTExODU5NDA3MiwtMTgwNjQxMzM0MywtMTM4MTk5MjYyNC
+wxNTA2MjgyNzk1LDE0MTY5OTgyMTcsMTM5NDA1MDA1MCw4MDc0
+MDIzNjYsLTQwNzEyNDU0MywtOTE1NTg4ODg1LDE1NjAxMjU2NC
+wtMTE5MjQyMzAwMiwtODM4OTg2MjksLTIyNzQwNTIwLC0yNzkx
+OTU4MjVdfQ==
 -->
