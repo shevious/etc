@@ -183,12 +183,13 @@ http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&fl
 [http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=4&actionFlag=det&keyword=%EC%9D%B4%EC%84%A0%EC%A4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=](http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=4&actionFlag=det&keyword=%EC%9D%B4%EC%84%A0%EC%A4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=)  
 ![](https://github.com/shevious/etc/blob/master/screenshots/screen-1933-1935-2.png?raw=true)
 
-5. 조선중앙일보 - 1935년 5월
+5. 조선중앙일보 - 1935년 5월 6일
 
-5. 매일신보 기사 - 1935년 9월 19일
+
+7. 매일신보 기사 - 1935년 9월 19일
 ![](https://github.com/shevious/etc/blob/master/screenshots/maeil-19350919.png?raw=true)
 
-6. 동아일보 기사 - 1935년 9월 19일  
+8. 동아일보 기사 - 1935년 9월 19일  
 https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edtNo=2&printCount=1&publishDate=1935-09-19&officeId=00020&pageNo=2&printNo=5317&publishType=00020  
 아산적농사건  
 친지들에게 공산주의를 선전하는 한편으로 불경의 내용을 포함한 그림을 그렸다는 사실로 작년 11월 초순경에 공주지방법원에서 징역8개월의 언도를 받고 즉시 불복 공소한 충남 아산군 도고면 향산리에 사는 이선준 등 3명에 관한 치안유지법 위반과 불경죄 등에 관한 언도 공판은 17일 오후에 경성 복심법원 형사부 법정에서 개정되었는데 이케다 재판장으로부터 1심판결과 같이 각 피고인들에게 언도하였다.  
@@ -197,15 +198,15 @@ https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edt
 한명식(19세) 징역1년  
 송창섭(21세) 징역8월
 
-7. 조선중앙일보 - 1935년 9월 12일   
+9. 조선중앙일보 - 1935년 9월 12일   
 http://lod.nl.go.kr/home/include/lodpopup.jsp?uri=http://lod.nl.go.kr/resource/CNTS-00093608037  
 http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_12_x0002_0740  
 ![](https://github.com/shevious/etc/blob/master/screenshots/chsunjungang-19350912.png?raw=true)
-9. 조선중앙일보 - 1935년 9월 19일  
+10. 조선중앙일보 - 1935년 9월 19일  
 http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_19_x0002_0870  
 ![](https://github.com/shevious/etc/blob/master/screenshots/chsunjungang-19350919.png?raw=true)
 
-10. 관련 인물 - 한명식 (독립운동가 동지)    
+11. 관련 인물 - 한명식 (독립운동가 동지)    
 http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001  
 한명식(韓明植) 1917. 2. 13-1963. 7. 10    
 1932년 12월경부터 충남 아산에서 [이선준](http://search.i815.or.kr/Indeman/IndemanView.jsp?sT=3&tid=ma&set_id=66138&total_df=1&pos=0&query=S.ALL:%EC%9D%B4%EC%84%A0%EC%A4%80#)(李銑濬)과 일제의 압제에서 벗어나 독립하기 위해 청년들이 중심이 되어야 한다고 생각했다.   
@@ -245,24 +246,24 @@ http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001
 이로 인해 한명식은 ‘보안법 위반 및 불경죄’로 징역 1년을 선고받고 일제의 감옥에서 옥고를 치른 후 1936년 9월 출옥하였다. 정부에서는 그의 공훈을 기려 2008년 건국훈장 애족장을 추서하였다.  
 **[출처]** [도고 청년 한명식 일본천황을 조롱하고 징역 1년](https://blog.naver.com/ekrhr/150111922001)|**작성자** [ekrhr](https://blog.naver.com/ekrhr) 
 
-11. 독립운동사자료집 - 14. 대중투쟁사자료집  
+12. 독립운동사자료집 - 14. 대중투쟁사자료집  
 [http://e-gonghun.mpva.go.kr](http://e-gonghun.mpva.go.kr/)   
 대중투쟁운동 재판기록: 894쪽~899쪽   
 ○ 1935년 판결문 개제
 농민운동일지:  263쪽  
 ○ 1935.9.17. 충남 아산(牙山)에서 농민조합을 조직하여 사상운동을 하였다는 혐의로 체포되었던 **이선준**(**李銑濬**) 등 3명에 대한 공소공판이 경성복심법원에서 개정되었는데 1심과 같이 **이선준**은 징역 2년, 한명식(韓明植)은 징역 1년, 송창섭(宋昌燮)은 징역 8월이 언도되다.  
 
-12. 일제경찰 심문 조서: 1934년도 이후의 주요사건 검거(치안정황 [경기도, 1935년])  
+13. 일제경찰 심문 조서: 1934년도 이후의 주요사건 검거(치안정황 [경기도, 1935년])  
 http://search.i815.or.kr/subService.do  
 이선준 검색 => 마이크로필름자료 => 일제경찰심문조서  
 
-13. 사상휘보 - 제13호  
+14. 사상휘보 - 제13호  
 http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060   
 在京鮮人轉向者の情況(昭和十二年十一月現在)  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwNTc2MjY2LDExNDM1NzcxMSwtNjc0NT
+eyJoaXN0b3J5IjpbMjA0MTgxODc2LDExNDM1NzcxMSwtNjc0NT
 Y3MDEyLC0yNDQ3NTg5NCwtMTI1Nzg3OTE5NywtMTM1MjU3NDUz
 MSwxMzU2ODk3NDA4LDIxNDM2MDYyNzcsMTUzMDMzODI1MSwyNz
 YxNTg4MSwtMTE4NTk0MDcyLC0xODA2NDEzMzQzLC0xMzgxOTky
