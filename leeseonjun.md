@@ -66,6 +66,7 @@
 http://db.history.go.kr/item/level.do?setId=1&itemId=su&synonym=off&chinessChar=on&page=1&pre_page=1&brokerPagingInfo=&position=0&levelId=su_011_1935_09_17_0450  
 
 
+
 사망신고:  
 http://lawqa.jinbo.net/xe/?document_srl=887302  
 http://lawqa.jinbo.net/xe/?mid=board403&document_srl=1192774  
@@ -258,11 +259,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDc1ODk0LC0xMjU3ODc5MTk3LC0xMz
-UyNTc0NTMxLDEzNTY4OTc0MDgsMjE0MzYwNjI3NywxNTMwMzM4
-MjUxLDI3NjE1ODgxLC0xMTg1OTQwNzIsLTE4MDY0MTMzNDMsLT
-EzODE5OTI2MjQsMTUwNjI4Mjc5NSwxNDE2OTk4MjE3LDEzOTQw
-NTAwNTAsODA3NDAyMzY2LC00MDcxMjQ1NDMsLTkxNTU4ODg4NS
-wxNTYwMTI1NjQsLTExOTI0MjMwMDIsLTgzODk4NjI5LC0yMjc0
-MDUyMF19
+eyJoaXN0b3J5IjpbLTY3NDU2NzAxMiwtMjQ0NzU4OTQsLTEyNT
+c4NzkxOTcsLTEzNTI1NzQ1MzEsMTM1Njg5NzQwOCwyMTQzNjA2
+Mjc3LDE1MzAzMzgyNTEsMjc2MTU4ODEsLTExODU5NDA3MiwtMT
+gwNjQxMzM0MywtMTM4MTk5MjYyNCwxNTA2MjgyNzk1LDE0MTY5
+OTgyMTcsMTM5NDA1MDA1MCw4MDc0MDIzNjYsLTQwNzEyNDU0My
+wtOTE1NTg4ODg1LDE1NjAxMjU2NCwtMTE5MjQyMzAwMiwtODM4
+OTg2MjldfQ==
 -->
