@@ -182,7 +182,10 @@ http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&fl
 [http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=4&actionFlag=det&keyword=%EC%9D%B4%EC%84%A0%EC%A4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=](http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=4&actionFlag=det&keyword=%EC%9D%B4%EC%84%A0%EC%A4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=)  
 ![](https://github.com/shevious/etc/blob/master/screenshots/screen-1933-1935-2.png?raw=true)
 
-5. 동아일보 기사 - 1935년 9월 19일  
+5. 매일신보 기사 - 1935년 9월 19일
+![](https://github.com/shevious/etc/blob/master/screenshots/maeil-19350919.png?raw=true)
+
+6. 동아일보 기사 - 1935년 9월 19일  
 https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edtNo=2&printCount=1&publishDate=1935-09-19&officeId=00020&pageNo=2&printNo=5317&publishType=00020  
 아산적농사건  
 친지들에게 공산주의를 선전하는 한편으로 불경의 내용을 포함한 그림을 그렸다는 사실로 작년 11월 초순경에 공주지방법원에서 징역8개월의 언도를 받고 즉시 불복 공소한 충남 아산군 도고면 향산리에 사는 이선준 등 3명에 관한 치안유지법 위반과 불경죄 등에 관한 언도 공판은 17일 오후에 경성 복심법원 형사부 법정에서 개정되었는데 이케다 재판장으로부터 1심판결과 같이 각 피고인들에게 언도하였다.  
@@ -191,14 +194,14 @@ https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edt
 한명식(19세) 징역1년  
 송창섭(21세) 징역8월
 
-6. 조선중앙일보 - 1935년 9월 12일  
+7. 조선중앙일보 - 1935년 9월 12일  
 http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_12_x0002_0740  
 ![](https://github.com/shevious/etc/blob/master/screenshots/chsunjungang-19350912.png?raw=true)
-7. 조선중앙일보 - 1935년 9월 19일  
+8. 조선중앙일보 - 1935년 9월 19일  
 http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_19_x0002_0870  
 ![](https://github.com/shevious/etc/blob/master/screenshots/chsunjungang-19350919.png?raw=true)
 
-8. 관련 인물 - 한명식 (독립운동가 동지)    
+9. 관련 인물 - 한명식 (독립운동가 동지)    
 http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001  
 한명식(韓明植) 1917. 2. 13-1963. 7. 10    
 1932년 12월경부터 충남 아산에서 [이선준](http://search.i815.or.kr/Indeman/IndemanView.jsp?sT=3&tid=ma&set_id=66138&total_df=1&pos=0&query=S.ALL:%EC%9D%B4%EC%84%A0%EC%A4%80#)(李銑濬)과 일제의 압제에서 벗어나 독립하기 위해 청년들이 중심이 되어야 한다고 생각했다.   
@@ -238,7 +241,7 @@ http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001
 이로 인해 한명식은 ‘보안법 위반 및 불경죄’로 징역 1년을 선고받고 일제의 감옥에서 옥고를 치른 후 1936년 9월 출옥하였다. 정부에서는 그의 공훈을 기려 2008년 건국훈장 애족장을 추서하였다.  
 **[출처]** [도고 청년 한명식 일본천황을 조롱하고 징역 1년](https://blog.naver.com/ekrhr/150111922001)|**작성자** [ekrhr](https://blog.naver.com/ekrhr) 
 
-9. 독립운동사자료집 - 14. 대중투쟁사자료집  
+10. 독립운동사자료집 - 14. 대중투쟁사자료집  
 [http://e-gonghun.mpva.go.kr](http://e-gonghun.mpva.go.kr/)   
 대중투쟁운동 재판기록: 894쪽~899쪽   
 ○ 1935년 판결문 개제
@@ -255,11 +258,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTc4NzkxOTcsLTEzNTI1NzQ1MzEsMT
-M1Njg5NzQwOCwyMTQzNjA2Mjc3LDE1MzAzMzgyNTEsMjc2MTU4
-ODEsLTExODU5NDA3MiwtMTgwNjQxMzM0MywtMTM4MTk5MjYyNC
-wxNTA2MjgyNzk1LDE0MTY5OTgyMTcsMTM5NDA1MDA1MCw4MDc0
-MDIzNjYsLTQwNzEyNDU0MywtOTE1NTg4ODg1LDE1NjAxMjU2NC
-wtMTE5MjQyMzAwMiwtODM4OTg2MjksLTIyNzQwNTIwLC0yNzkx
-OTU4MjVdfQ==
+eyJoaXN0b3J5IjpbLTI0NDc1ODk0LC0xMjU3ODc5MTk3LC0xMz
+UyNTc0NTMxLDEzNTY4OTc0MDgsMjE0MzYwNjI3NywxNTMwMzM4
+MjUxLDI3NjE1ODgxLC0xMTg1OTQwNzIsLTE4MDY0MTMzNDMsLT
+EzODE5OTI2MjQsMTUwNjI4Mjc5NSwxNDE2OTk4MjE3LDEzOTQw
+NTAwNTAsODA3NDAyMzY2LC00MDcxMjQ1NDMsLTkxNTU4ODg4NS
+wxNTYwMTI1NjQsLTExOTI0MjMwMDIsLTgzODk4NjI5LC0yMjc0
+MDUyMF19
 -->
