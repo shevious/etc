@@ -91,7 +91,7 @@ http://lawqa.jinbo.net/xe/?mid=board403&document_srl=1192774
 02-2125-0833 김선화  
 독립유공자 포상 신청서: 국가보훈처 => 민원참여 => 민원사무서식 => 포상신청서
 
-# 보훈 심사
+# 포상 심사
 
 http://www.yka.or.kr/html/nlm_help/notice_news.asp?no=9793  
  
@@ -109,6 +109,10 @@ http://www.yka.or.kr/html/nlm_help/notice_news.asp?no=9793
   
 ㅇ 단 위의 기준은 대략적인 일반기준이므로 활동내용이 다른 개별공적을 수평적으로 단순 비교할 수는 없으며 같은 옥고기간이라도 활동성격, 의의 등에 따라 훈격에 차등이 생길 수 있음
 
+
+# 유가족 보상
+
+https://blog.naver.com/mhkim222/221346213620  
 
 
 # 공적입증자료
@@ -203,11 +207,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1Njg5NzQwOCwyMTQzNjA2Mjc3LDE1Mz
-AzMzgyNTEsMjc2MTU4ODEsLTExODU5NDA3MiwtMTgwNjQxMzM0
-MywtMTM4MTk5MjYyNCwxNTA2MjgyNzk1LDE0MTY5OTgyMTcsMT
-M5NDA1MDA1MCw4MDc0MDIzNjYsLTQwNzEyNDU0MywtOTE1NTg4
-ODg1LDE1NjAxMjU2NCwtMTE5MjQyMzAwMiwtODM4OTg2MjksLT
-IyNzQwNTIwLC0yNzkxOTU4MjUsMTMxNDI4NTY1OSwtMTEzNTMy
-MDA0Ml19
+eyJoaXN0b3J5IjpbLTIwMzEyMTAyODQsMTM1Njg5NzQwOCwyMT
+QzNjA2Mjc3LDE1MzAzMzgyNTEsMjc2MTU4ODEsLTExODU5NDA3
+MiwtMTgwNjQxMzM0MywtMTM4MTk5MjYyNCwxNTA2MjgyNzk1LD
+E0MTY5OTgyMTcsMTM5NDA1MDA1MCw4MDc0MDIzNjYsLTQwNzEy
+NDU0MywtOTE1NTg4ODg1LDE1NjAxMjU2NCwtMTE5MjQyMzAwMi
+wtODM4OTg2MjksLTIyNzQwNTIwLC0yNzkxOTU4MjUsMTMxNDI4
+NTY1OV19
 -->
