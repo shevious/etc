@@ -189,6 +189,8 @@ http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&fl
 7. 매일신보 기사 - 1935년 9월 19일
 ![](https://github.com/shevious/etc/blob/master/screenshots/maeil-19350919.png?raw=true)
 
+
+
 8. 동아일보 기사 - 1935년 9월 19일  
 https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edtNo=2&printCount=1&publishDate=1935-09-19&officeId=00020&pageNo=2&printNo=5317&publishType=00020  
 아산적농사건  
@@ -198,10 +200,7 @@ https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edt
 한명식(19세) 징역1년  
 송창섭(21세) 징역8월
 
-9. 조선중앙일보 - 1935년 9월 12일   
-http://lod.nl.go.kr/home/include/lodpopup.jsp?uri=http://lod.nl.go.kr/resource/CNTS-00093608037  
-http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_12_x0002_0740  
-![](https://github.com/shevious/etc/blob/master/screenshots/chsunjungang-19350912.png?raw=true)
+
 10. 조선중앙일보 - 1935년 9월 19일  
 http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_19_x0002_0870  
 ![](https://github.com/shevious/etc/blob/master/screenshots/chsunjungang-19350919.png?raw=true)
@@ -263,11 +262,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE5NzkzMDAsMTE0MzU3NzExLC02Nz
-Q1NjcwMTIsLTI0NDc1ODk0LC0xMjU3ODc5MTk3LC0xMzUyNTc0
-NTMxLDEzNTY4OTc0MDgsMjE0MzYwNjI3NywxNTMwMzM4MjUxLD
-I3NjE1ODgxLC0xMTg1OTQwNzIsLTE4MDY0MTMzNDMsLTEzODE5
-OTI2MjQsMTUwNjI4Mjc5NSwxNDE2OTk4MjE3LDEzOTQwNTAwNT
-AsODA3NDAyMzY2LC00MDcxMjQ1NDMsLTkxNTU4ODg4NSwxNTYw
-MTI1NjRdfQ==
+eyJoaXN0b3J5IjpbODE0NDIzODQzLDExNDM1NzcxMSwtNjc0NT
+Y3MDEyLC0yNDQ3NTg5NCwtMTI1Nzg3OTE5NywtMTM1MjU3NDUz
+MSwxMzU2ODk3NDA4LDIxNDM2MDYyNzcsMTUzMDMzODI1MSwyNz
+YxNTg4MSwtMTE4NTk0MDcyLC0xODA2NDEzMzQzLC0xMzgxOTky
+NjI0LDE1MDYyODI3OTUsMTQxNjk5ODIxNywxMzk0MDUwMDUwLD
+gwNzQwMjM2NiwtNDA3MTI0NTQzLC05MTU1ODg4ODUsMTU2MDEy
+NTY0XX0=
 -->
