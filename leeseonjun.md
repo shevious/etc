@@ -184,7 +184,7 @@ http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&fl
 ![](https://github.com/shevious/etc/blob/master/screenshots/screen-1933-1935-2.png?raw=true)
 
 5. 조선중앙일보 - 1935년 5월 6일
-
+![](https://github.com/shevious/etc/blob/master/screenshots/chosunjungang-19350506.png?raw=true)
 
 7. 매일신보 기사 - 1935년 9월 19일
 ![](https://github.com/shevious/etc/blob/master/screenshots/maeil-19350919.png?raw=true)
@@ -263,11 +263,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTgxODc2LDExNDM1NzcxMSwtNjc0NT
-Y3MDEyLC0yNDQ3NTg5NCwtMTI1Nzg3OTE5NywtMTM1MjU3NDUz
-MSwxMzU2ODk3NDA4LDIxNDM2MDYyNzcsMTUzMDMzODI1MSwyNz
-YxNTg4MSwtMTE4NTk0MDcyLC0xODA2NDEzMzQzLC0xMzgxOTky
-NjI0LDE1MDYyODI3OTUsMTQxNjk5ODIxNywxMzk0MDUwMDUwLD
-gwNzQwMjM2NiwtNDA3MTI0NTQzLC05MTU1ODg4ODUsMTU2MDEy
-NTY0XX0=
+eyJoaXN0b3J5IjpbLTE3NTE5NzkzMDAsMTE0MzU3NzExLC02Nz
+Q1NjcwMTIsLTI0NDc1ODk0LC0xMjU3ODc5MTk3LC0xMzUyNTc0
+NTMxLDEzNTY4OTc0MDgsMjE0MzYwNjI3NywxNTMwMzM4MjUxLD
+I3NjE1ODgxLC0xMTg1OTQwNzIsLTE4MDY0MTMzNDMsLTEzODE5
+OTI2MjQsMTUwNjI4Mjc5NSwxNDE2OTk4MjE3LDEzOTQwNTAwNT
+AsODA3NDAyMzY2LC00MDcxMjQ1NDMsLTkxNTU4ODg4NSwxNTYw
+MTI1NjRdfQ==
 -->
