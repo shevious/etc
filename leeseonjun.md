@@ -113,10 +113,7 @@ http://www.yka.or.kr/html/nlm_help/notice_news.asp?no=9793
 
 # 공적입증자료
 
-1. 판결문  - 2건  
-1933년 징역1년 선고  
-http://theme.archives.go.kr/next/indy/viewIndyDetail.do?archiveId=0001165142&evntId=&actionType=name&indpnId=0000135654&actionType=det&flag=4   
-![](https://github.com/shevious/etc/blob/master/screenshots/screen-1933.png?raw=true)  
+1. 판결문  - 1건   
 1935년 징역2년  선고
 [http://theme.archives.go.kr/next/indy/viewIndyDetail.do?archiveId=0001351796&evntId=0034982771&evntdowngbn=Y&indpnId=0000014393&actionType=nam&flag=1&search_region=](http://theme.archives.go.kr/next/indy/viewIndyDetail.do?archiveId=0001351796&evntId=0034982771&evntdowngbn=Y&indpnId=0000014393&actionType=nam&flag=1&search_region=)  
 상세자료: 별첨1  
@@ -206,11 +203,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MzYwNjI3NywxNTMwMzM4MjUxLDI3Nj
-E1ODgxLC0xMTg1OTQwNzIsLTE4MDY0MTMzNDMsLTEzODE5OTI2
-MjQsMTUwNjI4Mjc5NSwxNDE2OTk4MjE3LDEzOTQwNTAwNTAsOD
-A3NDAyMzY2LC00MDcxMjQ1NDMsLTkxNTU4ODg4NSwxNTYwMTI1
-NjQsLTExOTI0MjMwMDIsLTgzODk4NjI5LC0yMjc0MDUyMCwtMj
-c5MTk1ODI1LDEzMTQyODU2NTksLTExMzUzMjAwNDIsMTczMzQ5
-NTM5NV19
+eyJoaXN0b3J5IjpbMTM1Njg5NzQwOCwyMTQzNjA2Mjc3LDE1Mz
+AzMzgyNTEsMjc2MTU4ODEsLTExODU5NDA3MiwtMTgwNjQxMzM0
+MywtMTM4MTk5MjYyNCwxNTA2MjgyNzk1LDE0MTY5OTgyMTcsMT
+M5NDA1MDA1MCw4MDc0MDIzNjYsLTQwNzEyNDU0MywtOTE1NTg4
+ODg1LDE1NjAxMjU2NCwtMTE5MjQyMzAwMiwtODM4OTg2MjksLT
+IyNzQwNTIwLC0yNzkxOTU4MjUsMTMxNDI4NTY1OSwtMTEzNTMy
+MDA0Ml19
 -->
