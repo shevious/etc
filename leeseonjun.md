@@ -183,6 +183,8 @@ http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&fl
 [http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=4&actionFlag=det&keyword=%EC%9D%B4%EC%84%A0%EC%A4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=](http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&flag=4&actionFlag=det&keyword=%EC%9D%B4%EC%84%A0%EC%A4%80&reKeyword=&owner=&organ=&sdate=19040101&edate=19451231&oldAddress=&momentDates=&sort=0&names=&crime=&depth11=&depth12=&ivl_cases=&retIvlRegion=&search_region=)  
 ![](https://github.com/shevious/etc/blob/master/screenshots/screen-1933-1935-2.png?raw=true)
 
+5. 조선중앙일보 - 1935년 5월
+
 5. 매일신보 기사 - 1935년 9월 19일
 ![](https://github.com/shevious/etc/blob/master/screenshots/maeil-19350919.png?raw=true)
 
@@ -260,11 +262,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzU3NzExLC02NzQ1NjcwMTIsLTI0ND
-c1ODk0LC0xMjU3ODc5MTk3LC0xMzUyNTc0NTMxLDEzNTY4OTc0
-MDgsMjE0MzYwNjI3NywxNTMwMzM4MjUxLDI3NjE1ODgxLC0xMT
-g1OTQwNzIsLTE4MDY0MTMzNDMsLTEzODE5OTI2MjQsMTUwNjI4
-Mjc5NSwxNDE2OTk4MjE3LDEzOTQwNTAwNTAsODA3NDAyMzY2LC
-00MDcxMjQ1NDMsLTkxNTU4ODg4NSwxNTYwMTI1NjQsLTExOTI0
-MjMwMDJdfQ==
+eyJoaXN0b3J5IjpbMjkwNTc2MjY2LDExNDM1NzcxMSwtNjc0NT
+Y3MDEyLC0yNDQ3NTg5NCwtMTI1Nzg3OTE5NywtMTM1MjU3NDUz
+MSwxMzU2ODk3NDA4LDIxNDM2MDYyNzcsMTUzMDMzODI1MSwyNz
+YxNTg4MSwtMTE4NTk0MDcyLC0xODA2NDEzMzQzLC0xMzgxOTky
+NjI0LDE1MDYyODI3OTUsMTQxNjk5ODIxNywxMzk0MDUwMDUwLD
+gwNzQwMjM2NiwtNDA3MTI0NTQzLC05MTU1ODg4ODUsMTU2MDEy
+NTY0XX0=
 -->
