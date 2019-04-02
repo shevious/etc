@@ -195,14 +195,15 @@ https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edt
 한명식(19세) 징역1년  
 송창섭(21세) 징역8월
 
-7. 조선중앙일보 - 1935년 9월 12일  
+7. 조선중앙일보 - 1935년 9월 12일   
+http://lod.nl.go.kr/home/include/lodpopup.jsp?uri=http://lod.nl.go.kr/resource/CNTS-00093608037  
 http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_12_x0002_0740  
 ![](https://github.com/shevious/etc/blob/master/screenshots/chsunjungang-19350912.png?raw=true)
-8. 조선중앙일보 - 1935년 9월 19일  
+9. 조선중앙일보 - 1935년 9월 19일  
 http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_19_x0002_0870  
 ![](https://github.com/shevious/etc/blob/master/screenshots/chsunjungang-19350919.png?raw=true)
 
-9. 관련 인물 - 한명식 (독립운동가 동지)    
+10. 관련 인물 - 한명식 (독립운동가 동지)    
 http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001  
 한명식(韓明植) 1917. 2. 13-1963. 7. 10    
 1932년 12월경부터 충남 아산에서 [이선준](http://search.i815.or.kr/Indeman/IndemanView.jsp?sT=3&tid=ma&set_id=66138&total_df=1&pos=0&query=S.ALL:%EC%9D%B4%EC%84%A0%EC%A4%80#)(李銑濬)과 일제의 압제에서 벗어나 독립하기 위해 청년들이 중심이 되어야 한다고 생각했다.   
@@ -242,28 +243,28 @@ http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001
 이로 인해 한명식은 ‘보안법 위반 및 불경죄’로 징역 1년을 선고받고 일제의 감옥에서 옥고를 치른 후 1936년 9월 출옥하였다. 정부에서는 그의 공훈을 기려 2008년 건국훈장 애족장을 추서하였다.  
 **[출처]** [도고 청년 한명식 일본천황을 조롱하고 징역 1년](https://blog.naver.com/ekrhr/150111922001)|**작성자** [ekrhr](https://blog.naver.com/ekrhr) 
 
-10. 독립운동사자료집 - 14. 대중투쟁사자료집  
+11. 독립운동사자료집 - 14. 대중투쟁사자료집  
 [http://e-gonghun.mpva.go.kr](http://e-gonghun.mpva.go.kr/)   
 대중투쟁운동 재판기록: 894쪽~899쪽   
 ○ 1935년 판결문 개제
 농민운동일지:  263쪽  
 ○ 1935.9.17. 충남 아산(牙山)에서 농민조합을 조직하여 사상운동을 하였다는 혐의로 체포되었던 **이선준**(**李銑濬**) 등 3명에 대한 공소공판이 경성복심법원에서 개정되었는데 1심과 같이 **이선준**은 징역 2년, 한명식(韓明植)은 징역 1년, 송창섭(宋昌燮)은 징역 8월이 언도되다.  
 
-11. 일제경찰 심문 조서: 1934년도 이후의 주요사건 검거(치안정황 [경기도, 1935년])  
+12. 일제경찰 심문 조서: 1934년도 이후의 주요사건 검거(치안정황 [경기도, 1935년])  
 http://search.i815.or.kr/subService.do  
 이선준 검색 => 마이크로필름자료 => 일제경찰심문조서  
 
-12. 사상휘보 - 제13호  
+13. 사상휘보 - 제13호  
 http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060   
 在京鮮人轉向者の情況(昭和十二年十一月現在)  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDU2NzAxMiwtMjQ0NzU4OTQsLTEyNT
-c4NzkxOTcsLTEzNTI1NzQ1MzEsMTM1Njg5NzQwOCwyMTQzNjA2
-Mjc3LDE1MzAzMzgyNTEsMjc2MTU4ODEsLTExODU5NDA3MiwtMT
-gwNjQxMzM0MywtMTM4MTk5MjYyNCwxNTA2MjgyNzk1LDE0MTY5
-OTgyMTcsMTM5NDA1MDA1MCw4MDc0MDIzNjYsLTQwNzEyNDU0My
-wtOTE1NTg4ODg1LDE1NjAxMjU2NCwtMTE5MjQyMzAwMiwtODM4
-OTg2MjldfQ==
+eyJoaXN0b3J5IjpbMTE0MzU3NzExLC02NzQ1NjcwMTIsLTI0ND
+c1ODk0LC0xMjU3ODc5MTk3LC0xMzUyNTc0NTMxLDEzNTY4OTc0
+MDgsMjE0MzYwNjI3NywxNTMwMzM4MjUxLDI3NjE1ODgxLC0xMT
+g1OTQwNzIsLTE4MDY0MTMzNDMsLTEzODE5OTI2MjQsMTUwNjI4
+Mjc5NSwxNDE2OTk4MjE3LDEzOTQwNTAwNTAsODA3NDAyMzY2LC
+00MDcxMjQ1NDMsLTkxNTU4ODg4NSwxNTYwMTI1NjQsLTExOTI0
+MjMwMDJdfQ==
 -->
