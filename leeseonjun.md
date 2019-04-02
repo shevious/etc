@@ -91,6 +91,24 @@ http://lawqa.jinbo.net/xe/?mid=board403&document_srl=1192774
 02-2125-0833 김선화  
 독립유공자 포상 신청서: 국가보훈처 => 민원참여 => 민원사무서식 => 포상신청서
 
+# 보훈 심사
+
+http://www.yka.or.kr/html/nlm_help/notice_news.asp?no=9793  
+ 
+□ 독립유공자 포상 심사 기준  
+  
+ㅇ 독립운동은 수 십 년간 여러 방법으로 전개되어 획일적인 방법이나 산술적 기준에 의해 평가하기는 곤란하여 독립운동의 참여정도, 당시의 지위, 독립운동사에 미친 영향 등을 독립유공자 공적심사위원회에서 종합적으로 평가하여 포상여부와 훈격을 결정하고 있음  
+  
+<활동기간과 옥고에 따른 포상심사기준>  
+․건국훈장 독립장(3등급) 이상 : 8년이상 활동 또는 8년 이상 옥고  
+․건국훈장 애국장(4등급) : 5년이상 활동 또는 4년이상 옥고  
+․건국훈장 애족장(5등급) : 2년이상 활동 또는 1년이상 옥고  
+․건국포장 : 1년이상 활동 또는 10개월 이상 옥고  
+․대통령표창 : 6개월이상 활동 또는 3개월이상 옥고  
+※ 활동기간은 자료상 독립운동 단체등에 가입하여 실제로 활동한 기간을 뜻함  
+  
+ㅇ 단 위의 기준은 대략적인 일반기준이므로 활동내용이 다른 개별공적을 수평적으로 단순 비교할 수는 없으며 같은 옥고기간이라도 활동성격, 의의 등에 따라 훈격에 차등이 생길 수 있음
+
 
 
 # 공적입증자료
@@ -188,11 +206,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDMzODI1MSwyNzYxNTg4MSwtMTE4NT
-k0MDcyLC0xODA2NDEzMzQzLC0xMzgxOTkyNjI0LDE1MDYyODI3
-OTUsMTQxNjk5ODIxNywxMzk0MDUwMDUwLDgwNzQwMjM2NiwtND
-A3MTI0NTQzLC05MTU1ODg4ODUsMTU2MDEyNTY0LC0xMTkyNDIz
-MDAyLC04Mzg5ODYyOSwtMjI3NDA1MjAsLTI3OTE5NTgyNSwxMz
-E0Mjg1NjU5LC0xMTM1MzIwMDQyLDE3MzM0OTUzOTUsMTA2OTg4
-NDExMF19
+eyJoaXN0b3J5IjpbMjE0MzYwNjI3NywxNTMwMzM4MjUxLDI3Nj
+E1ODgxLC0xMTg1OTQwNzIsLTE4MDY0MTMzNDMsLTEzODE5OTI2
+MjQsMTUwNjI4Mjc5NSwxNDE2OTk4MjE3LDEzOTQwNTAwNTAsOD
+A3NDAyMzY2LC00MDcxMjQ1NDMsLTkxNTU4ODg4NSwxNTYwMTI1
+NjQsLTExOTI0MjMwMDIsLTgzODk4NjI5LC0yMjc0MDUyMCwtMj
+c5MTk1ODI1LDEzMTQyODU2NTksLTExMzUzMjAwNDIsMTczMzQ5
+NTM5NV19
 -->
