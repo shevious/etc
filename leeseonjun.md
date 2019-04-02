@@ -114,6 +114,24 @@ http://www.yka.or.kr/html/nlm_help/notice_news.asp?no=9793
 
 https://blog.naver.com/mhkim222/221346213620  
 
+제5조(유족 또는 가족의 범위) ① 이 법에 따라 보상을 받는 독립유공자의 유족 또는 가족의 범위는 다음과 같다. <개정 2009. 2. 6., 2012. 2. 17., 2015. 12. 22.>
+
+1. 배우자
+
+2. 자녀
+
+3. 손자녀(孫子女). 다만, 독립유공자의 유족으로 최초로 등록할 당시 이미 자녀 및 손자녀까지 사망한 경우에는 독립유공자의 가장 가까운 직계비속 중 1명을 손자녀로 본다.
+
+4. 며느리로서 1945년 8월 14일 이전에 구호적에 기재된 자
+
+② 제1항제1호의 배우자의 경우, 사실혼 관계에 있는 사람을 포함한다. 다만, 배우자 및 사실혼 관계에 있는 사람이 독립유공자와 혼인 또는 사실혼 후 그 독립유공자가 아닌 다른 사람과 사실혼 관계에 있거나 있었던 경우는 제외한다. <신설 2015. 12. 22.>
+
+③ 제1항제2호의 자녀의 경우, 양자(養子)는 독립유공자가 직계비속(直系卑屬)이 없어 입양한 자 1명만을 자녀로 본다. 다만, 1945년 8월 15일 이후에 입양된 양자의 경우에는 독립유공자, 그의 배우자 또는 직계존비속(直系尊卑屬)을 부양한 사실이 있는 자로 한정한다. <개정 2015. 12. 22.>
+
+④ 제1항제3호의 손자녀의 경우, 독립유공자 직계비속의 양자는 그가 직계비속이 없어 입양한 자 1명만을 손자녀로 본다. 다만, 1945년 8월 15일 이후에 입양된 자의 경우에는 독립유공자, 그의 배우자 또는 직계존비속을 부양한 사실이 있는 자로 한정한다. <개정 2015. 12. 22.>
+
+⑤ 제1항제4호의 며느리의 경우, 제12조에 따른 보상금(報償金)을 받는 제1항제1호부터 제3호까지의 유족이 없어야 하되, 해당자가 2명 이상이면 그 남편의 보상금 지급 순위에 따른 선순위자(先順位者) 1명으로 한정한다. <개정 2015. 12. 22.>
+
 
 # 공적입증자료
 
@@ -207,11 +225,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzEyMTAyODQsMTM1Njg5NzQwOCwyMT
-QzNjA2Mjc3LDE1MzAzMzgyNTEsMjc2MTU4ODEsLTExODU5NDA3
-MiwtMTgwNjQxMzM0MywtMTM4MTk5MjYyNCwxNTA2MjgyNzk1LD
-E0MTY5OTgyMTcsMTM5NDA1MDA1MCw4MDc0MDIzNjYsLTQwNzEy
-NDU0MywtOTE1NTg4ODg1LDE1NjAxMjU2NCwtMTE5MjQyMzAwMi
-wtODM4OTg2MjksLTIyNzQwNTIwLC0yNzkxOTU4MjUsMTMxNDI4
-NTY1OV19
+eyJoaXN0b3J5IjpbMTgwMTE0MzIwNCwxMzU2ODk3NDA4LDIxND
+M2MDYyNzcsMTUzMDMzODI1MSwyNzYxNTg4MSwtMTE4NTk0MDcy
+LC0xODA2NDEzMzQzLC0xMzgxOTkyNjI0LDE1MDYyODI3OTUsMT
+QxNjk5ODIxNywxMzk0MDUwMDUwLDgwNzQwMjM2NiwtNDA3MTI0
+NTQzLC05MTU1ODg4ODUsMTU2MDEyNTY0LC0xMTkyNDIzMDAyLC
+04Mzg5ODYyOSwtMjI3NDA1MjAsLTI3OTE5NTgyNSwxMzE0Mjg1
+NjU5XX0=
 -->
