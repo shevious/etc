@@ -206,7 +206,7 @@ https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edt
 
 10. 조선중앙일보 - 1935년 9월 19일  
 http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_19_x0002_0870  
-![](https://github.com/shevious/etc/blob/master/screenshots/chsunjungang-19350919.png?raw=true)
+![](https://github.com/shevious/etc/blob/master/screenshots/chosunjungang-19350919.png?raw=true)
 
 11. 관련 인물 - 한명식 (독립운동가 동지)    
 http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001  
@@ -265,7 +265,7 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI3MzAwMDkzLDExNDM1NzcxMSwtNjc0NT
+eyJoaXN0b3J5IjpbOTE5MzA3MTA0LDExNDM1NzcxMSwtNjc0NT
 Y3MDEyLC0yNDQ3NTg5NCwtMTI1Nzg3OTE5NywtMTM1MjU3NDUz
 MSwxMzU2ODk3NDA4LDIxNDM2MDYyNzcsMTUzMDMzODI1MSwyNz
 YxNTg4MSwtMTE4NTk0MDcyLC0xODA2NDEzMzQzLC0xMzgxOTky
