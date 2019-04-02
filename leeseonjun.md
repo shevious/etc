@@ -114,6 +114,8 @@ http://www.yka.or.kr/html/nlm_help/notice_news.asp?no=9793
 
 https://blog.naver.com/mhkim222/221346213620  
 
+[독립유공자 예우에 관한 법률](http://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=203124#0000)  
+
 제5조(유족 또는 가족의 범위) ① 이 법에 따라 보상을 받는 독립유공자의 유족 또는 가족의 범위는 다음과 같다. <개정 2009. 2. 6., 2012. 2. 17., 2015. 12. 22.>
 
 1. 배우자
@@ -131,6 +133,34 @@ https://blog.naver.com/mhkim222/221346213620
 ④ 제1항제3호의 손자녀의 경우, 독립유공자 직계비속의 양자는 그가 직계비속이 없어 입양한 자 1명만을 손자녀로 본다. 다만, 1945년 8월 15일 이후에 입양된 자의 경우에는 독립유공자, 그의 배우자 또는 직계존비속을 부양한 사실이 있는 자로 한정한다. <개정 2015. 12. 22.>
 
 ⑤ 제1항제4호의 며느리의 경우, 제12조에 따른 보상금(報償金)을 받는 제1항제1호부터 제3호까지의 유족이 없어야 하되, 해당자가 2명 이상이면 그 남편의 보상금 지급 순위에 따른 선순위자(先順位者) 1명으로 한정한다. <개정 2015. 12. 22.>
+
+제12조(보상금)  ① 보상금은 월액(月額)으로 지급한다.
+
+② 독립유공자와 그 유족 중 선순위자(先順位者) 1명에게는 보상금을 지급한다. 다만, 손자녀일 경우에는 대통령령으로 정하는 생활수준 등을 고려하여 다음 각 호의 사람으로 한정하여 보상금을 지급하고, 이 보상금을 받을 권리는 다른 손자녀에게 이전되지 아니한다. <개정 2014. 5. 21.>
+
+1. 1945년 8월 14일 이전에 사망한 독립유공자의 손자녀 1명
+
+2. 1945년 8월 15일 이후에 사망한 독립유공자의 유족으로 최초로 등록할 당시 자녀까지 모두 사망한 경우 손자녀 1명
+
+③ 보상금을 받을 유족의 순위는 제5조제1항 각 호의 순위에 따른다.
+
+④ 제3항에 따라 보상금을 받을 유족 중 같은 순위자가 2명 이상이면 다음 각 호의 구분에 따라 보상금을 지급한다. <개정 2014. 5. 21.>
+
+1. 나이가 많은 사람을 우선하되, 독립유공자를 주로 부양한 사람이 있는 경우에는 그 사람을 우선한다.
+
+2. 제1호에도 불구하고 같은 순위 유족 간의 협의에 의하여 같은 순위 유족 중 1명을 보상금을 받을 자로 지정한 경우에는 그 자에게 보상금을 지급한다. 이 경우 유족간 협의의 방법 등에 관하여 필요한 사항은 대통령령으로 정한다.
+
+⑤ 보상금을 받을 유족이 다음 각 호의 어느 하나에 해당하면 제5조제1항 각 호에 규정된 그 다음 순위의 유족에게 대통령령으로 정하는 바에 따라 보상금을 지급한다.
+
+1. 사망한 경우
+
+2. 제5조제1항 각 호의 어느 하나에 해당하지 아니하게 된 경우
+
+3. 삭제 <2015. 12. 22.>
+
+4. 1년 이상 계속하여 행방불명인 경우
+
+⑥ 보상금의 지급 수준은 「통계법」 제3조제2호에 따라 통계청장이 지정하여 고시하는 통계 중 가계조사통계의 전국 가구(家口) 가계소비지출액 등을 고려하여 독립유공자의 희생과 공헌의 정도에 상응하게 결정하여야 한다.
 
 
 # 공적입증자료
@@ -225,11 +255,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTE0MzIwNCwxMzU2ODk3NDA4LDIxND
-M2MDYyNzcsMTUzMDMzODI1MSwyNzYxNTg4MSwtMTE4NTk0MDcy
-LC0xODA2NDEzMzQzLC0xMzgxOTkyNjI0LDE1MDYyODI3OTUsMT
-QxNjk5ODIxNywxMzk0MDUwMDUwLDgwNzQwMjM2NiwtNDA3MTI0
-NTQzLC05MTU1ODg4ODUsMTU2MDEyNTY0LC0xMTkyNDIzMDAyLC
-04Mzg5ODYyOSwtMjI3NDA1MjAsLTI3OTE5NTgyNSwxMzE0Mjg1
-NjU5XX0=
+eyJoaXN0b3J5IjpbLTEzNTI1NzQ1MzEsMTM1Njg5NzQwOCwyMT
+QzNjA2Mjc3LDE1MzAzMzgyNTEsMjc2MTU4ODEsLTExODU5NDA3
+MiwtMTgwNjQxMzM0MywtMTM4MTk5MjYyNCwxNTA2MjgyNzk1LD
+E0MTY5OTgyMTcsMTM5NDA1MDA1MCw4MDc0MDIzNjYsLTQwNzEy
+NDU0MywtOTE1NTg4ODg1LDE1NjAxMjU2NCwtMTE5MjQyMzAwMi
+wtODM4OTg2MjksLTIyNzQwNTIwLC0yNzkxOTU4MjUsMTMxNDI4
+NTY1OV19
 -->
