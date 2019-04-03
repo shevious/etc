@@ -274,15 +274,16 @@ http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001
 농민운동일지:  263쪽  
 ○ 1935.9.17. 충남 아산(牙山)에서 농민조합을 조직하여 사상운동을 하였다는 혐의로 체포되었던 **이선준**(**李銑濬**) 등 3명에 대한 공소공판이 경성복심법원에서 개정되었는데 1심과 같이 **이선준**은 징역 2년, 한명식(韓明植)은 징역 1년, 송창섭(宋昌燮)은 징역 8월이 언도되다.  
 
-12. 60권: 한국독립운동사 연표  
+12. 60권: 한국독립운동사 연표  1935년
 http://search.i815.or.kr/Degae/DegaeEbook.jsp?bookid=060&pgnum=060159  
-
+    >9.17  
+충남 아산에서 농민조합조직 혐의로 체포된 李銑濬 등 3명, 경성복심법원에서 징역 2년 등 언도  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODE3NjIsLTQxOTExNzMwLDMyNjM2NT
-U3NSwxMTY4NTU2OTM0LC0xNzUwMzkwNjIxLDExMjAzMDU2NTAs
-OTE5MzA3MTA0LDExNDM1NzcxMSwtNjc0NTY3MDEyLC0yNDQ3NT
-g5NCwtMTI1Nzg3OTE5NywtMTM1MjU3NDUzMSwxMzU2ODk3NDA4
-LDIxNDM2MDYyNzcsMTUzMDMzODI1MSwyNzYxNTg4MSwtMTE4NT
-k0MDcyLC0xODA2NDEzMzQzLC0xMzgxOTkyNjI0LDE1MDYyODI3
-OTVdfQ==
+eyJoaXN0b3J5IjpbLTIyNjcxMTMzNSwtNDE5MTE3MzAsMzI2Mz
+Y1NTc1LDExNjg1NTY5MzQsLTE3NTAzOTA2MjEsMTEyMDMwNTY1
+MCw5MTkzMDcxMDQsMTE0MzU3NzExLC02NzQ1NjcwMTIsLTI0ND
+c1ODk0LC0xMjU3ODc5MTk3LC0xMzUyNTc0NTMxLDEzNTY4OTc0
+MDgsMjE0MzYwNjI3NywxNTMwMzM4MjUxLDI3NjE1ODgxLC0xMT
+g1OTQwNzIsLTE4MDY0MTMzNDMsLTEzODE5OTI2MjQsMTUwNjI4
+Mjc5NV19
 -->
