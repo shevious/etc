@@ -197,7 +197,7 @@ http://theme.archives.go.kr/next/indy/listkeywordSearch.do?page=1&listSize=10&fl
 5. 조선중앙일보 - 1935년 5월 6일
 ![](https://github.com/shevious/etc/blob/master/screenshots/chosunjungang-19350506.png?raw=true)
 
-9. 조선중앙일보 - 1935년 9월 12일   
+6. 조선중앙일보 - 1935년 9월 12일   
 http://lod.nl.go.kr/home/include/lodpopup.jsp?uri=http://lod.nl.go.kr/resource/CNTS-00093608037  
 http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_12_x0002_0740  
 ![](https://github.com/shevious/etc/blob/master/screenshots/chosunjungang-19350912.png?raw=true)
@@ -206,13 +206,17 @@ http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_12_x0002_0740
 ![](https://github.com/shevious/etc/blob/master/screenshots/maeil-19350919.png?raw=true)
 
 8. 동아일보 기사 - 1935년 9월 19일  
+일제침략하36년사 11권 p. 134  
 https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edtNo=2&printCount=1&publishDate=1935-09-19&officeId=00020&pageNo=2&printNo=5317&publishType=00020  
+[http://db.history.go.kr/item/level.do?sort=levelId&dir=ASC&start=1&limit=20&page=1&pre_page=1&setId=-1&prevPage=0&prevLimit=&itemId=su&types=&synonym=off&chinessChar=on&brokerPagingInfo=&levelId=su_011_1935_09_17_0450&position=-1](http://db.history.go.kr/item/level.do?sort=levelId&dir=ASC&start=1&limit=20&page=1&pre_page=1&setId=-1&prevPage=0&prevLimit=&itemId=su&types=&synonym=off&chinessChar=on&brokerPagingInfo=&levelId=su_011_1935_09_17_0450&position=-1)  
     > 아산적농사건  
 친지들에게 공산주의를 선전하는 한편으로 불경의 내용을 포함한 그림을 그렸다는 사실로 작년 11월 초순경에 공주지방법원에서 징역8개월의 언도를 받고 즉시 불복 공소한 충남 아산군 도고면 향산리에 사는 이선준 등 3명에 관한 치안유지법 위반과 불경죄 등에 관한 언도 공판은 17일 오후에 경성 복심법원 형사부 법정에서 개정되었는데 이케다 재판장으로부터 1심판결과 같이 각 피고인들에게 언도하였다.  
 피고들의 범행사실은 재작년 12월 경에 그들은 향리인 아산에다 아산적색농민조합을 조직하고 작년1월경까지 수차에 긍한 비밀회합이 있게 되었다. 그 때마다 동무들에게 공산주의를 선전하며 차후 운동방침에 대하야 토의하게 되었으며 불경의 내용이 포함한 그림을 그려가지고 피고 이선준의 집 방벽에다 붙여놓는 등 이외에 민족주의 사상을 고취하야 여러 방면으로 동지를 획득하려고 노력하던 사건이라는데 피고인들에 대한 언도는 다음과 같다  
 이선준(25세) 징역2년  
 한명식(19세) 징역1년  
 송창섭(21세) 징역8월  
+
+    > 忠南 牙山에서 農民組合을 조직하여 思想活動을 하였다는 혐의로 체포되었던 李銑濬 등 3名에 대한 控訴公判이 京城覆審法院에서 개정되었는데 1審과 같이 李銑濬은 懲役2年, 韓明植은 懲役1年, 宋昌燮은 懲役8月이 言渡되다
 
 10. 조선중앙일보 - 1935년 9월 19일  
 http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_19_x0002_0870  
@@ -275,11 +279,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODU1NjkzNCwtMTc1MDM5MDYyMSwxMT
-IwMzA1NjUwLDkxOTMwNzEwNCwxMTQzNTc3MTEsLTY3NDU2NzAx
-MiwtMjQ0NzU4OTQsLTEyNTc4NzkxOTcsLTEzNTI1NzQ1MzEsMT
-M1Njg5NzQwOCwyMTQzNjA2Mjc3LDE1MzAzMzgyNTEsMjc2MTU4
-ODEsLTExODU5NDA3MiwtMTgwNjQxMzM0MywtMTM4MTk5MjYyNC
-wxNTA2MjgyNzk1LDE0MTY5OTgyMTcsMTM5NDA1MDA1MCw4MDc0
-MDIzNjZdfQ==
+eyJoaXN0b3J5IjpbMzI2MzY1NTc1LDExNjg1NTY5MzQsLTE3NT
+AzOTA2MjEsMTEyMDMwNTY1MCw5MTkzMDcxMDQsMTE0MzU3NzEx
+LC02NzQ1NjcwMTIsLTI0NDc1ODk0LC0xMjU3ODc5MTk3LC0xMz
+UyNTc0NTMxLDEzNTY4OTc0MDgsMjE0MzYwNjI3NywxNTMwMzM4
+MjUxLDI3NjE1ODgxLC0xMTg1OTQwNzIsLTE4MDY0MTMzNDMsLT
+EzODE5OTI2MjQsMTUwNjI4Mjc5NSwxNDE2OTk4MjE3LDEzOTQw
+NTAwNTBdfQ==
 -->
