@@ -223,11 +223,11 @@ https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edt
 
     > 忠南 牙山에서 農民組合을 조직하여 思想活動을 하였다는 혐의로 체포되었던 李銑濬 등 3名에 대한 控訴公判이 京城覆審法院에서 개정되었는데 1審과 같이 李銑濬은 懲役2年, 韓明植은 懲役1年, 宋昌燮은 懲役8月이 言渡되다
 
-10. 조선중앙일보 - 1935년 9월 19일  
+9. 조선중앙일보 - 1935년 9월 19일  
 http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_19_x0002_0870  
 ![](https://github.com/shevious/etc/blob/master/screenshots/chosunjungang-19350919.png?raw=true)
 
-11. 관련 인물 - 한명식 (독립운동가 동지)    
+10. 관련 인물 - 한명식 (독립운동가 동지)    
 http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001  
     >한명식(韓明植) 1917. 2. 13-1963. 7. 10    
 1932년 12월경부터 충남 아산에서 [이선준](http://search.i815.or.kr/Indeman/IndemanView.jsp?sT=3&tid=ma&set_id=66138&total_df=1&pos=0&query=S.ALL:%EC%9D%B4%EC%84%A0%EC%A4%80#)(李銑濬)과 일제의 압제에서 벗어나 독립하기 위해 청년들이 중심이 되어야 한다고 생각했다.   
@@ -267,21 +267,22 @@ http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001
 이로 인해 한명식은 ‘보안법 위반 및 불경죄’로 징역 1년을 선고받고 일제의 감옥에서 옥고를 치른 후 1936년 9월 출옥하였다. 정부에서는 그의 공훈을 기려 2008년 건국훈장 애족장을 추서하였다.  
 **[출처]** [도고 청년 한명식 일본천황을 조롱하고 징역 1년](https://blog.naver.com/ekrhr/150111922001)|**작성자** [ekrhr](https://blog.naver.com/ekrhr) 
 
-12. 독립운동사자료집 - 14. 대중투쟁사자료집  
+11. 독립운동사자료집 - 14. 대중투쟁사자료집  
 [http://e-gonghun.mpva.go.kr](http://e-gonghun.mpva.go.kr/)   
 대중투쟁운동 재판기록: 894쪽~899쪽   
 ○ 1935년 판결문 개제
 농민운동일지:  263쪽  
 ○ 1935.9.17. 충남 아산(牙山)에서 농민조합을 조직하여 사상운동을 하였다는 혐의로 체포되었던 **이선준**(**李銑濬**) 등 3명에 대한 공소공판이 경성복심법원에서 개정되었는데 1심과 같이 **이선준**은 징역 2년, 한명식(韓明植)은 징역 1년, 송창섭(宋昌燮)은 징역 8월이 언도되다.  
 
+12. 60권: 한국독립운동사 연표  
+http://search.i815.or.kr/Degae/DegaeEbook.jsp?bookid=060&pgnum=060159  
 
-13. 한국독립운동사 연표
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4MDU4ODc4LC00MTkxMTczMCwzMjYzNj
-U1NzUsMTE2ODU1NjkzNCwtMTc1MDM5MDYyMSwxMTIwMzA1NjUw
-LDkxOTMwNzEwNCwxMTQzNTc3MTEsLTY3NDU2NzAxMiwtMjQ0Nz
-U4OTQsLTEyNTc4NzkxOTcsLTEzNTI1NzQ1MzEsMTM1Njg5NzQw
-OCwyMTQzNjA2Mjc3LDE1MzAzMzgyNTEsMjc2MTU4ODEsLTExOD
-U5NDA3MiwtMTgwNjQxMzM0MywtMTM4MTk5MjYyNCwxNTA2Mjgy
-Nzk1XX0=
+eyJoaXN0b3J5IjpbMTM1ODE3NjIsLTQxOTExNzMwLDMyNjM2NT
+U3NSwxMTY4NTU2OTM0LC0xNzUwMzkwNjIxLDExMjAzMDU2NTAs
+OTE5MzA3MTA0LDExNDM1NzcxMSwtNjc0NTY3MDEyLC0yNDQ3NT
+g5NCwtMTI1Nzg3OTE5NywtMTM1MjU3NDUzMSwxMzU2ODk3NDA4
+LDIxNDM2MDYyNzcsMTUzMDMzODI1MSwyNzYxNTg4MSwtMTE4NT
+k0MDcyLC0xODA2NDEzMzQzLC0xMzgxOTkyNjI0LDE1MDYyODI3
+OTVdfQ==
 -->
