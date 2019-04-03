@@ -81,6 +81,11 @@ http://lawqa.jinbo.net/xe/?mid=board403&document_srl=1192774
 # 기타자료
 
 [http://daesan.or.kr/webzine_read.html?uid=2945&ho=67](http://daesan.or.kr/webzine_read.html?uid=2945&ho=67)  
+13. 일제경찰 심문 조서: 1934년도 이후의 주요사건 검거(치안정황 [경기도, 1935년])  
+http://search.i815.or.kr/subService.do  
+이선준 검색 => 마이크로필름자료 => 일제경찰심문조서  
+
+
 
 # 보훈 신청
 
@@ -269,17 +274,14 @@ http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001
 농민운동일지:  263쪽  
 ○ 1935.9.17. 충남 아산(牙山)에서 농민조합을 조직하여 사상운동을 하였다는 혐의로 체포되었던 **이선준**(**李銑濬**) 등 3명에 대한 공소공판이 경성복심법원에서 개정되었는데 1심과 같이 **이선준**은 징역 2년, 한명식(韓明植)은 징역 1년, 송창섭(宋昌燮)은 징역 8월이 언도되다.  
 
-13. 일제경찰 심문 조서: 1934년도 이후의 주요사건 검거(치안정황 [경기도, 1935년])  
-http://search.i815.or.kr/subService.do  
-이선준 검색 => 마이크로필름자료 => 일제경찰심문조서  
 
-
+13. 한국독립운동사 연표
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTExNzMwLDMyNjM2NTU3NSwxMTY4NT
-U2OTM0LC0xNzUwMzkwNjIxLDExMjAzMDU2NTAsOTE5MzA3MTA0
-LDExNDM1NzcxMSwtNjc0NTY3MDEyLC0yNDQ3NTg5NCwtMTI1Nz
-g3OTE5NywtMTM1MjU3NDUzMSwxMzU2ODk3NDA4LDIxNDM2MDYy
-NzcsMTUzMDMzODI1MSwyNzYxNTg4MSwtMTE4NTk0MDcyLC0xOD
-A2NDEzMzQzLC0xMzgxOTkyNjI0LDE1MDYyODI3OTUsMTQxNjk5
-ODIxN119
+eyJoaXN0b3J5IjpbNzQ4MDU4ODc4LC00MTkxMTczMCwzMjYzNj
+U1NzUsMTE2ODU1NjkzNCwtMTc1MDM5MDYyMSwxMTIwMzA1NjUw
+LDkxOTMwNzEwNCwxMTQzNTc3MTEsLTY3NDU2NzAxMiwtMjQ0Nz
+U4OTQsLTEyNTc4NzkxOTcsLTEzNTI1NzQ1MzEsMTM1Njg5NzQw
+OCwyMTQzNjA2Mjc3LDE1MzAzMzgyNTEsMjc2MTU4ODEsLTExOD
+U5NDA3MiwtMTgwNjQxMzM0MywtMTM4MTk5MjYyNCwxNTA2Mjgy
+Nzk1XX0=
 -->
