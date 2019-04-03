@@ -203,7 +203,7 @@ http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_12_x0002_0740
 
 8. 동아일보 기사 - 1935년 9월 19일  
 https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edtNo=2&printCount=1&publishDate=1935-09-19&officeId=00020&pageNo=2&printNo=5317&publishType=00020  
-> 아산적농사건  
+    > 아산적농사건  
 친지들에게 공산주의를 선전하는 한편으로 불경의 내용을 포함한 그림을 그렸다는 사실로 작년 11월 초순경에 공주지방법원에서 징역8개월의 언도를 받고 즉시 불복 공소한 충남 아산군 도고면 향산리에 사는 이선준 등 3명에 관한 치안유지법 위반과 불경죄 등에 관한 언도 공판은 17일 오후에 경성 복심법원 형사부 법정에서 개정되었는데 이케다 재판장으로부터 1심판결과 같이 각 피고인들에게 언도하였다.  
 피고들의 범행사실은 재작년 12월 경에 그들은 향리인 아산에다 아산적색농민조합을 조직하고 작년1월경까지 수차에 긍한 비밀회합이 있게 되었다. 그 때마다 동무들에게 공산주의를 선전하며 차후 운동방침에 대하야 토의하게 되었으며 불경의 내용이 포함한 그림을 그려가지고 피고 이선준의 집 방벽에다 붙여놓는 등 이외에 민족주의 사상을 고취하야 여러 방면으로 동지를 획득하려고 노력하던 사건이라는데 피고인들에 대한 언도는 다음과 같다  
 이선준(25세) 징역2년  
@@ -216,7 +216,7 @@ http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_19_x0002_0870
 
 11. 관련 인물 - 한명식 (독립운동가 동지)    
 http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001  
->한명식(韓明植) 1917. 2. 13-1963. 7. 10    
+    >한명식(韓明植) 1917. 2. 13-1963. 7. 10    
 1932년 12월경부터 충남 아산에서 [이선준](http://search.i815.or.kr/Indeman/IndemanView.jsp?sT=3&tid=ma&set_id=66138&total_df=1&pos=0&query=S.ALL:%EC%9D%B4%EC%84%A0%EC%A4%80#)(李銑濬)과 일제의 압제에서 벗어나 독립하기 위해 청년들이 중심이 되어야 한다고 생각했다.   
 1934 년 1월 21일 및 3월 25일경 2회에 걸쳐 만주국 봉천성에 거주하는 배기동(裵奇童)에게 ‘조선을 독립시킬 용사가 되어 달라’는 취지의 편지를 발송했고, 여름에는 충남 예산농업학교 학생 김한태(金漢台)에게, ‘조선을 재건함은 우리들 청년의 책임이니 조선과 동포를 위해 노력하라’는 취지의 편지를 보냈다. 10월중, 예산농업학교 학생 신상철(申相澈)에게 ‘내선융화라든가 자력갱생 농촌진흥 등을 고창하는 반면 탄압정치는 매일 매일 신성한 조선을 일본 놈들에게 빼앗기고 가만히 있을 것인가. 크게 분기하여 조선독립의 용사가 되자’라는 내용의 편지를 보냈으며, 같은 달에 서울 휘문고등보통학교 학생 정헌갑(鄭憲甲)에게, ‘나날이 피폐해 가는 조선과 기아에 우는 동포를 위하여 우리들의 손으로 조선의 독립을 기도하자’라는 취지의 편지를 발송하였다. 또한 11월중에는 충남 아산 거주 조재선(趙載善)에게, ‘자력갱생 농촌진흥운동은 전부 가면정책에 불과하다. 이 감언에 속지 말고 조선독립을 위하여 크게 분기 하자’라는 내용의 편지를 보냈다.   
 1934년 12월에는 일왕의 권위를 부정하는 엽서 연하장 2매를 제작하여 일왕을 폄하하는 등 일제를 부정하는 활동을 하다가 1935년 2월경 홍성경찰서에 체포되었다.   
@@ -271,11 +271,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzQwMzMzOCwtMTc1MDM5MDYyMSwxMT
-IwMzA1NjUwLDkxOTMwNzEwNCwxMTQzNTc3MTEsLTY3NDU2NzAx
-MiwtMjQ0NzU4OTQsLTEyNTc4NzkxOTcsLTEzNTI1NzQ1MzEsMT
-M1Njg5NzQwOCwyMTQzNjA2Mjc3LDE1MzAzMzgyNTEsMjc2MTU4
-ODEsLTExODU5NDA3MiwtMTgwNjQxMzM0MywtMTM4MTk5MjYyNC
-wxNTA2MjgyNzk1LDE0MTY5OTgyMTcsMTM5NDA1MDA1MCw4MDc0
-MDIzNjZdfQ==
+eyJoaXN0b3J5IjpbLTgyNTU4MDA2LC0xNzUwMzkwNjIxLDExMj
+AzMDU2NTAsOTE5MzA3MTA0LDExNDM1NzcxMSwtNjc0NTY3MDEy
+LC0yNDQ3NTg5NCwtMTI1Nzg3OTE5NywtMTM1MjU3NDUzMSwxMz
+U2ODk3NDA4LDIxNDM2MDYyNzcsMTUzMDMzODI1MSwyNzYxNTg4
+MSwtMTE4NTk0MDcyLC0xODA2NDEzMzQzLC0xMzgxOTkyNjI0LD
+E1MDYyODI3OTUsMTQxNjk5ODIxNywxMzk0MDUwMDUwLDgwNzQw
+MjM2Nl19
 -->
