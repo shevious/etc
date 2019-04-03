@@ -33,6 +33,8 @@
     이선준 1933.08.07 2심 재판 판결문 열람 
     경성복심법원 CJA0000605(보안법20건,치안29건) CJA0000606(보안12건 치안법76건) CJA0000619(치안53건)
 
+
+
     이선준 1935.06.17 1심 재판 판결문 열람
     공주지법 CJA0001016(0건) CJA0001017(치안1건)
     공주지법 홍성지청 CJA0001056 CJA0001057(보안,치안 0건)
@@ -44,12 +46,17 @@
     1935년 (소화10년) 판결문 
     소화8년7춸8일 공주지방법원 보안법위반 죄로 징역1년에 처해짐
     소화9년 은사로 징역9월1일로 감형되어 출소
+
 조사해볼것
     
     CJA0000605 1933년 형사공소사건재판원본철(1-4) - 보안법위반 12건
     CJA0000606 1933년 형사공소재판원본 - 보안법위반 20건
     CJA0000619 1933년
     CJA0001012, CCJA0001013 1933년 공주지법
+
+
+[http://w3devlabs.net/korea/archives/tag/%EA%B5%AD%EB%82%B4%ED%95%AD%EC%9D%BC/page/26](http://w3devlabs.net/korea/archives/tag/%EA%B5%AD%EB%82%B4%ED%95%AD%EC%9D%BC/page/26)  
+
     
     
 성 명	
@@ -264,11 +271,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTAzOTA2MjEsMTEyMDMwNTY1MCw5MT
-kzMDcxMDQsMTE0MzU3NzExLC02NzQ1NjcwMTIsLTI0NDc1ODk0
-LC0xMjU3ODc5MTk3LC0xMzUyNTc0NTMxLDEzNTY4OTc0MDgsMj
-E0MzYwNjI3NywxNTMwMzM4MjUxLDI3NjE1ODgxLC0xMTg1OTQw
-NzIsLTE4MDY0MTMzNDMsLTEzODE5OTI2MjQsMTUwNjI4Mjc5NS
-wxNDE2OTk4MjE3LDEzOTQwNTAwNTAsODA3NDAyMzY2LC00MDcx
-MjQ1NDNdfQ==
+eyJoaXN0b3J5IjpbMTI1OTgyMzYyNiwtMTc1MDM5MDYyMSwxMT
+IwMzA1NjUwLDkxOTMwNzEwNCwxMTQzNTc3MTEsLTY3NDU2NzAx
+MiwtMjQ0NzU4OTQsLTEyNTc4NzkxOTcsLTEzNTI1NzQ1MzEsMT
+M1Njg5NzQwOCwyMTQzNjA2Mjc3LDE1MzAzMzgyNTEsMjc2MTU4
+ODEsLTExODU5NDA3MiwtMTgwNjQxMzM0MywtMTM4MTk5MjYyNC
+wxNTA2MjgyNzk1LDE0MTY5OTgyMTcsMTM5NDA1MDA1MCw4MDc0
+MDIzNjZdfQ==
 -->
