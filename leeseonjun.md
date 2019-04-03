@@ -220,7 +220,7 @@ http://e-gonghun.mpva.go.kr/user/ContribuReportDetail.do?goTocode=20001
 ·身分帳指紋原紙(警察廳)  
 ·東亞日報(1935. 9. 19)  
 ·朝鮮中央日報(1935. 9. 19)  
-·1935년 1월 乃至 10월 社會運動情勢(1935. 12) 思想彙報 제5호 58~59면  
+·1935년 1월 乃至 10월 社會運動情勢(1935. 12) 思想彙報 제5호 58-59면    
 ·忠淸南道下의 思想槪況 및 同道 論山·扶餘·靑陽·禮山과 唐津郡 各 思想善導機關의 活動狀況(1936. 11) 사상휘보 제9호 16~17면  
 ·日帝侵略下韓國36年史(國史編纂委員會) 제11권  
 ·독립운동사자료집(독립운동사편찬위원회) 제14집 264, 896~899면  
@@ -264,11 +264,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDMwNTY1MCw5MTkzMDcxMDQsMTE0Mz
-U3NzExLC02NzQ1NjcwMTIsLTI0NDc1ODk0LC0xMjU3ODc5MTk3
-LC0xMzUyNTc0NTMxLDEzNTY4OTc0MDgsMjE0MzYwNjI3NywxNT
-MwMzM4MjUxLDI3NjE1ODgxLC0xMTg1OTQwNzIsLTE4MDY0MTMz
-NDMsLTEzODE5OTI2MjQsMTUwNjI4Mjc5NSwxNDE2OTk4MjE3LD
-EzOTQwNTAwNTAsODA3NDAyMzY2LC00MDcxMjQ1NDMsLTkxNTU4
-ODg4NV19
+eyJoaXN0b3J5IjpbLTE3NTAzOTA2MjEsMTEyMDMwNTY1MCw5MT
+kzMDcxMDQsMTE0MzU3NzExLC02NzQ1NjcwMTIsLTI0NDc1ODk0
+LC0xMjU3ODc5MTk3LC0xMzUyNTc0NTMxLDEzNTY4OTc0MDgsMj
+E0MzYwNjI3NywxNTMwMzM4MjUxLDI3NjE1ODgxLC0xMTg1OTQw
+NzIsLTE4MDY0MTMzNDMsLTEzODE5OTI2MjQsMTUwNjI4Mjc5NS
+wxNDE2OTk4MjE3LDEzOTQwNTAwNTAsODA3NDAyMzY2LC00MDcx
+MjQ1NDNdfQ==
 -->
