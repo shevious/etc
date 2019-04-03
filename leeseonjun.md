@@ -78,6 +78,10 @@ http://db.history.go.kr/item/level.do?setId=1&itemId=su&synonym=off&chinessChar=
 http://lawqa.jinbo.net/xe/?document_srl=887302  
 http://lawqa.jinbo.net/xe/?mid=board403&document_srl=1192774  
 
+# 기타자료
+
+[http://daesan.or.kr/webzine_read.html?uid=2945&ho=67](http://daesan.or.kr/webzine_read.html?uid=2945&ho=67)  
+
 # 보훈 신청
 
 [https://www.mpva.go.kr/mpva/minwon/bohunconsult.do](https://www.mpva.go.kr/mpva/minwon/bohunconsult.do)  
@@ -271,11 +275,11 @@ http://db.history.go.kr/item/level.do?levelId=ma_023_0050_0060
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTU4MDA2LC0xNzUwMzkwNjIxLDExMj
-AzMDU2NTAsOTE5MzA3MTA0LDExNDM1NzcxMSwtNjc0NTY3MDEy
-LC0yNDQ3NTg5NCwtMTI1Nzg3OTE5NywtMTM1MjU3NDUzMSwxMz
-U2ODk3NDA4LDIxNDM2MDYyNzcsMTUzMDMzODI1MSwyNzYxNTg4
-MSwtMTE4NTk0MDcyLC0xODA2NDEzMzQzLC0xMzgxOTkyNjI0LD
-E1MDYyODI3OTUsMTQxNjk5ODIxNywxMzk0MDUwMDUwLDgwNzQw
-MjM2Nl19
+eyJoaXN0b3J5IjpbMTE2ODU1NjkzNCwtMTc1MDM5MDYyMSwxMT
+IwMzA1NjUwLDkxOTMwNzEwNCwxMTQzNTc3MTEsLTY3NDU2NzAx
+MiwtMjQ0NzU4OTQsLTEyNTc4NzkxOTcsLTEzNTI1NzQ1MzEsMT
+M1Njg5NzQwOCwyMTQzNjA2Mjc3LDE1MzAzMzgyNTEsMjc2MTU4
+ODEsLTExODU5NDA3MiwtMTgwNjQxMzM0MywtMTM4MTk5MjYyNC
+wxNTA2MjgyNzk1LDE0MTY5OTgyMTcsMTM5NDA1MDA1MCw4MDc0
+MDIzNjZdfQ==
 -->
