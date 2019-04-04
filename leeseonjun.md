@@ -214,12 +214,7 @@ http://db.history.go.kr/item/level.do?levelId=npjj_1935_09_12_x0002_0740
 일제침략하36년사 11권 p. 134  
 https://newslibrary.naver.com/viewer/index.nhn?articleId=1935091900209202018&edtNo=2&printCount=1&publishDate=1935-09-19&officeId=00020&pageNo=2&printNo=5317&publishType=00020  
 [http://db.history.go.kr/item/level.do?sort=levelId&dir=ASC&start=1&limit=20&page=1&pre_page=1&setId=-1&prevPage=0&prevLimit=&itemId=su&types=&synonym=off&chinessChar=on&brokerPagingInfo=&levelId=su_011_1935_09_17_0450&position=-1](http://db.history.go.kr/item/level.do?sort=levelId&dir=ASC&start=1&limit=20&page=1&pre_page=1&setId=-1&prevPage=0&prevLimit=&itemId=su&types=&synonym=off&chinessChar=on&brokerPagingInfo=&levelId=su_011_1935_09_17_0450&position=-1)  
-    > 아산적농사건  
-친지들에게 공산주의를 선전하는 한편으로 불경의 내용을 포함한 그림을 그렸다는 사실로 작년 11월 초순경에 공주지방법원에서 징역8개월의 언도를 받고 즉시 불복 공소한 충남 아산군 도고면 향산리에 사는 이선준 등 3명에 관한 치안유지법 위반과 불경죄 등에 관한 언도 공판은 17일 오후에 경성 복심법원 형사부 법정에서 개정되었는데 이케다 재판장으로부터 1심판결과 같이 각 피고인들에게 언도하였다.  
-피고들의 범행사실은 재작년 12월 경에 그들은 향리인 아산에다 아산적색농민조합을 조직하고 작년1월경까지 수차에 긍한 비밀회합이 있게 되었다. 그 때마다 동무들에게 공산주의를 선전하며 차후 운동방침에 대하야 토의하게 되었으며 불경의 내용이 포함한 그림을 그려가지고 피고 이선준의 집 방벽에다 붙여놓는 등 이외에 민족주의 사상을 고취하야 여러 방면으로 동지를 획득하려고 노력하던 사건이라는데 피고인들에 대한 언도는 다음과 같다  
-이선준(25세) 징역2년  
-한명식(19세) 징역1년  
-송창섭(21세) 징역8월  
+[](https://github.com/shevious/etc/blob/master/screenshots/maeil-19350919.png?raw=true)
 
     > 忠南 牙山에서 農民組合을 조직하여 思想活動을 하였다는 혐의로 체포되었던 李銑濬 등 3名에 대한 控訴公判이 京城覆審法院에서 개정되었는데 1審과 같이 李銑濬은 懲役2年, 韓明植은 懲役1年, 宋昌燮은 懲役8月이 言渡되다
 
@@ -283,11 +278,11 @@ http://search.i815.or.kr/Degae/DegaeEbook.jsp?bookid=060&pgnum=060159
 [국가보훈처 학술회의자료](https://www.mpva.go.kr/mpva/data/scholardataList.do)  
     > 1933년에는 아산에서 사회주의의 영향을 받아 저항하는 농민 중심의 비밀 결사를 조직하여 일본 제국주의에 대해 적극적으로 투쟁하는 혁명적 농민조합 이 조직되었다. 도고면 향산리를 중심으로 활동하던 이선준 등 3명은 1933년 12월 아산적색농민조합을 결성하여 활동하다가 1934년 1월 일제 경찰에 검거 되었다. 이선준은 아산군 도고면 경산리에서 아버지가 경영하던 한약상을 도우 면서 생활하다가 사회주의 계열의 농민조합운동에 참여하게 되었다. 그는 같은 마을에 사는 19세의 청년 한명식을 권유하여 조직에 가입하도록 하였다. 1917 년 아산 출신의 한명식은 지인들에게 일제의 정책을 비판하고 독립운동 참여를 독려하는 편지를 여러 편 발송하였다. 한명식은 1934년 1월 3월 두 차례에 걸 쳐 만주 봉천에 거주하는 친구 배기동에게 ‘조선을 독립시킬 용사가 되어 달라’ 는 편지를 보냈다. 1934년 여름에는 예산농업학교 학생 김한태에게 ‘조선을 재 건함은 우리 청년의 책임이니 조선과 동포를 위해 노력하라’는 편지를 보냈다. 10월에는 예산농업학교 학생 신상철에게 ‘내선융화니 자력갱생 농촌진흥 등을 크게 외치는데 반해 총독부의 탄압정치 하에서 신성한 조선은 일본 놈들에게 빼앗기고 있으니 가만 있을 수 있는가. 크게 분기하여 조선 독립의 용사가 되 자.’라는 편지를 보냈다. 같은 달 서울의 휘문고보에 재학 중인 정헌갑에게는 ‘나날이 피폐해 가는 조선과 기아에 우는 동포를 위하여 우리들의 손으로 조선 의 독립을 기도하자’라는 취지의 편지를 보냈다. 또 11월에는 아산 신창면 궁화 리에 거주하는 조재선에게 ‘자력갱생, 농촌진흥운동은 전부 가면정책에 불과하 다. 이 감언에 속지 말고 조선독립을 위하여 크게 분기하자.’라는 편지를 보냈 다. 1935년 1월에는 송창섭에게 ‘신성한 조선을 일본에 빼앗기고 가만히 있을 수 없으니 방방곡곡에서 조선 독립을 부르짖고 태극기를 휘날리는 제일선의 용 감한 투사가 되자.’는 편지를 보냈다. 특히 그는 일본 천황을 ‘조선 민족의 원수 이므로 존경할 필요가 없다.’고 하면서 일본 동경에 사는 히로히토가 엎드려서 충남 아산군 도고면 경산리에 사는 한명식 각하에게 보내는 연하장을 만드는 등 자주적 민족의식을 표현하였다. 이 사건으로 이선준은 징역 2년, 한명식은 징역 1년을 선고받았다.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTMzMjMwMSwtMjI2NzExMzM1LC00MT
-kxMTczMCwzMjYzNjU1NzUsMTE2ODU1NjkzNCwtMTc1MDM5MDYy
-MSwxMTIwMzA1NjUwLDkxOTMwNzEwNCwxMTQzNTc3MTEsLTY3ND
-U2NzAxMiwtMjQ0NzU4OTQsLTEyNTc4NzkxOTcsLTEzNTI1NzQ1
-MzEsMTM1Njg5NzQwOCwyMTQzNjA2Mjc3LDE1MzAzMzgyNTEsMj
-c2MTU4ODEsLTExODU5NDA3MiwtMTgwNjQxMzM0MywtMTM4MTk5
-MjYyNF19
+eyJoaXN0b3J5IjpbLTUyNDIyNDY1MywtNDQ1MzMyMzAxLC0yMj
+Y3MTEzMzUsLTQxOTExNzMwLDMyNjM2NTU3NSwxMTY4NTU2OTM0
+LC0xNzUwMzkwNjIxLDExMjAzMDU2NTAsOTE5MzA3MTA0LDExND
+M1NzcxMSwtNjc0NTY3MDEyLC0yNDQ3NTg5NCwtMTI1Nzg3OTE5
+NywtMTM1MjU3NDUzMSwxMzU2ODk3NDA4LDIxNDM2MDYyNzcsMT
+UzMDMzODI1MSwyNzYxNTg4MSwtMTE4NTk0MDcyLC0xODA2NDEz
+MzQzXX0=
 -->
