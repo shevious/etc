@@ -22,7 +22,12 @@ export PS1="\h:\W \u$ "
 
 windows 10 shutdown issue:  
 ["The virtual machine processor was reset by the operating system" notification appears upon attempt to shut down Windows 10 virtual machine](https://kb.parallels.com/124449)  
+
+## vagrant parallels provider
+
+https://parallels.github.io/vagrant-parallels/docs/configuration.html  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTc2Mjk1MSwxMDU3NzE3MzAwLDIwMT
-k2NTA4MzQsLTk0MjczMDI0Nl19
+eyJoaXN0b3J5IjpbLTE3NTYzNjE5MiwxNzIxNzYyOTUxLDEwNT
+c3MTczMDAsMjAxOTY1MDgzNCwtOTQyNzMwMjQ2XX0=
 -->
