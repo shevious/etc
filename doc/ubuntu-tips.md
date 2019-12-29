@@ -27,7 +27,21 @@ True
 ```bash
 sudo rm -rf /var/lib/apt/lists/*
 ```
+
+# X11
+
+
+
+```bash
+# for bento/ubuntu-18.04
+sudo apt-get install xbase-clients
+
+#check
+sudo apt-get install vim-gtk
+
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzYzODAwNywtMTAzNjQ2MjI0LC0xOD
-Y3Mzk0ODY2LDkwOTU3ODQ4NV19
+eyJoaXN0b3J5IjpbMTY3Njc1MTQ3NCwtOTU3NjM4MDA3LC0xMD
+M2NDYyMjQsLTE4NjczOTQ4NjYsOTA5NTc4NDg1XX0=
 -->
