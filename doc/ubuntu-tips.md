@@ -39,9 +39,12 @@ sudo apt-get install xbase-clients
 #check
 sudo apt-get install vim-gtk
 
+#firefox
+sudo apt-get install firefox
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3Njc1MTQ3NCwtOTU3NjM4MDA3LC0xMD
-M2NDYyMjQsLTE4NjczOTQ4NjYsOTA5NTc4NDg1XX0=
+eyJoaXN0b3J5IjpbLTEzMjc0NTgxNDksMTY3Njc1MTQ3NCwtOT
+U3NjM4MDA3LC0xMDM2NDYyMjQsLTE4NjczOTQ4NjYsOTA5NTc4
+NDg1XX0=
 -->
