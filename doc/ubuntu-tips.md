@@ -20,7 +20,14 @@ False
 $ faketty python -c "import sys; print sys.stdout.isatty()" | cat
 True
 ```
+
+
+## apt-get update hash mismatch
+
+```bash
+sudo rm -rf /var/lib/apt/lists/*
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY0NjIyNCwtMTg2NzM5NDg2Niw5MD
-k1Nzg0ODVdfQ==
+eyJoaXN0b3J5IjpbLTk1NzYzODAwNywtMTAzNjQ2MjI0LC0xOD
+Y3Mzk0ODY2LDkwOTU3ODQ4NV19
 -->
