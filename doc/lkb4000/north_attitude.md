@@ -68,7 +68,7 @@
 오늘도 전단의 눈발을 맞는 간구(懇求).  
 그 목마른 안존(安存) 위에  
 떨리는 자유여. 강하(江河)여.  
-서투른 병정이 가늠한 두개의 판도(版圖.  
+서투른 병정이 가늠한 두개의 판도(版圖).  
 검은 크레파스의 태양의, 꽃밭의,  
 싸늘한 시간 위에서  
 병정이여. 여기는  
@@ -93,5 +93,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQxMTU4MywtMTQwOTU4NjI0OF19
+eyJoaXN0b3J5IjpbMTM0OTc5NTY2MCwtMTQwOTU4NjI0OF19
 -->
