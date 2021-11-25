@@ -73,7 +73,7 @@
 싸늘한 시간 위에서  
 병정이여. 여기는  
 북위선 몇 도의 어둠 속인가.  
-눈이 내리는 찬 지경의  
+눈이 내리는 찬 지경(地境)의  
 북위선 몇 도의 사랑 밖인가.  
 
 * [1964년 한국일보 신춘문예 당선 시]
@@ -93,5 +93,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTc5NTY2MCwtMTQwOTU4NjI0OF19
+eyJoaXN0b3J5IjpbLTIxMTY2MzA2NTgsMTM0OTc5NTY2MCwtMT
+QwOTU4NjI0OF19
 -->
