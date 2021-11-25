@@ -9,7 +9,7 @@
 검은 크레파스의 꽃밭의 지도의  
 눈이 내리는 저녁 어귀에서  
 병정은 싸늘한 시간 위에 서 있다.  
-지금은 몇 도 선상인가.  
+지금은 몇 도 선상(線上)인가.  
 그리고 무수히 탄우가 내리던  
 그 달빛의 고지는 몇 도 부근이던가.  
 가슴에는 뜨거운 포도주,  
@@ -93,5 +93,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODc0NTc5MCwtMTQwOTU4NjI0OF19
+eyJoaXN0b3J5IjpbNTY0MDM3NDU3LC0xNDA5NTg2MjQ4XX0=
 -->
