@@ -61,11 +61,11 @@
 병정의 음악은 차게 흐른다.  
 허나 돌과 나무 어느 하나도  
 손금처럼 따습게 매만질 수 없는  
-빙점(氷點)의 북위선(北緯線).  
+빙점(氷點)의 북위선.  
 작고 파닥이는 소조(小鳥)의 가슴처럼  
 피가 사위는 대안(對岸)이여.  
 세계가 귀대이는 초소에서  
-오늘도 전단의 눈발을 맞는 간구(懇求).  
+오늘도 전단(傳單)의 눈발을 맞는 간구(懇求).  
 그 목마른 안존(安存) 위에  
 떨리는 자유여. 강하(江河)여.  
 서투른 병정이 가늠한 두개의 판도(版圖).  
@@ -93,6 +93,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTY2MzA2NTgsMTM0OTc5NTY2MCwtMT
-QwOTU4NjI0OF19
+eyJoaXN0b3J5IjpbLTE0NzU2Njc4NzEsLTIxMTY2MzA2NTgsMT
+M0OTc5NTY2MCwtMTQwOTU4NjI0OF19
 -->
