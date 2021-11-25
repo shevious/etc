@@ -1,4 +1,4 @@
-## mysql설정
+## mysql설정 
 ```
 create database loginapi;
 grant all privileges on loginapi.* to appuser@'%';
@@ -25,6 +25,6 @@ browse http://localhost:4000
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzkxNDkwNiwtMTA2MzE1NjU3NywtMT
-QzOTc5ODg4NSwzNTM5NDkzMTFdfQ==
+eyJoaXN0b3J5IjpbMTA2ODA2MTM3OCwtODA3OTE0OTA2LC0xMD
+YzMTU2NTc3LC0xNDM5Nzk4ODg1LDM1Mzk0OTMxMV19
 -->
